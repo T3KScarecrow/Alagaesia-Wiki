@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Alagaesia/Cities/City Of Tears.md",
+                "file": "Alagaesia/Factions/The Vulgomage.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Alagaesia/Cities/City Of Tears.md",
+                "file": "Alagaesia/Factions/The Vulgomage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Alagaesia/Cities/City Of Tears.md",
+                "file": "Alagaesia/Factions/The Vulgomage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Alagaesia/Cities/City Of Tears.md"
+                "file": "Alagaesia/Factions/The Vulgomage.md"
               }
             }
           },
@@ -183,11 +183,14 @@
   },
   "active": "03743fe24b8253ac",
   "lastOpenFiles": [
+    "Alagaesia/Worldmap1.png",
+    "Alagaesia/Cities/Tronjheim.md",
+    "Alagaesia/Cities/Ironhenge.md",
+    "Alagaesia/Cities/City Of Tears.md",
     "Alagaesia/Factions/The Stoners.md",
     "Alagaesia/Important People/Tesler.md",
     "Alagaesia/Important People/Pavel.md",
     "Alagaesia/Factions/The Enlightened.md",
-    "Alagaesia/Cities/Tronjheim.md",
     "Concepts/Ideas.md",
     "Alagaesia/Important People/Natalie Porter.md",
     "Alagaesia/Important People/Wiate Wight.md",

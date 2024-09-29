@@ -150,7 +150,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,7 +167,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1dfd01d38e1d9f07",
+  "active": "03743fe24b8253ac",
   "lastOpenFiles": [
     "Alagaesia/Important People/Tim Bop'McGee.md",
     "Alagaesia/Cities/City Of Tears.md",

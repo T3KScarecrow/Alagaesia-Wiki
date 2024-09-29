@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/Ideas.md",
+                "file": "Alagaesia/Factions/The Stoners.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Concepts/Ideas.md",
+                "file": "Alagaesia/Factions/The Stoners.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Concepts/Ideas.md",
+                "file": "Alagaesia/Factions/The Stoners.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Concepts/Ideas.md"
+                "file": "Alagaesia/Factions/The Stoners.md"
               }
             }
           },
@@ -183,11 +183,14 @@
   },
   "active": "03743fe24b8253ac",
   "lastOpenFiles": [
+    "Alagaesia/Important People/Tesler.md",
+    "Alagaesia/Important People/Pavel.md",
+    "Alagaesia/Factions/The Enlightened.md",
+    "Alagaesia/Cities/Tronjheim.md",
+    "Concepts/Ideas.md",
     "Alagaesia/Important People/Natalie Porter.md",
     "Alagaesia/Important People/Wiate Wight.md",
     "Alagaesia/Important People/Tim Bop'McGee.md",
-    "Alagaesia/Important People/Tesler.md",
-    "Alagaesia/Important People/Pavel.md",
     "Alagaesia/Readme.md",
     "Alagaesia/Important People/CLU.md",
     "Alagaesia/Suggestions.md",
@@ -201,10 +204,7 @@
     "Alagaesia/Cities/Argon City.md",
     "Alagaesia/Cities/Horizons Edge.md",
     "Alagaesia/Cities/Svatlheim.md",
-    "Alagaesia/Factions/The Enlightened.md",
-    "Alagaesia/Cities/Tronjheim.md",
     "Alagaesia/Factions/The Stoners.md",
-    "Concepts/Ideas.md",
     "Untitled.md",
     "Alagaesia/Cities/Gilead.md"
   ]

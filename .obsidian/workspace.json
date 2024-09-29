@@ -78,6 +78,7 @@
       {
         "id": "fae5c4bd789f9279",
         "type": "tabs",
+        "dimension": 23.14814814814815,
         "children": [
           {
             "id": "301d6a9a5810d5b3",
@@ -146,11 +147,25 @@
             }
           }
         ]
+      },
+      {
+        "id": "62ee94a2dd509a62",
+        "type": "tabs",
+        "dimension": 76.85185185185185,
+        "children": [
+          {
+            "id": "9fffd5de7815e6f7",
+            "type": "leaf",
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 401.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,7 +181,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "03743fe24b8253ac",
+  "active": "9fffd5de7815e6f7",
   "lastOpenFiles": [
     "Alagaesia/Cities/Evernmere.md",
     "Alagaesia/Cities/Argon City.md",

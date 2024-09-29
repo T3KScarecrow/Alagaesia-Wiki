@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Alagaesia/Cities/Horizons Edge.md",
+                "file": "Concepts/Ideas.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Alagaesia/Cities/Horizons Edge.md",
+                "file": "Concepts/Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Alagaesia/Cities/Horizons Edge.md",
+                "file": "Concepts/Ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Alagaesia/Cities/Horizons Edge.md"
+                "file": "Concepts/Ideas.md"
               }
             }
           },
@@ -168,6 +168,7 @@
   },
   "active": "03743fe24b8253ac",
   "lastOpenFiles": [
+    "Alagaesia/Cities/Horizons Edge.md",
     "Concepts/Ideas.md",
     "Welcome.md",
     "Untitled.md",

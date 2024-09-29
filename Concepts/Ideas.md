@@ -30,5 +30,5 @@
 Player Stuff
 - Tim Bop McGee is aspiring musician, but is feeling out the world. Born to a mixed elf-human family of herb merchants. His elf relatives left Du Weldenvarden to pursue herbalism in the world outside the forest, where they accidentally started to turn quite a profit due to their high quality herbs. This psuedo-wealth led to them being granted nobility.
 - Natalie Porter is an amateur soldier, forced to leave __ due to defamation.
-- Artificer Warforged Terminator. Woke up in a ditch one day with no memories but felt drawn to the mysteries of the Ancients.
-- WIaTE  (Weaponized Intelligence and Tactical Entity) Wight
+- Artificer. Woke up in a ditch one day with no memories but felt drawn to the mysteries of the Ancients.
+- WIaTE Wight

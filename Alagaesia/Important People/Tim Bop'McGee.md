@@ -1,0 +1,1 @@
+Tim Bop McGee is aspiring musician, but is feeling out the world. Born to a mixed elf-human family of herb merchants. His elf relatives left Du Weldenvarden to pursue herbalism in the world outside the forest, where they accidentally started to turn quite a profit due to their high quality herbs. This psuedo-wealth led to them being granted nobility.

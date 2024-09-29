@@ -1,0 +1,36 @@
+- Human
+- Elves
+- Centaurs
+- Drow
+- Dryiad
+- Dwarves
+- Dragonborn
+- Triton
+- Forebearers
+- Goblins
+- Teiflings
+- Orcs
+- Haflings
+- Nephilims
+- Ghostborne
+- Cat One
+-----------------------------------------------------------------------
+Nonintelligent Races
+- Beholders
+- Basilisks
+- Hippogryphs
+- Banshees
+- Chimeras
+- Undead
+- Doppelgangers
+- Hydras
+- Falsehydras
+- Golems
+- Harpies
+- Sirens
+- Mimics
+- Ooze
+- Skeletons
+- Skinwalkers
+- Vampires
+- Demogorgons

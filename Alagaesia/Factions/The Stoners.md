@@ -1,0 +1,1 @@
+The Stoners are a faction largely comprised of dwarves, who interact only lightly with the arcane, preferring the physicality of hard labour.

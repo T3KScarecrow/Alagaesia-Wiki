@@ -1,0 +1,1 @@
+The Vulgomage are those of the majority populous who don't fit into any other faction. They are divided in their ideologies to do with magic, but united in their pursuit of individual freedom. 

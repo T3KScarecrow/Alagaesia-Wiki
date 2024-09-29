@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Alagaesia/Suggestions.md",
+                "file": "Concepts/Ideas2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Alagaesia/Suggestions.md",
+                "file": "Concepts/Ideas2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Alagaesia/Suggestions.md",
+                "file": "Concepts/Ideas2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Alagaesia/Suggestions.md"
+                "file": "Concepts/Ideas2.md"
               }
             }
           },
@@ -168,6 +168,7 @@
   },
   "active": "03743fe24b8253ac",
   "lastOpenFiles": [
+    "Alagaesia/Suggestions.md",
     "Alagaesia/Cities/Deepnest.md",
     "Alagaesia/Cities/Vaer Quethal.md",
     "Alagaesia/Cities/Tronjheim.md",
@@ -179,13 +180,12 @@
     "Alagaesia/Important People/Tesler.md",
     "Alagaesia/Important People/Pavel.md",
     "Alagaesia/Factions/The Enlightened.md",
-    "Concepts/Ideas.md",
+    "Concepts/Ideas2.md",
     "Alagaesia/Important People/Natalie Porter.md",
     "Alagaesia/Important People/Wiate Wight.md",
     "Alagaesia/Important People/Tim Bop'McGee.md",
     "Alagaesia/Readme.md",
     "Alagaesia/Important People/CLU.md",
-    "Alagaesia/Suggestions.md",
     "Alagaesia/Myths & Legends/The Bagman.md",
     "Welcome.md",
     "Alagaesia/Myths & Legends/The Menoa Tree.md",

@@ -1,1 +1,21 @@
-Dwarves
+Deepnest, once the proud heart of dwarven society, was a sprawling underground metropolis located deep beneath the Ironspine Mountains. Long before the discovery of the great cavern that would become home to Tronjheim, Deepnest stood as the pinnacle of dwarven achievement, both in terms of craftsmanship and the strength of its people. 
+
+### Deepnest Before Tronjheim
+
+At its height, Deepnest was a marvel of dwarven engineering. The city was built into a series of naturally occurring caverns that had been expanded and reinforced by dwarven architects. The grand Hall of Echoes, the city's central cavern, was a breath-taking sight. It was vast, with towering columns hewn directly from the surrounding rock, each one etched with the intricate carvings of dwarven history. These carvings depicted everything from the early migrations of the dwarves to their first encounters with the elves and humans, chronicling millennia of their proud heritage. The columns reached toward the cavern’s high ceiling, which was studded with glowing crystal formations that cast a soft, amber light across the city.
+
+In its prime, Deepnest was divided into several districts:
+- The Forge District, where the greatest dwarven smiths worked tirelessly to create weapons, armor, and tools of unparalleled quality. The entire district hummed with the sound of hammers striking metal, and the forges, powered by subterranean magma flows, never grew cold. Here, the finest mithril and enchanted steel in the world were forged.
+- The Guild Halls, where the master artisans, engineers, and miners convened to share techniques, knowledge, and trade secrets. The halls were a place of learning, where even the youngest dwarves were taught the skills of their ancestors.
+- The Royal District, situated on the uppermost levels of the city, housed the royal family and the most powerful dwarven clans. The Throne of Stone, carved from a single massive slab of onyx, was the seat of power in Deepnest, where kings and queens ruled wisely over their people.
+- The Deep Roads, tunnels that extended far beyond the city, were used for trade and exploration. They connected Deepnest to other dwarven settlements, and some roads even led to the surface, though they were hidden from outsiders.
+
+Deepnest was not only a hub of industry but also a place of great cultural significance. The dwarves held festivals in the Hall of Songs, where their rich history was recited in booming voices accompanied by drums and stringed instruments. The city had a sense of permanence, a feeling that it had stood and would continue to stand for eons, as solid and unchanging as the mountains themselves.
+
+### The Shift to Tronjheim
+
+All of this changed with the discovery of the vast cavern that would eventually house Tronjheim. This natural marvel, with its massive open space and rich deposits of precious minerals, drew the attention of the dwarves. The prospect of building a new city that could match or even surpass Deepnest was irresistible. Soon, many of the city's best craftsmen and workers were dispatched to begin construction on Tronjheim, and over time, the allure of this new city pulled more and more dwarves away from Deepnest.
+
+Though Deepnest was never abandoned, it gradually fell out of prominence. As Tronjheim rose to become the centre of dwarven society, Deepnest remained, a proud city still filled with life, but no longer the heart of the dwarven realm. The Dwarven Royal Family, once seated in Deepnest’s Throne of Stone, moved to Tronjheim’s glittering halls, and many of the great guilds followed. Deepnest became a place of tradition and history, visited by those who wished to remember their origins, but the energy and innovation that had once defined it now lived in Tronjheim.
+
+Today, Deepnest endures as a stronghold of ancient dwarven pride. Its streets and halls are still walked by many, though quieter than they once were, and its forges, though fewer in number, still burn with the same intense heat. It remains a sacred place for the dwarves, a symbol of where they came from and a reminder of the ingenuity that built their kingdom.

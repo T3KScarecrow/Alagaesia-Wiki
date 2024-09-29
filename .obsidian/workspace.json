@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Alagaesia/Myths & Legends/The Bagman.md",
+                "file": "Alagaesia/Suggestions.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Alagaesia/Myths & Legends/The Bagman.md",
+                "file": "Alagaesia/Suggestions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Alagaesia/Myths & Legends/The Bagman.md",
+                "file": "Alagaesia/Suggestions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Alagaesia/Myths & Legends/The Bagman.md"
+                "file": "Alagaesia/Suggestions.md"
               }
             }
           },
@@ -184,10 +184,11 @@
   "active": "03743fe24b8253ac",
   "lastOpenFiles": [
     "Alagaesia/Readme.md",
+    "Alagaesia/Suggestions.md",
+    "Alagaesia/Myths & Legends/The Bagman.md",
     "Welcome.md",
     "Alagaesia/Myths & Legends/The Menoa Tree.md",
     "Alagaesia/Myths & Legends/Gods",
-    "Alagaesia/Myths & Legends/The Bagman.md",
     "Alagaesia/Important People/Tim Bop'McGee.md",
     "Alagaesia/Myths & Legends",
     "Alagaesia/Cities/Pergos.md",

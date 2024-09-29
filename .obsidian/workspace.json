@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Alagaesia/Important People/Tim Bop'McGee.md",
+                "file": "Alagaesia/Cities/Pergos.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Alagaesia/Important People/Tim Bop'McGee.md",
+                "file": "Alagaesia/Cities/Pergos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Alagaesia/Important People/Tim Bop'McGee.md",
+                "file": "Alagaesia/Cities/Pergos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Alagaesia/Important People/Tim Bop'McGee.md"
+                "file": "Alagaesia/Cities/Pergos.md"
               }
             }
           },
@@ -168,12 +168,17 @@
   },
   "active": "03743fe24b8253ac",
   "lastOpenFiles": [
-    "Concepts/Ideas.md",
-    "Alagaesia/Important People/Tim Bop'McGee.md",
+    "Alagaesia/Cities/Evernmere.md",
+    "Alagaesia/Cities/Argon City.md",
     "Alagaesia/Cities/Horizons Edge.md",
+    "Alagaesia/Cities/Svatlheim.md",
+    "Alagaesia/Factions/The Enlightened.md",
+    "Alagaesia/Cities/Tronjheim.md",
+    "Alagaesia/Factions/The Stoners.md",
+    "Alagaesia/Important People/Tim Bop'McGee.md",
+    "Concepts/Ideas.md",
     "Welcome.md",
     "Untitled.md",
-    "Alagaesia/Cities/Argon City.md",
     "Alagaesia/Cities/Gilead.md"
   ]
 }

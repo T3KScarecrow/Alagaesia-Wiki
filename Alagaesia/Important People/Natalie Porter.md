@@ -1,0 +1,1 @@
+From Hargraven. Raised by father. Mum died 5 days before 4th birthday.

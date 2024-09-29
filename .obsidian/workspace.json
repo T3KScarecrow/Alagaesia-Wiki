@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Alagaesia/Cities/Horizons Edge.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Alagaesia/Cities/Horizons Edge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Alagaesia/Cities/Horizons Edge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Alagaesia/Cities/Horizons Edge.md"
               }
             }
           },
@@ -166,8 +166,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "333464d61203671c",
+  "active": "03743fe24b8253ac",
   "lastOpenFiles": [
+    "Concepts/Ideas.md",
     "Welcome.md",
     "Untitled.md",
     "Alagaesia/Cities/Argon City.md",

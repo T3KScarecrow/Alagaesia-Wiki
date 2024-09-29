@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Alagaesia/Important People/Tim Bop'McGee.md",
+                "file": "Alagaesia/Important People/Natalie Porter.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Alagaesia/Important People/Tim Bop'McGee.md",
+                "file": "Alagaesia/Important People/Natalie Porter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Alagaesia/Important People/Tim Bop'McGee.md",
+                "file": "Alagaesia/Important People/Natalie Porter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Alagaesia/Important People/Tim Bop'McGee.md"
+                "file": "Alagaesia/Important People/Natalie Porter.md"
               }
             }
           },
@@ -145,12 +145,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,14 +166,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "03743fe24b8253ac",
+  "active": "1dfd01d38e1d9f07",
   "lastOpenFiles": [
+    "Alagaesia/Important People/Tim Bop'McGee.md",
     "Alagaesia/Cities/City Of Tears.md",
     "Alagaesia/Cities/Argon City.md",
     "Alagaesia/Cities/Evernmere.md",
     "Alagaesia/Cities/Gilead.md",
     "Alagaesia/Important People/Natalie Porter.md",
-    "Alagaesia/Important People/Tim Bop'McGee.md",
     "Alagaesia/Important People/Wiate Wight.md",
     "Alagaesia/Factions/The Vulgomage.md",
     "Alagaesia/Suggestions.md",

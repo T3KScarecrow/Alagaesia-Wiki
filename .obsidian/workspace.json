@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Alagaesia/Cities/Pergos.md",
+                "file": "Alagaesia/Important People/Tim Bop'McGee.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Alagaesia/Cities/Pergos.md",
+                "file": "Alagaesia/Important People/Tim Bop'McGee.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Alagaesia/Cities/Pergos.md",
+                "file": "Alagaesia/Important People/Tim Bop'McGee.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Alagaesia/Cities/Pergos.md"
+                "file": "Alagaesia/Important People/Tim Bop'McGee.md"
               }
             }
           },
@@ -181,8 +181,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9fffd5de7815e6f7",
+  "active": "03743fe24b8253ac",
   "lastOpenFiles": [
+    "Alagaesia/Cities/Pergos.md",
     "Alagaesia/Cities/Evernmere.md",
     "Alagaesia/Cities/Argon City.md",
     "Alagaesia/Cities/Horizons Edge.md",

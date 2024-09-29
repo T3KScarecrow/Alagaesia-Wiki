@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Alagaesia/Factions/The Vulgomage.md",
+                "file": "Alagaesia/Cities/Tronjheim.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,6 @@
       {
         "id": "fae5c4bd789f9279",
         "type": "tabs",
-        "dimension": 23.14814814814815,
         "children": [
           {
             "id": "301d6a9a5810d5b3",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Alagaesia/Factions/The Vulgomage.md",
+                "file": "Alagaesia/Cities/Tronjheim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Alagaesia/Factions/The Vulgomage.md",
+                "file": "Alagaesia/Cities/Tronjheim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Alagaesia/Factions/The Vulgomage.md"
+                "file": "Alagaesia/Cities/Tronjheim.md"
               }
             }
           },
@@ -147,25 +146,11 @@
             }
           }
         ]
-      },
-      {
-        "id": "62ee94a2dd509a62",
-        "type": "tabs",
-        "dimension": 76.85185185185185,
-        "children": [
-          {
-            "id": "9fffd5de7815e6f7",
-            "type": "leaf",
-            "state": {
-              "type": "fantasy-statblocks-creature-pane",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 401.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,11 +168,12 @@
   },
   "active": "03743fe24b8253ac",
   "lastOpenFiles": [
+    "Alagaesia/Factions/The Stoners.md",
+    "Alagaesia/Factions/The Vulgomage.md",
     "Alagaesia/Worldmap1.png",
     "Alagaesia/Cities/Tronjheim.md",
     "Alagaesia/Cities/Ironhenge.md",
     "Alagaesia/Cities/City Of Tears.md",
-    "Alagaesia/Factions/The Stoners.md",
     "Alagaesia/Important People/Tesler.md",
     "Alagaesia/Important People/Pavel.md",
     "Alagaesia/Factions/The Enlightened.md",

@@ -1,0 +1,34 @@
+- Gods; might interact directly.
+- Archaeology stuff
+- Idea #1 (HTTYD)
+- BBEG
+- Elves live in secluded forest. (lego elves)
+- Some kind of faction of artificers
+- Idea #2 (Daniel)
+- Don't like dragons
+- Magic Items (Funny)
+- Myths
+- Idea #3 (Heads)
+- Dungeon basedish
+- Religious Faction
+- Fine Arts Guild
+- Courier Guild (The Amazonians)
+- Artificer Faction, with sky something
+- Thieves Guild
+- Nature Faction
+- Idea #4 (Bek)
+- Idea #5 (Alan Bradley)
+- Idea #6 (Perfect System)
+- Idea #7 (Golf)
+- Idea #8 (Mumra)
+- Idea #9 (Chima)
+- Idea #10 (Long Before Time)
+- Idea #11 (When I understood the weakness of my flesh it disgusted me)
+- Undead area - THe under Ground (how are your ballz?)
+- Idea #12 (Azmuth)
+
+Player Stuff
+- Tim Bop McGee is aspiring musician, but is feeling out the world. Born to a mixed elf-human family of herb merchants. His elf relatives left Du Weldenvarden to pursue herbalism in the world outside the forest, where they accidentally started to turn quite a profit due to their high quality herbs. This psuedo-wealth led to them being granted nobility.
+- Natalie Porter is an amateur soldier, forced to leave __ due to defamation.
+- Artificer Warforged Terminator. Woke up in a ditch one day with no memories but felt drawn to the mysteries of the Ancients.
+- WIaTE  (Weaponized Intelligence and Tactical Entity) Wight

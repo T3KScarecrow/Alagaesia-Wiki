@@ -1,0 +1,34 @@
+Vaer Quethal, once a grand and secretive subterranean city of the Forebearers, is now a haunting ruin buried deep within the earth. Before the Fall, it was a hidden marvel, its purpose and existence unknown to most of the surface world. The Forebearers had constructed this city to carry out their most ambitious magical and artificer experiments in seclusion, free from the watchful eyes of other races and even their own kin.
+
+### **Vaer Quethal Before the Fall**
+
+Before the Fall, Vaer Quethal was a labyrinthine city of unimaginable beauty and complexity, carved into the very bedrock of the world. Its heart lay in a massive underground cavern illuminated by ethereal light, radiating from the Arcane Crystals embedded in the walls and ceiling. These crystals not only provided a soft, otherworldly glow that bathed the city in hues of blues, purples, and silvers but also acted as conduits for the city's vast magical energy. 
+
+At the city's center stood the Crown Spire, a towering structure built from smooth obsidian and engraved with intricate runes. It was the pinnacle of Forebearer artificer knowledge, housing laboratories, libraries, and forges where their greatest inventions were created. The spire stretched high into the cavern, almost as if it were trying to pierce through the earth to the surface above. From this spire, magical energy pulsed like a heartbeat, fueling the entire city.
+
+Vaer Quethal was divided into five distinct districts, each one dedicated to a different aspect of Forebearer mastery:
+1. The Golemworks: Where mechanical constructs, golems, and war machines were created. This district was filled with massive forges, powered by rivers of molten stone that flowed through the heart of the city.
+2. The Astralarium: A district dedicated to the study of the stars and celestial magic. Here, immense telescopes, star charts, and observatories were built, where the Forebearers attempted to harness the power of the cosmos.
+3. The Forge of Souls: The most secretive of the districts, this area was said to house dark experiments on life and soul-binding. Here, the Forebearers sought to extend life, merge souls with constructs, and even breach the boundary between life and death.
+4. The Enclave of Wards: A vast library district where powerful wards and arcane shields were crafted. The walls were covered in glowing sigils, and the very air crackled with protective energy, making this district the most secure in the city.
+5. The Crystalline Bazaar: A marketplace where only the elite Forebearers traded in rare magical artifacts, enchanted metals, and impossible constructs. Here, artificers from across the underground world came to acquire knowledge and materials that could not be found anywhere else.
+
+The city was a hub of creativity, knowledge, and magical innovation, its inhabitants living in harmony with their creations. Every street hummed with magical energy, and arcane constructs roamed the streets, serving their creators with mechanical precision. The city was alive, not just with its people, but with the constant movement of gears, the pulse of magic, and the whisper of ancient power.
+
+### **Vaer Quethal After the Fall**
+
+Now, Vaer Quethal is a crumbling ruin, a tomb for the lost Forebearers, abandoned and forgotten beneath the earth. The once bright Arcane Crystals that illuminated the cavern have dimmed, casting only faint, ghostly light that flickers as though it might die at any moment. The magical energy that once pulsed through the city is now erratic, crackling through the ruins unpredictably, causing dangerous surges of unstable power.
+
+The Crown Spire still stands at the city's centre, but its obsidian walls are cracked and weathered. The runes that once glowed with arcane might now flicker weakly, their power greatly diminished. The spire is now a hollow shell of its former glory, its laboratories and forges long since looted or fallen into disrepair. Strange, arcane energy still lingers here, making the very air in the spire heavy and dangerous, a reminder of the power that once flowed through its walls.
+
+The Golemworks have fallen silent, its massive forges cold for centuries. The golems that once patrolled the city now lie broken and rusted, their once-perfect mechanisms now clogged with dust and decay. Some of these constructs still occasionally twitch to life, wandering aimlessly through the ruins as their ancient programming stirs in fits of broken memory. 
+
+The Astralarium has collapsed, its once-great observatories now filled with rubble. The telescopes have been shattered, and the star charts are little more than dust. This part of the city is eerily quiet, as if even the stars themselves have abandoned it. The once meticulously recorded cosmic energies that flowed through the city are now warped, creating dangerous magical rifts that occasionally open to unknown realms.
+
+The Forge of Souls is the most unsettling of the ruined districts. Strange and grotesque remnants of experiments linger here—twisted constructs of flesh and metal, long since dead but frozen in moments of agonized animation. The air in this district is thick with a palpable sense of dread, and the very walls seem to pulse faintly, as though alive with some lingering consciousness. It is said that the souls of the Forebearers who conducted these experiments are trapped here, bound forever to the remnants of their dark work.
+
+The Enclave of Wards, once the most secure part of the city, has now become the most treacherous. The powerful wards have weakened, but they are still active in fragmented ways, creating erratic pockets of magical force that can disintegrate, teleport, or trap intruders without warning. The sigils on the walls are cracked and broken, leaking dangerous magical energy that warps the very fabric of reality around it. Few who enter this district leave unscathed.
+
+The Crystalline Bazaar, once a place of grandeur and wealth, is now nothing but a hollowed-out market where the shadows of its former inhabitants seem to wander, faint echoes of the past. The stalls are long abandoned, their enchanted wares either stolen or decayed into dust. Only the faint hum of unstable magical artifacts can still be heard, casting an eerie atmosphere over the broken market.
+
+Now, Vaer Quethal is a cursed ruin, a dangerous and forbidden place that few dare to explore. Those who venture too deep into its tunnels risk being lost forever, claimed by the broken magic that still lingers there, or by the twisted remnants of the Forebearers' most terrible creations. But for those brave enough to explore its depths, Vaer Quethal holds unimaginable secrets—artifacts of immense power, ancient knowledge of magic long forgotten, and perhaps even the key to understanding the mysterious Fall of the Forebearers.

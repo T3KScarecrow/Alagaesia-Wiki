@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Alagaesia/Cities/Tronjheim.md",
+                "file": "Alagaesia/Cities/Vaer Quethal.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Alagaesia/Cities/Tronjheim.md",
+                "file": "Alagaesia/Cities/Vaer Quethal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Alagaesia/Cities/Tronjheim.md",
+                "file": "Alagaesia/Cities/Vaer Quethal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Alagaesia/Cities/Tronjheim.md"
+                "file": "Alagaesia/Cities/Vaer Quethal.md"
               }
             }
           },
@@ -168,10 +168,12 @@
   },
   "active": "03743fe24b8253ac",
   "lastOpenFiles": [
+    "Alagaesia/Cities/Deepnest.md",
+    "Alagaesia/Cities/Vaer Quethal.md",
+    "Alagaesia/Cities/Tronjheim.md",
     "Alagaesia/Factions/The Stoners.md",
     "Alagaesia/Factions/The Vulgomage.md",
     "Alagaesia/Worldmap1.png",
-    "Alagaesia/Cities/Tronjheim.md",
     "Alagaesia/Cities/Ironhenge.md",
     "Alagaesia/Cities/City Of Tears.md",
     "Alagaesia/Important People/Tesler.md",
@@ -194,7 +196,6 @@
     "Alagaesia/Cities/Argon City.md",
     "Alagaesia/Cities/Horizons Edge.md",
     "Alagaesia/Cities/Svatlheim.md",
-    "Untitled.md",
-    "Alagaesia/Cities/Gilead.md"
+    "Untitled.md"
   ]
 }

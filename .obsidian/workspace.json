@@ -11,11 +11,9 @@
             "id": "03743fe24b8253ac",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Alagaesia/Factions/The Vulgomage.md",
-                "mode": "source",
-                "source": false
+                "file": "Alagaesia/Worldmap1.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Alagaesia/Factions/The Vulgomage.md",
+                "file": "Alagaesia/Worldmap1.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Alagaesia/Factions/The Vulgomage.md",
+                "file": "Alagaesia/Worldmap1.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Alagaesia/Factions/The Vulgomage.md"
+                "file": "Alagaesia/Worldmap1.png"
               }
             }
           },
@@ -170,8 +168,9 @@
   },
   "active": "03743fe24b8253ac",
   "lastOpenFiles": [
-    "Alagaesia/Cities/Caelora.md",
+    "Alagaesia/Important People/Lord Tyrannus.md",
     "Alagaesia/Factions/The Vulgomage.md",
+    "Alagaesia/Cities/Caelora.md",
     "Alagaesia/Cities/Ostholme.md",
     "Alagaesia/Cities/Thalassara.md",
     "Alagaesia/Cities/Horizons Edge.md",
@@ -196,7 +195,6 @@
     "Concepts/Ideas2.md",
     "Alagaesia/Important People/Tim Bop'McGee.md",
     "conflict-files-obsidian-git.md",
-    "Alagaesia/Cities/City Of Tears.md",
     "Alagaesia/Myths & Legends/Gods",
     "Alagaesia/Myths & Legends"
   ]

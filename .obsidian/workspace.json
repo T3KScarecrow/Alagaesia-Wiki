@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/Ideas2.md",
+                "file": "Alagaesia/Factions/The Vulgomage.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Concepts/Ideas2.md",
+                "file": "Alagaesia/Factions/The Vulgomage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Concepts/Ideas2.md",
+                "file": "Alagaesia/Factions/The Vulgomage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Concepts/Ideas2.md"
+                "file": "Alagaesia/Factions/The Vulgomage.md"
               }
             }
           },
@@ -168,19 +168,20 @@
   },
   "active": "03743fe24b8253ac",
   "lastOpenFiles": [
-    "Alagaesia/Suggestions.md",
-    "Alagaesia/Cities/Deepnest.md",
     "Alagaesia/Cities/Vaer Quethal.md",
     "Alagaesia/Cities/Tronjheim.md",
+    "Alagaesia/Cities/Deepnest.md",
+    "Alagaesia/Cities/City Of Tears.md",
+    "Alagaesia/Cities/Gilead.md",
+    "Concepts/Ideas2.md",
+    "Alagaesia/Suggestions.md",
     "Alagaesia/Factions/The Stoners.md",
     "Alagaesia/Factions/The Vulgomage.md",
     "Alagaesia/Worldmap1.png",
     "Alagaesia/Cities/Ironhenge.md",
-    "Alagaesia/Cities/City Of Tears.md",
     "Alagaesia/Important People/Tesler.md",
     "Alagaesia/Important People/Pavel.md",
     "Alagaesia/Factions/The Enlightened.md",
-    "Concepts/Ideas2.md",
     "Alagaesia/Important People/Natalie Porter.md",
     "Alagaesia/Important People/Wiate Wight.md",
     "Alagaesia/Important People/Tim Bop'McGee.md",
@@ -195,7 +196,6 @@
     "Alagaesia/Cities/Evernmere.md",
     "Alagaesia/Cities/Argon City.md",
     "Alagaesia/Cities/Horizons Edge.md",
-    "Alagaesia/Cities/Svatlheim.md",
-    "Untitled.md"
+    "Alagaesia/Cities/Svatlheim.md"
   ]
 }

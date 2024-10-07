@@ -1,0 +1,1 @@
+Pholtus is the god of light, truth, and fairness, but also divine judgement.

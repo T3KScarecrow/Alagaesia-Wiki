@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Alagaesia/Myths & Legends/Gods/Untitled.md",
+                "file": "Alagaesia/Myths & Legends/Gods/Kiri-Jolith.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Alagaesia/Myths & Legends/Gods/Untitled.md",
+                "file": "Alagaesia/Myths & Legends/Gods/Kiri-Jolith.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Alagaesia/Myths & Legends/Gods/Untitled.md",
+                "file": "Alagaesia/Myths & Legends/Gods/Kiri-Jolith.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Alagaesia/Myths & Legends/Gods/Untitled.md"
+                "file": "Alagaesia/Myths & Legends/Gods/Kiri-Jolith.md"
               }
             }
           },
@@ -170,8 +170,14 @@
   },
   "active": "03743fe24b8253ac",
   "lastOpenFiles": [
+    "Alagaesia/Myths & Legends/Gods/Pholtus.md",
+    "Alagaesia/Myths & Legends/Gods/Kiri-Jolith.md",
+    "Alagaesia/Myths & Legends/Gods/Sargonnas.md",
+    "Alagaesia/Myths & Legends/Gods/Zeboim.md",
+    "Alagaesia/Myths & Legends/Gods/Chemosh.md",
+    "Alagaesia/Myths & Legends/Gods/Takhisis.md",
+    "Alagaesia/Myths & Legends/Gods/Sirrion.md",
     "Alagaesia/Myths & Legends/Gods/Guntera.md",
-    "Alagaesia/Myths & Legends/Gods/Untitled.md",
     "Alagaesia/Myths & Legends/Gods/Khonshu.md",
     "Alagaesia/Important People/Natalie Porter.md",
     "Alagaesia/Myths & Legends/Gods/Terros.md",
@@ -191,12 +197,6 @@
     "Alagaesia/Cities/Gilead.md",
     "Alagaesia/Cities/Evernmere.md",
     "Alagaesia/Cities/Ellesmera.md",
-    "Alagaesia/Cities/Deepnest.md",
-    "Welcome.md",
-    "Alagaesia/Factions/The Mechinators (Artificers).md",
-    "Alagaesia/Factions/The Forebearers.md",
-    "Alagaesia/Cities/Kaluman.md",
-    "Alagaesia/Cities/Pergos.md",
     "Alagaesia/Myths & Legends/Gods",
     "Alagaesia/Myths & Legends"
   ]

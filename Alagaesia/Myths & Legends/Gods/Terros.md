@@ -1,1 +1,1 @@
-Terros is the god of earth and botany.
+Terros is the god of earth and flora. He rewards those who work the land, and nurture nature through his beautiful flowers, which he grows near farmland. Many farmers pray to him for good harvests, and workable soil.

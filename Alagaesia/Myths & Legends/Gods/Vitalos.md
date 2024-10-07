@@ -1,1 +1,1 @@
-Vitalos is the god of strength and healing. She is compassionate to all, not just those who worship her, even her enemies. She strives to rid the world of vHealing, passion, love. Stops suffering, gives solace.
+Vitalos is the god of strength and healing. She is compassionate to all, not just those who worship her, even her enemies. She strives to rid the world of violence and suffering by coming to those who are ill and curing them, or those who are in fatal pain to help them pass on. She takes the form of a young priest.

@@ -1,0 +1,1 @@
+Father of good, master of war, Bahamut. Watches for order, justice and mercy. Teaches wisdom. Takes on appearance of befuddled wisen old man.

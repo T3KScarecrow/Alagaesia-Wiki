@@ -1,0 +1,1 @@
+Magic. Worshipped by high wizards and spellcasters

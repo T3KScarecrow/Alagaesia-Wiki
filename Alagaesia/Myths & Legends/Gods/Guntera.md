@@ -1,0 +1,1 @@
+Guntera is the chief of the dwarven deities, and is believed to be the one who created the world. It is said that Guntera molded the world, with its caves and mountains, from the World Clay

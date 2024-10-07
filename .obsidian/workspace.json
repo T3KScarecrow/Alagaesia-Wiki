@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Alagaesia/Myths & Legends/Gods/Khonshu.md",
+                "file": "Alagaesia/Myths & Legends/Gods/Guntera.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Alagaesia/Myths & Legends/Gods/Khonshu.md",
+                "file": "Alagaesia/Myths & Legends/Gods/Guntera.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Alagaesia/Myths & Legends/Gods/Khonshu.md",
+                "file": "Alagaesia/Myths & Legends/Gods/Guntera.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Alagaesia/Myths & Legends/Gods/Khonshu.md"
+                "file": "Alagaesia/Myths & Legends/Gods/Guntera.md"
               }
             }
           },
@@ -170,10 +170,11 @@
   },
   "active": "03743fe24b8253ac",
   "lastOpenFiles": [
+    "Alagaesia/Myths & Legends/Gods/Khonshu.md",
+    "Alagaesia/Myths & Legends/Gods/Guntera.md",
     "Alagaesia/Cities/Tronjheim.md",
     "Alagaesia/Factions/The Stoners.md",
     "Alagaesia/Important People/Bartholomew.md",
-    "Alagaesia/Myths & Legends/Gods/Khonshu.md",
     "Concepts/Ideas.md",
     "Alagaesia/Worldmap1.png",
     "Alagaesia/Important People/Lord Tyrannus.md",
@@ -196,7 +197,6 @@
     "Alagaesia/Cities/Pergos.md",
     "Alagaesia/Cities/Vaer Quethal.md",
     "Alagaesia/Cities/Svatlheim.md",
-    "Alagaesia/Cities/Argon City.md",
     "Alagaesia/Myths & Legends/Gods",
     "Alagaesia/Myths & Legends"
   ]

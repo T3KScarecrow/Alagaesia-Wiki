@@ -1,0 +1,4 @@
+Khonshu is the Vulgomage god of the Moon. Khonshu controls the lunar cycle, and has some control over the tides. Khonshu is known for his strong morals and ideals towards crime; he believes that those who would cause harm to the travellers of his night must be punished, and justice wrought. Although he interacts much with the mortal realm, not many worship him, seeing him as a lesser God of violence. Those who do worship him are an order of paladins known as the Knights of the Moon.
+
+### The Knights of the Moon
+The Knights of the Moon are a band of paladins who worship the Moon God, Khonshu. They serve their God by bringing his justice to the criminals of the night. Nobody knows the true names or faces of the Moon Templar, as they all cover their faces in ceremonial cloth, and only work during the night.

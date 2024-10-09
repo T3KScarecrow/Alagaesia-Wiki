@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Alagaesia/Cities/Caelora.md",
+                "file": "Alagaesia/Myths & Legends/The Bagman.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Alagaesia/Cities/Caelora.md",
+                "file": "Alagaesia/Myths & Legends/The Bagman.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Alagaesia/Cities/Caelora.md",
+                "file": "Alagaesia/Myths & Legends/The Bagman.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Alagaesia/Cities/Caelora.md"
+                "file": "Alagaesia/Myths & Legends/The Bagman.md"
               }
             }
           },
@@ -170,10 +170,10 @@
   },
   "active": "03743fe24b8253ac",
   "lastOpenFiles": [
-    "Alagaesia/Factions/The Vulgomage.md",
-    "Alagaesia/Cities/Caelora.md",
-    "Alagaesia/Factions/The Forebearers.md",
     "Concepts/Ideas.md",
+    "Alagaesia/Cities/Caelora.md",
+    "Alagaesia/Factions/The Vulgomage.md",
+    "Alagaesia/Factions/The Forebearers.md",
     "Alagaesia/Myths & Legends/Gods/Chemosh.md",
     "Alagaesia/Myths & Legends/Gods/Guntera.md",
     "Alagaesia/Myths & Legends/Gods/Habbakuk.md",

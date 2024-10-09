@@ -6,4 +6,4 @@ Caelora is the capital city of [[The Vulgomage]] kingdom of the same name. It is
 The Kingdom Caelora is governed by a court of powerful mages known as the Magisterium. This council resides in the __something something tower.
 
 #### The Great Museum of Arcane History
-Caelora is home to the greatest human museum of magic in the land. The MoAH boasts displays of everything weird and wo 
+Caelora is home to the greatest human museum of magic in the land. With its beautifully ornate marble pillars, and grand (romanhe MoAH boasts displays of everything weird and wonderful, from miraculous inventions, to arcane artifacts from bygone ages. The MoAH strives to obtain detailed records of the entire history of the land, told by magic. The MoAH is owned and operated  

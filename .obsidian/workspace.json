@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Alagaesia/Myths & Legends/The Bagman.md",
+                "file": "Alagaesia/Myths & Legends/Gods/Nadruul.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Alagaesia/Myths & Legends/The Bagman.md",
+                "file": "Alagaesia/Myths & Legends/Gods/Nadruul.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Alagaesia/Myths & Legends/The Bagman.md",
+                "file": "Alagaesia/Myths & Legends/Gods/Nadruul.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Alagaesia/Myths & Legends/The Bagman.md"
+                "file": "Alagaesia/Myths & Legends/Gods/Nadruul.md"
               }
             }
           },
@@ -144,9 +144,17 @@
               "type": "initiative-tracker-view",
               "state": {}
             }
+          },
+          {
+            "id": "41d74f47621e4fb1",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -168,8 +176,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "03743fe24b8253ac",
+  "active": "41d74f47621e4fb1",
   "lastOpenFiles": [
+    "Alagaesia/Myths & Legends/The Bagman.md",
+    "Alagaesia/Myths & Legends/Gods/Nadruul.md",
     "Concepts/Ideas.md",
     "Alagaesia/Cities/Caelora.md",
     "Alagaesia/Factions/The Vulgomage.md",
@@ -195,8 +205,6 @@
     "Alagaesia/Important People/Bartholomew.md",
     "Alagaesia/Worldmap1.png",
     "Alagaesia/Important People/Lord Tyrannus.md",
-    "Alagaesia/Cities/Ostholme.md",
-    "Alagaesia/Cities/Thalassara.md",
     "Alagaesia/Myths & Legends/Gods",
     "Alagaesia/Myths & Legends"
   ]

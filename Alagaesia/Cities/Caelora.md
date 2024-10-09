@@ -1,1 +1,1 @@
-[[The Vulgomage]]
+Caelora is the capital city of [[The Vulgomage]] kingdom of the same name. It is a sprawling metropolis that rises from the fertile plains. Caelora is a beacon for the Vulgomage, and shines as a testament to the willpower of 

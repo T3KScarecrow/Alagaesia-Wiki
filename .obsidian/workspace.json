@@ -11,11 +11,9 @@
             "id": "03743fe24b8253ac",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Alagaesia/Cities/Ironhenge.md",
-                "mode": "source",
-                "source": false
+                "file": "Alagaesia/Worldmap1.png"
               }
             }
           }
@@ -69,7 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "07dca3d6a45e67d1",
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Alagaesia/Cities/Ironhenge.md",
+                "file": "Alagaesia/Worldmap1.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Alagaesia/Cities/Ironhenge.md",
+                "file": "Alagaesia/Worldmap1.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Alagaesia/Cities/Ironhenge.md"
+                "file": "Alagaesia/Worldmap1.png"
               }
             }
           },
@@ -158,7 +156,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,10 +176,13 @@
   },
   "active": "03743fe24b8253ac",
   "lastOpenFiles": [
-    "Alagaesia/Cities/Evernmere.md",
+    "Alagaesia/Cities/Shortstaig.md",
+    "Alagaesia/Worldmap1.png",
     "Alagaesia/Cities/City Of Tears.md",
-    "Alagaesia/Cities/Gilead.md",
     "Alagaesia/Cities/Deepnest.md",
+    "Alagaesia/Cities/Ironhenge.md",
+    "Alagaesia/Cities/Evernmere.md",
+    "Alagaesia/Cities/Gilead.md",
     "Alagaesia/Cities/Hargraven.md",
     "Alagaesia/Cities/Kaluman.md",
     "Alagaesia/Cities/Ellesmera.md",
@@ -200,10 +202,6 @@
     "Alagaesia/Myths & Legends/Gods/Takhisis.md",
     "Alagaesia/Myths & Legends/Gods/Pholtus.md",
     "Alagaesia/Myths & Legends/Gods/Solinare.md",
-    "Alagaesia/Myths & Legends/Gods/Zeboim.md",
-    "Alagaesia/Myths & Legends/Gods/Kiri-Jolith.md",
-    "Alagaesia/Myths & Legends/Gods/Sargonnas.md",
-    "Alagaesia/Worldmap1.png",
     "Alagaesia/Myths & Legends/Gods",
     "Alagaesia/Myths & Legends"
   ]

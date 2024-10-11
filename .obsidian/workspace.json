@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/Ideas.md",
+                "file": "Alagaesia/Cities/Ironhenge.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Concepts/Ideas.md",
+                "file": "Alagaesia/Cities/Ironhenge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Concepts/Ideas.md",
+                "file": "Alagaesia/Cities/Ironhenge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Concepts/Ideas.md"
+                "file": "Alagaesia/Cities/Ironhenge.md"
               }
             }
           },
@@ -158,8 +158,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,11 +177,18 @@
   },
   "active": "03743fe24b8253ac",
   "lastOpenFiles": [
+    "Alagaesia/Cities/Evernmere.md",
+    "Alagaesia/Cities/City Of Tears.md",
+    "Alagaesia/Cities/Gilead.md",
+    "Alagaesia/Cities/Deepnest.md",
+    "Alagaesia/Cities/Hargraven.md",
+    "Alagaesia/Cities/Kaluman.md",
+    "Alagaesia/Cities/Ellesmera.md",
+    "Concepts/Ideas.md",
     "Alagaesia/Cities/Caelora.md",
     "Alagaesia/Factions/The Vulgomage.md",
     "Alagaesia/Myths & Legends/Gods/Nadruul.md",
     "Alagaesia/Myths & Legends/The Bagman.md",
-    "Concepts/Ideas.md",
     "Alagaesia/Factions/The Forebearers.md",
     "Alagaesia/Myths & Legends/Gods/Chemosh.md",
     "Alagaesia/Myths & Legends/Gods/Guntera.md",
@@ -197,14 +203,7 @@
     "Alagaesia/Myths & Legends/Gods/Zeboim.md",
     "Alagaesia/Myths & Legends/Gods/Kiri-Jolith.md",
     "Alagaesia/Myths & Legends/Gods/Sargonnas.md",
-    "Alagaesia/Myths & Legends/Gods/Sirrion.md",
-    "Alagaesia/Myths & Legends/Gods/Khonshu.md",
-    "Alagaesia/Important People/Natalie Porter.md",
-    "Alagaesia/Cities/Tronjheim.md",
-    "Alagaesia/Factions/The Stoners.md",
-    "Alagaesia/Important People/Bartholomew.md",
     "Alagaesia/Worldmap1.png",
-    "Alagaesia/Important People/Lord Tyrannus.md",
     "Alagaesia/Myths & Legends/Gods",
     "Alagaesia/Myths & Legends"
   ]

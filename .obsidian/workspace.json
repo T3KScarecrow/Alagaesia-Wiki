@@ -190,11 +190,26 @@
           }
         ],
         "currentTab": 6
+      },
+      {
+        "id": "67c427358e447b3c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c6dce463668ea28a",
+            "type": "leaf",
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {},
+              "icon": "skull",
+              "title": "Combatant"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 653.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,7 +226,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "648da470158c371b",
+  "active": "c6dce463668ea28a",
   "lastOpenFiles": [
     "Alagaesia/D&D Shop Catalog, V-2.0.2-Refresh.pdf",
     "Alagaesia/Readme.md",

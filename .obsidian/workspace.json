@@ -99,6 +99,7 @@
       {
         "id": "fae5c4bd789f9279",
         "type": "tabs",
+        "dimension": 23.14814814814815,
         "children": [
           {
             "id": "301d6a9a5810d5b3",
@@ -189,11 +190,12 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       },
       {
         "id": "67c427358e447b3c",
         "type": "tabs",
+        "dimension": 76.85185185185185,
         "children": [
           {
             "id": "c6dce463668ea28a",
@@ -209,7 +211,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 653.5
+    "width": 774.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -226,7 +228,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "c6dce463668ea28a",
+  "active": "648da470158c371b",
   "lastOpenFiles": [
     "Alagaesia/D&D Shop Catalog, V-2.0.2-Refresh.pdf",
     "Alagaesia/Readme.md",

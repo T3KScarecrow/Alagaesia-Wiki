@@ -1,0 +1,13 @@
+**Personality and Interests**  
+Edrin’s compassion is legendary, and his deep connection with his subjects defines his reign. Though he lacks political power in a traditional sense, his influence runs deep, and many see him as the kingdom’s soul—a man who preserves the human warmth and generosity the Magisterium often overlooks. His disposition is warm, and he has a gift for making those around him feel truly seen, often listening more than he speaks. His openness to the common people’s plights and a readiness to laugh at himself have won him adoration across the land.
+
+**Daily Life and Activities**  
+Edrin loves to venture out of the Amberhold and mingle with the citizens. Known for his unannounced appearances at city markets, riverside gatherings, and festivals, he often surprises merchants, craftsmen, and children alike with his easygoing demeanor. Edrin finds joy in small, everyday moments: playing a round of **wind-and-cards** (a Caeloran card game) with local workers, listening to street musicians, and sparring lightly with the city guard in good fun. He frequently visits Caelora’s **Sunken Gardens**, where he can be found quietly tending the flowers or conversing with gardeners as if they were old friends. Many citizens have their own stories of running into the king unexpectedly, and he’s often the source of cherished anecdotes.
+
+One of his favorite traditions is the **Festival of Sparks**, where he takes part in illuminating lanterns that float over the Algorna River, symbolizing peace and unity. For this, he famously goes barefoot, saying it “grounds him with the people.”
+
+**Reputation**  
+While some Magisterium members and nobles consider him an idealist, Edrin’s ability to command loyalty is undeniable. Many citizens revere him, considering him a bridge between them and the often distant Magisterium. His reputation as a “king of the heart” has been a steadying force in the kingdom, providing hope and a sense of belonging that counterbalances the sometimes imposing presence of the ruling mages.
+
+**Legacy**  
+King Edrin may not have left heirs, but his legacy is more profound, woven into the lives of the people and the stories they tell. He is often called “the People’s Light,” a man who, even without political power, has influenced the kingdom deeply. Though the Magisterium holds the reins of the kingdom’s true power, Edrin remains its pulse—Caelora’s heart and soul.

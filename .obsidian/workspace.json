@@ -33,8 +33,7 @@
               "title": "Shortstaig"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -211,7 +210,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 1228.8000000000002
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -228,14 +228,15 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "333464d61203671c",
+  "active": "03743fe24b8253ac",
   "lastOpenFiles": [
+    "Alagaesia/Cities/Shortstaig.md",
+    "Alagaesia/Worldmap1.png",
+    "Alagaesia/Cities/Pergos.md",
     "Alagaesia/Archived VODs/Session -1, The Meeting of Wiate and Theramell.mkv",
     "Alagaesia/Archived VODs",
     "Alagaesia/D&D Shop Catalog, V-2.0.2-Refresh.pdf",
     "Alagaesia/Readme.md",
-    "Alagaesia/Cities/Shortstaig.md",
-    "Alagaesia/Worldmap1.png",
     "Alagaesia/Cities/City Of Tears.md",
     "Alagaesia/Cities/Deepnest.md",
     "Alagaesia/Cities/Ironhenge.md",
@@ -258,7 +259,6 @@
     "Alagaesia/Myths & Legends/Gods/Paladine.md",
     "Alagaesia/Myths & Legends/Gods/Loki In The Making.md",
     "Alagaesia/Myths & Legends/Gods/Takhisis.md",
-    "Alagaesia/Myths & Legends/Gods/Pholtus.md",
     "Alagaesia/Myths & Legends/Gods",
     "Alagaesia/Myths & Legends"
   ]

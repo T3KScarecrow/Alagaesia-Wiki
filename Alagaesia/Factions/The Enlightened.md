@@ -5,4 +5,4 @@ The first of the Enlightened were around for the fall of the Forebearers, and wi
 
 
 ### Leadership:
-The Enlightened is lead by the 
+The Enlighteangelned is lead by Lord Tyrannus

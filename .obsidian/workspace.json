@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Alagaesia/Cities/Ellesmera.md",
+                "file": "Alagaesia/Cities/Ironhenge.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ellesmera"
+              "title": "Ironhenge"
             }
           }
         ],
@@ -231,8 +231,9 @@
   },
   "active": "648da470158c371b",
   "lastOpenFiles": [
-    "Alagaesia/Cities/Deepnest.md",
+    "Alagaesia/Cities/Evernmere.md",
     "Alagaesia/Cities/Ellesmera.md",
+    "Alagaesia/Cities/Deepnest.md",
     "Alagaesia/Cities/City Of Tears.md",
     "Alagaesia/Cities/Argon City.md",
     "Alagaesia/Cities/Caelora.md",
@@ -244,7 +245,6 @@
     "Alagaesia/D&D Shop Catalog, V-2.0.2-Refresh.pdf",
     "Alagaesia/Readme.md",
     "Alagaesia/Cities/Ironhenge.md",
-    "Alagaesia/Cities/Evernmere.md",
     "Alagaesia/Cities/Gilead.md",
     "Alagaesia/Cities/Hargraven.md",
     "Alagaesia/Cities/Kaluman.md",

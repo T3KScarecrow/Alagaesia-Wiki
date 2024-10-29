@@ -1,0 +1,19 @@
+**King Edrin Valaire**, often affectionately called "The Kind King," came to his throne not through the calculated manoeuvrings of power but through a unique combination of lineage and character that endeared him to the people of [[The Vulgomage|Caelora]]. Born as the third son of a noble house with little hope of ascending, Edrin’s rise was a result of both providence and his natural charisma.
+
+In Caelora’s early days, kings and queens wielded real authority, ruling directly over the kingdom’s people. But as the kingdom’s focus shifted toward the arcane arts, the influence of the Magisterium—the council of mages—grew, and governance began to fall into their hands. Over time, the monarch’s role faded into near obsolescence, becoming more ceremonial than sovereign. Still, the Magisterium understood the people’s need for a face to represent Caelora, someone warm and accessible to embody the kingdom’s spirit—a counterbalance to the cold, enigmatic Magisterium.
+
+Thus, the title of **King of Caelora** remained, a symbol more than a ruler. King Edrin Valaire, chosen for his empathy and popularity with the people, accepted this role willingly. Far from a mere figurehead, he has since become a beloved icon, a figure who binds the people together while gently steering their hearts toward unity and hope.
+
+### **Personality and Interests**  
+Edrin’s compassion is legendary, and his deep connection with his subjects defines his reign. Though he lacks political power in a traditional sense, his influence runs deep, and many see him as the kingdom’s soul—a man who preserves the human warmth and generosity the Magisterium often overlooks. His disposition is warm, and he has a gift for making those around him feel truly seen, often listening more than he speaks. His openness to the common people’s plights and a readiness to laugh at himself have won him adoration across the land.
+
+### **Daily Life and Activities**  
+Edrin loves to venture out of the The Glimmering Hall and mingle with the citizens. Known for his unannounced appearances at city markets, riverside gatherings, and festivals, he often surprises merchants, craftsmen, and children alike with his easygoing demeanour. Edrin finds joy in small, everyday moments: playing a round of **wind-and-cards** (a Caeloran card game) with local workers, listening to street musicians, and sparring lightly with the city guard in good fun. He frequently visits Caelora’s **Sunken Gardens**, where he can be found quietly tending the flowers or conversing with gardeners as if they were old friends. Many citizens have their own stories of running into the king unexpectedly, and he’s often the source of cherished anecdotes.
+
+One of his favourite traditions is the **Festival of Sparks**, where he takes part in illuminating lanterns that float over the Algorna River, symbolizing peace and unity. For this, he famously goes barefoot, saying it “grounds him with the people.”
+
+### **Reputation**  
+While some Magisterium members and nobles consider him an idealist, Edrin’s ability to command loyalty is undeniable. Many citizens revere him, considering him a bridge between them and the often distant Magisterium. His reputation as a “king of the heart” has been a steadying force in the kingdom, providing hope and a sense of belonging that counterbalances the sometimes imposing presence of the ruling mages.
+
+### **Legacy**  
+King Edrin may not have left heirs, but his legacy is more profound, woven into the lives of the people and the stories they tell. He is often called “the People’s Light,” a man who, even without political power, has influenced the kingdom deeply. Though the Magisterium holds the reins of the kingdom’s true power, Edrin remains its pulse—Caelora’s heart and soul.

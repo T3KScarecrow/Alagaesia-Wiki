@@ -243,8 +243,8 @@
           "name": "The Blessing of Aegirion",
           "description": "A sacred observance for those who worship Khonshu, offering prayers and rituals to invoke divine protection and justice for the coming year.",
           "date": {
-            "month": 1,
-            "day": 7,
+            "month": 0,
+            "day": 26,
             "year": [
               null,
               null
@@ -261,10 +261,10 @@
         },
         {
           "name": "The Night of Shadows",
-          "description": "A mysterious and eerie night where it is believed the boundary between the material world and the shadow realm weakens. Seers and mystics hold ceremonies to communicate with spirits.",
+          "description": "A mysterious and eerie night where it is believed the boundary between the material world and the shadow realm weakens. The darkest night of the year, where seers and mystics hold ceremonies to communicate with spirits.",
           "date": {
-            "month": 2,
-            "day": 15,
+            "month": 11,
+            "day": 7,
             "year": [
               null,
               null
@@ -389,8 +389,11 @@
           "name": "The Festival Of The Night's Light",
           "description": "A celebration where people honour the light of the dual moons, Aegirion and Aeloria, by lighting lanterns and casting them into the sky.",
           "date": {
-            "month": 1,
-            "day": 13,
+            "month": 10,
+            "day": [
+              22,
+              24
+            ],
             "year": [
               null,
               null

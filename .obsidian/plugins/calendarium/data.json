@@ -214,9 +214,9 @@
         ]
       },
       "current": {
-        "day": 1,
-        "month": 0,
-        "year": 998
+        "day": 17,
+        "month": 2,
+        "year": 1342
       },
       "events": [
         {
@@ -543,7 +543,8 @@
           "color": "#f2ea18",
           "name": "Enlightened"
         }
-      ]
+      ],
+      "dateFormat": "DD-MM-YYYY"
     }
   ],
   "configDirectory": null,

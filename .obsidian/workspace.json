@@ -200,9 +200,9 @@
                 "ephemeral": {
                   "viewState": 1,
                   "displaying": {
-                    "day": 1,
-                    "month": 0,
-                    "year": 998
+                    "day": 17,
+                    "month": 2,
+                    "year": 1342
                   },
                   "displayDayNumber": false,
                   "displayMoons": true
@@ -212,9 +212,81 @@
               "icon": "CALENDARIUM",
               "title": "Calendarium"
             }
+          },
+          {
+            "id": "78bcf91651b497bf",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_1a89c9f90a59",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 17,
+                    "month": 2,
+                    "year": 1342
+                  },
+                  "displayDayNumber": false,
+                  "displayMoons": true
+                },
+                "id": "ID_f97abaaac8fb"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "f2f47c4dc38502e2",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_1a89c9f90a59",
+                "ephemeral": {
+                  "viewing": {
+                    "day": 15,
+                    "month": 2,
+                    "year": 1342
+                  },
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 17,
+                    "month": 2,
+                    "year": 1342
+                  },
+                  "displayDayNumber": false,
+                  "displayMoons": true
+                },
+                "id": "ID_787b3a5be888",
+                "child": "ID_d8292b6a3879"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 9
+      },
+      {
+        "id": "25340b5709670660",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8078471d76a52898",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM_AGENDA",
+              "state": {
+                "calendar": "ID_1a89c9f90a59",
+                "id": "ID_d8292b6a3879",
+                "parent": "ID_787b3a5be888"
+              },
+              "icon": "CALENDARIUM_AGENDA",
+              "title": "Agenda"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -235,7 +307,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "f62bd111069b0dd8",
+  "active": "f2f47c4dc38502e2",
   "lastOpenFiles": [
     "Concepts/Ideas.md",
     "Alagaesia/Timeline Of Events.md",

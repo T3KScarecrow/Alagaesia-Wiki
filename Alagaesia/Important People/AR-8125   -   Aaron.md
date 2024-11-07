@@ -10,7 +10,6 @@
 - Bart wakes up and reads farmer's notes
 - 
 
-### Write under here
 Alden used to be an artificer that specilised in making the warforged hired by the mechinators, but as he grew older, he realised that his myasthenia gravis was growing worse, and that he wouldnt be able to be an artificer anymore, and so he decided to put that part of his life behind him and went off to live a quiet and peaceful life on his own farm. He realised that running a farm alone is no easy task, especially in his conidition, and using his experience, decided to make 3 warforged with the names AS-7924 (Asher), AN-6347 (Andrew) and AR-8125 (Aaron) to be farmhands. However, even with the help, he was still growing weaker by the day, and realising that he wouldn't be able to go on for much longer.
 
 He decided to use what time he had left to try and give self awareness to the 3 that had helped him in the time he spent with the farm. He first tried Asher, but upon Asher's awakening, he immediatly lashed out and went insane, blowing himself up. Alden realised that the reason was that Asher had kept all previous memories, and because of this, it was like a flood of memories hitting him at once, causing him to go mad, so Alden made sure that the other 2 only remembered that they are related to each other, and that in some way the 2 remaining warforged are related like siblings, and with that, Alden had started working on Aaron and Andrew for them to gain self awareness. 

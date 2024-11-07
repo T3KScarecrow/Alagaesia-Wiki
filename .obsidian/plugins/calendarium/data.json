@@ -324,7 +324,7 @@
           "description": "A night dedicated to the moon goddess Aeloria, where mystics and worshipers hold rituals under the full moon, seeking guidance from the celestial body.",
           "date": {
             "month": 6,
-            "day": 1,
+            "day": 4,
             "year": [
               null,
               null
@@ -510,7 +510,7 @@
       "categories": [
         {
           "id": "ID_28c8fafabbdb",
-          "color": "#f4fbda",
+          "color": "#82886d",
           "name": "Lunar Events"
         },
         {

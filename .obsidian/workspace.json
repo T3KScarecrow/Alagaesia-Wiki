@@ -245,13 +245,13 @@
                 "calendar": "ID_1a89c9f90a59",
                 "ephemeral": {
                   "viewing": {
-                    "day": 27,
-                    "month": 2,
+                    "day": 23,
+                    "month": 10,
                     "year": 1342
                   },
-                  "viewState": 1,
+                  "viewState": 0,
                   "displaying": {
-                    "day": 27,
+                    "day": 17,
                     "month": 2,
                     "year": 1342
                   },
@@ -259,7 +259,7 @@
                   "displayMoons": true
                 },
                 "id": "ID_787b3a5be888",
-                "child": "ID_9b1afb8a1a6b"
+                "child": "ID_2bab4849da9a"
               },
               "icon": "CALENDARIUM",
               "title": "Calendarium"
@@ -269,17 +269,17 @@
         "currentTab": 9
       },
       {
-        "id": "abeca7d554beed32",
+        "id": "c6db5bab85f4beb8",
         "type": "tabs",
         "children": [
           {
-            "id": "0780af93e1783c9e",
+            "id": "f838afc00b9f76e5",
             "type": "leaf",
             "state": {
               "type": "CALENDARIUM_AGENDA",
               "state": {
                 "calendar": "ID_1a89c9f90a59",
-                "id": "ID_9b1afb8a1a6b",
+                "id": "ID_2bab4849da9a",
                 "parent": "ID_787b3a5be888"
               },
               "icon": "CALENDARIUM_AGENDA",
@@ -307,7 +307,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "0780af93e1783c9e",
+  "active": "f2f47c4dc38502e2",
   "lastOpenFiles": [
     "Alagaesia/Timeline Of Events.md",
     "Concepts/Ideas.md",

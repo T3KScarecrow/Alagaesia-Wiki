@@ -1,10 +1,555 @@
 {
   "addToDefaultIfMissing": true,
-  "calendars": [],
+  "calendars": [
+    {
+      "name": "Alaegorian Calendarum",
+      "description": "Calendar of the world of Eberron.",
+      "autoParse": false,
+      "path": [
+        "/"
+      ],
+      "supportInlineEvents": false,
+      "inlineEventTag": "inline-events",
+      "showIntercalarySeparately": true,
+      "static": {
+        "displayDayNumber": false,
+        "firstWeekDay": 0,
+        "incrementDay": false,
+        "displayMoons": true,
+        "overflow": true,
+        "padDays": 2,
+        "padMonths": 2,
+        "weekdays": [
+          {
+            "type": "day",
+            "name": "Lunarisday",
+            "id": "ID_69088ac8f818"
+          },
+          {
+            "type": "day",
+            "name": "Tyrisday",
+            "id": "ID_a8c85a98f8fa"
+          },
+          {
+            "type": "day",
+            "name": "Weyday",
+            "id": "ID_fa4b687aaba9"
+          },
+          {
+            "type": "day",
+            "name": "Thurosday",
+            "id": "ID_58e9a82a6bc8"
+          },
+          {
+            "type": "day",
+            "name": "Fralisday",
+            "id": "ID_9a18cb889ada"
+          },
+          {
+            "type": "day",
+            "name": "Satraday",
+            "id": "ID_3b9bfa38c979"
+          },
+          {
+            "type": "day",
+            "name": "Solasday",
+            "id": "ID_598a7bd9b8b9"
+          }
+        ],
+        "months": [
+          {
+            "type": "month",
+            "name": "Januvalis",
+            "length": 30,
+            "id": "ID_bba988bb2808",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Februel",
+            "length": 30,
+            "id": "ID_484b093bd93b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Marcion",
+            "length": 31,
+            "id": "ID_ab081a2b49cb",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Aurelis",
+            "length": 32,
+            "id": "ID_0beafaca595b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Maelis",
+            "length": 30,
+            "id": "ID_5be959d84908",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Junyn",
+            "length": 30,
+            "id": "ID_da7a8bc8ba9a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Juliad",
+            "length": 30,
+            "id": "ID_4b18d9d8eb08",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Augres",
+            "length": 30,
+            "id": "ID_2918896bb96b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Septemnis",
+            "length": 30,
+            "id": "ID_89db28ca182a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Octen",
+            "length": 31,
+            "id": "ID_29c9da281bdb",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Novindra",
+            "length": 30,
+            "id": "ID_68a83bb99a58",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Decembral",
+            "length": 31,
+            "id": "ID_f9c99b786b39",
+            "interval": 1,
+            "offset": 0
+          }
+        ],
+        "moons": [
+          {
+            "name": "Aegirion",
+            "cycle": 30,
+            "offset": 0,
+            "faceColor": "#fffff0",
+            "shadowColor": "#000",
+            "id": "ID_68bb7ad83988"
+          },
+          {
+            "name": "Aelora",
+            "cycle": 28,
+            "offset": 0,
+            "faceColor": "#d0c6ec",
+            "shadowColor": "#000",
+            "id": "ID_faba3898fb0a"
+          }
+        ],
+        "leapDays": [
+          {
+            "id": "ID_3afa599978ea",
+            "name": "Alaegor's Gift",
+            "interval": [
+              {
+                "interval": 4,
+                "exclusive": false,
+                "ignore": false
+              }
+            ],
+            "intercalary": false,
+            "timespan": 4,
+            "offset": 0,
+            "type": "leapday"
+          }
+        ],
+        "eras": [
+          {
+            "id": "ID_2b4b1b88dbf9",
+            "type": "era",
+            "name": "Before The Fall",
+            "description": "",
+            "format": "{{era_name}}",
+            "endsYear": false,
+            "isEvent": false,
+            "category": null,
+            "isStartingEra": false,
+            "date": {
+              "day": 1,
+              "month": 0,
+              "year": -500
+            },
+            "end": {
+              "day": 30,
+              "month": 11,
+              "year": -1
+            }
+          }
+        ]
+      },
+      "current": {
+        "day": 1,
+        "month": 0,
+        "year": 998
+      },
+      "events": [
+        {
+          "name": "The Rite of The New Dawn",
+          "description": "The first day of the year, dedicated to the rebirth of the sun and light, as the dawn breaks over the land. People gather in cities and villages to celebrate new beginnings.",
+          "date": {
+            "month": 0,
+            "day": 1,
+            "year": [
+              null,
+              null
+            ]
+          },
+          "id": "ID_7a1baab90a59",
+          "note": null,
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "The Blessing of Aegirion",
+          "description": "A sacred observance for those who worship Khonshu, offering prayers and rituals to invoke divine protection and justice for the coming year.",
+          "date": {
+            "month": 1,
+            "day": 7,
+            "year": [
+              null,
+              null
+            ]
+          },
+          "id": "ID_3b7929895bba",
+          "note": null,
+          "category": "ID_28c8fafabbdb",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "The Night of Shadows",
+          "description": "A mysterious and eerie night where it is believed the boundary between the material world and the shadow realm weakens. Seers and mystics hold ceremonies to communicate with spirits.",
+          "date": {
+            "month": 2,
+            "day": 14,
+            "year": [
+              null,
+              null
+            ]
+          },
+          "id": "ID_38a9d9aa7918",
+          "note": null,
+          "category": "ID_28c8fafabbdb",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "The Festival of Flame",
+          "description": "Villagers and cities celebrate the first significant warmth of the year with bonfires, flame dances, and offerings to the gods of fire. The night ends with a feast and dancing.",
+          "date": {
+            "month": 10,
+            "day": 5,
+            "year": [
+              null,
+              null
+            ]
+          },
+          "id": "ID_c93a98f8093b",
+          "note": null,
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "The Solstice of Balance",
+          "description": "The summer solstice is a time of reflection, where both the light and darkness of the world are balanced. People gather to meditate, and the high priests offer blessings for the coming harvest.",
+          "date": {
+            "month": 11,
+            "day": 21,
+            "year": [
+              null,
+              null
+            ]
+          },
+          "id": "ID_ca3ba979cad9",
+          "note": null,
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Aeloria's Eve",
+          "description": "A night dedicated to the moon goddess Aeloria, where mystics and worshipers hold rituals under the full moon, seeking guidance from the celestial body.",
+          "date": {
+            "month": 6,
+            "day": 1,
+            "year": [
+              null,
+              null
+            ]
+          },
+          "id": "ID_c83aa9cbaa9a",
+          "note": null,
+          "category": "ID_28c8fafabbdb",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "The Feast of Storms",
+          "description": "A festival honouring the powerful storms that sweep across the land during mid-winter. The event is marked with thunderous feasts and games of strength.",
+          "date": {
+            "month": 6,
+            "day": [
+              14,
+              17
+            ],
+            "year": [
+              null,
+              null
+            ]
+          },
+          "id": "ID_a84908c8eaca",
+          "note": null,
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "The Harvest Festival",
+          "description": "A joyous three days of celebration when the harvest is gathered. Villages hold feasts and parties under the light of the full moon, thanking the gods for their bounty.",
+          "date": {
+            "month": 4,
+            "day": [
+              20,
+              22
+            ],
+            "year": [
+              null,
+              null
+            ]
+          },
+          "id": "ID_db08885a7b38",
+          "note": null,
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "The Festival Of The Night's Light",
+          "description": "A celebration where people honour the light of the dual moons, Aegirion and Aeloria, by lighting lanterns and casting them into the sky.",
+          "date": {
+            "month": 1,
+            "day": 13,
+            "year": [
+              null,
+              null
+            ]
+          },
+          "id": "ID_c939c88a0b28",
+          "note": null,
+          "category": "ID_28c8fafabbdb",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "The Awakening of The Earth",
+          "description": "This day celebrates the awakening of nature. Farmers and herbalists work together to plant the first crops, and druids perform rites to encourage the fertility of the land.",
+          "date": {
+            "month": 8,
+            "day": 1,
+            "year": [
+              null,
+              null
+            ]
+          },
+          "id": "ID_2979f9c919d9",
+          "note": null,
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "The Dance of The Spirits",
+          "description": "A sacred night dedicated to honoring the spirits of the past. People light fires, perform dances, and offer songs to the ancestors.",
+          "date": {
+            "month": 3,
+            "day": 25,
+            "year": [
+              null,
+              null
+            ]
+          },
+          "id": "ID_19daab48cb69",
+          "note": null,
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "The Moons' Cross",
+          "description": "A rare celestial event when both moons align in the sky, creating an awe-inspiring sight. It is said that this moment holds magical significance for those who seek divine intervention.",
+          "date": {
+            "month": 6,
+            "day": 19,
+            "year": [
+              null,
+              null
+            ]
+          },
+          "id": "ID_ca084bd9aae8",
+          "note": null,
+          "category": "ID_28c8fafabbdb",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "The Cry of The Earth",
+          "description": "A solemn day dedicated to the planet’s protection. People perform rites to honour and heal the earth, planting trees and purging areas of corruption or pollution.",
+          "date": {
+            "month": 9,
+            "day": 18,
+            "year": [
+              null,
+              null
+            ]
+          },
+          "id": "ID_b8082b98d80a",
+          "note": null,
+          "category": "ID_1819bbeb39a9",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "The Long Night",
+          "description": "The longest night of the year, when people come together to celebrate the endurance of the land through the cold. This night is filled with feasting, drinking, and storytelling.",
+          "date": {
+            "month": 5,
+            "day": 21,
+            "year": [
+              null,
+              null
+            ]
+          },
+          "id": "ID_b818eb5be85a",
+          "note": null,
+          "category": "ID_28c8fafabbdb",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        }
+      ],
+      "id": "ID_1a89c9f90a59",
+      "categories": [
+        {
+          "id": "ID_28c8fafabbdb",
+          "color": "#ffffff",
+          "name": "Lunar Events"
+        },
+        {
+          "id": "ID_d90baa98889a",
+          "color": "#df1648",
+          "name": "Caeloran"
+        },
+        {
+          "id": "ID_4b080a4aea59",
+          "color": "#6555dd",
+          "name": "Thalassaran"
+        },
+        {
+          "id": "ID_89eb39b95a09",
+          "color": "#fdb10d",
+          "name": "Ostholmian"
+        },
+        {
+          "id": "ID_1819bbeb39a9",
+          "color": "#3cd515",
+          "name": "Elvish"
+        },
+        {
+          "id": "ID_c8fbf96ab9e8",
+          "color": "#de52e5",
+          "name": "Dwarvan"
+        },
+        {
+          "id": "ID_7a9a286ae8ca",
+          "color": "#f2ea18",
+          "name": "Enlightened"
+        }
+      ]
+    }
+  ],
   "configDirectory": null,
   "dailyNotes": false,
   "dateFormat": "YYYY-MM-DD",
-  "defaultCalendar": null,
+  "defaultCalendar": "ID_1a89c9f90a59",
   "eventPreview": false,
   "exit": {
     "saving": false,

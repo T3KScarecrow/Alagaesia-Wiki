@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Alagaesia/Cities/Caelora.md",
+                "file": "Alagaesia/Factions/Minor Factions/The Blood Cult of Skaro.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Caelora"
+              "title": "The Blood Cult of Skaro"
             }
           }
         ],
@@ -324,8 +324,10 @@
   },
   "active": "890a0e6048ac682e",
   "lastOpenFiles": [
-    "Concepts/Ideas.md",
+    "Alagaesia/Important People/Malachar The Sanguine.md",
     "Alagaesia/Factions/Minor Factions/The Blood Cult of Skaro.md",
+    "Alagaesia/Cities/Caelora.md",
+    "Concepts/Ideas.md",
     "Alagaesia/Important People/AR-8125   -   Aaron.md",
     "conflict-files-obsidian-git.md",
     "Alagaesia/Important People/King Edrin Valaire, The Kind King.md",
@@ -349,8 +351,6 @@
     "Alagaesia/Timeline Of Events.md",
     "Alagaesia/Important People/Wiate Wight.md",
     "Alagaesia/Cities/Vaer Quethal.md",
-    "Alagaesia/Cities/Shortstaig.md",
-    "Alagaesia/Cities/Thalassara.md",
     "Alagaesia/Worldmap1.png",
     "Alagaesia/Archived VODs/Session -1, The Meeting of Wiate and Theramell.mkv",
     "Alagaesia/Archived VODs",

@@ -39,14 +39,12 @@
             "id": "890a0e6048ac682e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Alagaesia/Cities/Ironfell.md",
-                "mode": "source",
-                "source": false
+                "file": "Alagaesia/D&D Shop Catalog, V-2.0.2-Refresh.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Ironfell"
+              "icon": "lucide-file-text",
+              "title": "D&D Shop Catalog, V-2.0.2-Refresh"
             }
           }
         ],
@@ -325,8 +323,9 @@
   "active": "890a0e6048ac682e",
   "lastOpenFiles": [
     "Alagaesia/BetterMap.png",
-    "Alagaesia/Factions/Minor Factions/The Iron Vow Mercenary Company.md",
+    "Alagaesia/D&D Shop Catalog, V-2.0.2-Refresh.pdf",
     "Alagaesia/Cities/Ironfell.md",
+    "Alagaesia/Factions/Minor Factions/The Iron Vow Mercenary Company.md",
     "Alagaesia/Factions/Minor Factions/The Blood Cult of Skaro.md",
     "Alagaesia/Important People/AR-8125   -   Aaron.md",
     "Alagaesia/Important People/Lord Tyrannus.md",
@@ -354,7 +353,6 @@
     "Alagaesia/Worldmap1.png",
     "Alagaesia/Archived VODs/Session -1, The Meeting of Wiate and Theramell.mkv",
     "Alagaesia/Archived VODs",
-    "Alagaesia/D&D Shop Catalog, V-2.0.2-Refresh.pdf",
     "Alagaesia/Myths & Legends/Gods",
     "Alagaesia/Myths & Legends"
   ]

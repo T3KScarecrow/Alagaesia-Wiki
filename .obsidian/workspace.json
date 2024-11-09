@@ -39,12 +39,12 @@
             "id": "890a0e6048ac682e",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "image",
               "state": {
-                "file": "Alagaesia/D&D Shop Catalog, V-2.0.2-Refresh.pdf"
+                "file": "Alagaesia/BetterMap.png"
               },
-              "icon": "lucide-file-text",
-              "title": "D&D Shop Catalog, V-2.0.2-Refresh"
+              "icon": "lucide-image",
+              "title": "BetterMap"
             }
           }
         ],
@@ -350,9 +350,9 @@
   },
   "active": "890a0e6048ac682e",
   "lastOpenFiles": [
+    "Alagaesia/D&D Shop Catalog, V-2.0.2-Refresh.pdf",
     "Alagaesia/BetterMap.png",
     "Concepts/Ideas.md",
-    "Alagaesia/D&D Shop Catalog, V-2.0.2-Refresh.pdf",
     "Alagaesia/Myths & Legends/Gods/Vitalos.md",
     "Alagaesia/Myths & Legends/Gods/Khonshu.md",
     "Alagaesia/Cities/Ironfell.md",

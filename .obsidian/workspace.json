@@ -39,12 +39,14 @@
             "id": "890a0e6048ac682e",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Alagaesia/D&D Shop Catalog, V-2.0.2-Refresh.pdf"
+                "file": "Alagaesia/Myths & Legends/Gods/Vitalos.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "D&D Shop Catalog, V-2.0.2-Refresh"
+              "icon": "lucide-file",
+              "title": "Vitalos"
             }
           }
         ],
@@ -316,13 +318,15 @@
       "obsidian-5e-statblocks:Open Creature pane": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "890a0e6048ac682e",
   "lastOpenFiles": [
-    "Alagaesia/BetterMap.png",
+    "Alagaesia/Myths & Legends/Gods/Khonshu.md",
     "Alagaesia/D&D Shop Catalog, V-2.0.2-Refresh.pdf",
+    "Alagaesia/BetterMap.png",
     "Alagaesia/Cities/Ironfell.md",
     "Alagaesia/Factions/Minor Factions/The Iron Vow Mercenary Company.md",
     "Alagaesia/Factions/Minor Factions/The Blood Cult of Skaro.md",
@@ -344,7 +348,6 @@
     "Alagaesia/Myths & Legends/Gods/Sargonnas.md",
     "Alagaesia/Myths & Legends/Gods/Chemosh.md",
     "Alagaesia/Myths & Legends/Gods/Guntera.md",
-    "Alagaesia/Myths & Legends/Gods/Khonshu.md",
     "Alagaesia/Myths & Legends/Gods/Kiri-Jolith.md",
     "Alagaesia/Myths & Legends/Gods/Kirivthal.md",
     "Alagaesia/Myths & Legends/Gods/Loki In The Making.md",

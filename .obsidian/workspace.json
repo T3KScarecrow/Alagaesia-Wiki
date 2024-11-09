@@ -39,12 +39,14 @@
             "id": "890a0e6048ac682e",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Alagaesia/D&D Shop Catalog, V-2.0.2-Refresh.pdf"
+                "file": "Concepts/Ideas.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "D&D Shop Catalog, V-2.0.2-Refresh"
+              "icon": "lucide-file",
+              "title": "Ideas"
             }
           }
         ],
@@ -348,11 +350,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "f6cbbd37bc660a55",
+  "active": "890a0e6048ac682e",
   "lastOpenFiles": [
+    "Alagaesia/D&D Shop Catalog, V-2.0.2-Refresh.pdf",
     "Alagaesia/Myths & Legends/Gods/Vitalos.md",
     "Alagaesia/Myths & Legends/Gods/Khonshu.md",
-    "Alagaesia/D&D Shop Catalog, V-2.0.2-Refresh.pdf",
     "Alagaesia/BetterMap.png",
     "Alagaesia/Cities/Ironfell.md",
     "Alagaesia/Factions/Minor Factions/The Iron Vow Mercenary Company.md",

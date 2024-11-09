@@ -39,12 +39,12 @@
             "id": "890a0e6048ac682e",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "pdf",
               "state": {
-                "file": "Alagaesia/BetterMap.png"
+                "file": "Alagaesia/D&D Shop Catalog, V-2.0.2-Refresh.pdf"
               },
-              "icon": "lucide-image",
-              "title": "BetterMap"
+              "icon": "lucide-file-text",
+              "title": "D&D Shop Catalog, V-2.0.2-Refresh"
             }
           }
         ],
@@ -350,11 +350,11 @@
   },
   "active": "890a0e6048ac682e",
   "lastOpenFiles": [
+    "Alagaesia/BetterMap.png",
     "Concepts/Ideas.md",
     "Alagaesia/D&D Shop Catalog, V-2.0.2-Refresh.pdf",
     "Alagaesia/Myths & Legends/Gods/Vitalos.md",
     "Alagaesia/Myths & Legends/Gods/Khonshu.md",
-    "Alagaesia/BetterMap.png",
     "Alagaesia/Cities/Ironfell.md",
     "Alagaesia/Factions/Minor Factions/The Iron Vow Mercenary Company.md",
     "Alagaesia/Factions/Minor Factions/The Blood Cult of Skaro.md",

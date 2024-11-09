@@ -285,6 +285,11 @@
               "state": {
                 "calendar": "ID_1a89c9f90a59",
                 "ephemeral": {
+                  "viewing": {
+                    "day": 19,
+                    "month": 2,
+                    "year": 1342
+                  },
                   "viewState": 1,
                   "displaying": {
                     "day": 17,
@@ -294,7 +299,8 @@
                   "displayDayNumber": false,
                   "displayMoons": true
                 },
-                "id": "ID_e9a869187af8"
+                "id": "ID_e9a869187af8",
+                "child": "ID_4a9b8b7a3b2a"
               },
               "icon": "CALENDARIUM",
               "title": "Calendarium"
@@ -304,18 +310,18 @@
         "currentTab": 10
       },
       {
-        "id": "e55746ff5b7da70c",
+        "id": "f144e7a877472302",
         "type": "tabs",
         "children": [
           {
-            "id": "a1353406803c6633",
+            "id": "b2e259f815885b4a",
             "type": "leaf",
             "state": {
               "type": "CALENDARIUM_AGENDA",
               "state": {
                 "calendar": "ID_1a89c9f90a59",
-                "id": "ID_09987bd85a28",
-                "parent": "ID_787b3a5be888"
+                "id": "ID_4a9b8b7a3b2a",
+                "parent": "ID_e9a869187af8"
               },
               "icon": "CALENDARIUM_AGENDA",
               "title": "Agenda"
@@ -342,7 +348,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "890a0e6048ac682e",
+  "active": "f6cbbd37bc660a55",
   "lastOpenFiles": [
     "Alagaesia/Myths & Legends/Gods/Vitalos.md",
     "Alagaesia/Myths & Legends/Gods/Khonshu.md",

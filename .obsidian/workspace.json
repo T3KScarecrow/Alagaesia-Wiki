@@ -316,8 +316,7 @@
       "obsidian-5e-statblocks:Open Creature pane": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "calendarium:Open Calendarium": false
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
   "active": "890a0e6048ac682e",

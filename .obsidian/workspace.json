@@ -39,12 +39,14 @@
             "id": "890a0e6048ac682e",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Alagaesia/BetterMap.png"
+                "file": "Alagaesia/Factions/Minor Factions/The Iron Vow Mercenary Company.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "BetterMap"
+              "icon": "lucide-file",
+              "title": "The Iron Vow Mercenary Company"
             }
           }
         ],
@@ -350,8 +352,8 @@
   },
   "active": "890a0e6048ac682e",
   "lastOpenFiles": [
-    "Alagaesia/D&D Shop Catalog, V-2.0.2-Refresh.pdf",
     "Alagaesia/BetterMap.png",
+    "Alagaesia/D&D Shop Catalog, V-2.0.2-Refresh.pdf",
     "Concepts/Ideas.md",
     "Alagaesia/Myths & Legends/Gods/Vitalos.md",
     "Alagaesia/Myths & Legends/Gods/Khonshu.md",

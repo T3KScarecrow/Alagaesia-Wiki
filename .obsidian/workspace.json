@@ -39,14 +39,12 @@
             "id": "890a0e6048ac682e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Alagaesia/Myths & Legends/Gods/Vitalos.md",
-                "mode": "source",
-                "source": false
+                "file": "Alagaesia/D&D Shop Catalog, V-2.0.2-Refresh.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Vitalos"
+              "icon": "lucide-file-text",
+              "title": "D&D Shop Catalog, V-2.0.2-Refresh"
             }
           }
         ],
@@ -278,9 +276,32 @@
               "icon": "CALENDARIUM",
               "title": "Calendarium"
             }
+          },
+          {
+            "id": "f6cbbd37bc660a55",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_1a89c9f90a59",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 17,
+                    "month": 2,
+                    "year": 1342
+                  },
+                  "displayDayNumber": false,
+                  "displayMoons": true
+                },
+                "id": "ID_e9a869187af8"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       },
       {
         "id": "e55746ff5b7da70c",
@@ -304,8 +325,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 334.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -324,6 +344,7 @@
   },
   "active": "890a0e6048ac682e",
   "lastOpenFiles": [
+    "Alagaesia/Myths & Legends/Gods/Vitalos.md",
     "Alagaesia/Myths & Legends/Gods/Khonshu.md",
     "Alagaesia/D&D Shop Catalog, V-2.0.2-Refresh.pdf",
     "Alagaesia/BetterMap.png",
@@ -340,7 +361,6 @@
     "Alagaesia/Important People/Theramell.md",
     "Alagaesia/Myths & Legends/The Bagman.md",
     "Alagaesia/Myths & Legends/Gods/Zeboim.md",
-    "Alagaesia/Myths & Legends/Gods/Vitalos.md",
     "Alagaesia/Myths & Legends/Gods/Terros.md",
     "Alagaesia/Myths & Legends/Gods/Solinare.md",
     "Alagaesia/Myths & Legends/Gods/Sirrion.md",

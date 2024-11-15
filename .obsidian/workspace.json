@@ -11,12 +11,14 @@
             "id": "03743fe24b8253ac",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Alagaesia/BetterMap.png"
+                "file": "Concepts/Ideas.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "BetterMap"
+              "icon": "lucide-file",
+              "title": "Ideas"
             }
           }
         ]
@@ -312,6 +314,7 @@
   },
   "active": "03743fe24b8253ac",
   "lastOpenFiles": [
+    "Alagaesia/BetterMap.png",
     "Alagaesia/Factions/The Forebearers.md",
     "Alagaesia/Cities/City Of Tears.md",
     "Alagaesia/Cities/Argon City.md",
@@ -324,7 +327,6 @@
     "Alagaesia/Important People/Tesler.md",
     "Alagaesia/Myths & Legends/The Bagman.md",
     "Alagaesia/Factions/Minor Factions/The Iron Vow Mercenary Company.md",
-    "Alagaesia/BetterMap.png",
     "Alagaesia/D&D Shop Catalog, V-2.0.2-Refresh.pdf",
     "Alagaesia/Myths & Legends/Gods/Vitalos.md",
     "Alagaesia/Myths & Legends/Gods/Khonshu.md",
@@ -339,7 +341,6 @@
     "Alagaesia/Myths & Legends/Gods/Solinare.md",
     "Alagaesia/Myths & Legends/Gods/Sirrion.md",
     "Alagaesia/Myths & Legends/Gods/Pholtus.md",
-    "Alagaesia/Myths & Legends/Gods/Sargonnas.md",
     "Alagaesia/Factions/Minor Factions",
     "Alagaesia/Worldmap1.png",
     "Alagaesia/Archived VODs/Session -1, The Meeting of Wiate and Theramell.mkv",

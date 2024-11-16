@@ -11,12 +11,14 @@
             "id": "03743fe24b8253ac",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Alagaesia/BetterMap.png"
+                "file": "Concepts/Ideas.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "BetterMap"
+              "icon": "lucide-file",
+              "title": "Ideas"
             }
           }
         ]
@@ -296,13 +298,13 @@
   },
   "active": "03743fe24b8253ac",
   "lastOpenFiles": [
+    "Alagaesia/BetterMap.png",
     "Alagaesia/Cities/Evernmere.md",
     "Alagaesia/Cities/Kaluman.md",
     "Alagaesia/Myths & Legends/Gods/Khonshu.md",
     "Alagaesia/Myths & Legends/Gods/Nadruul.md",
     "Alagaesia/Myths & Legends/Gods/Pholtus.md",
     "Concepts/Ideas.md",
-    "Alagaesia/BetterMap.png",
     "Alagaesia/Factions/The Forebearers.md",
     "Alagaesia/Cities/City Of Tears.md",
     "Alagaesia/Cities/Argon City.md",
@@ -323,7 +325,6 @@
     "Alagaesia/Important People/King Edrin Valaire, The Kind King.md",
     "Alagaesia/Important People/Theramell.md",
     "Alagaesia/Myths & Legends/Gods/Zeboim.md",
-    "Alagaesia/Myths & Legends/Gods/Terros.md",
     "Alagaesia/Factions/Minor Factions",
     "Alagaesia/Worldmap1.png",
     "Alagaesia/Archived VODs/Session -1, The Meeting of Wiate and Theramell.mkv",

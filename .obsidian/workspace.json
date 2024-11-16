@@ -11,14 +11,12 @@
             "id": "03743fe24b8253ac",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Alagaesia/Factions/Minor Factions/The Iron Vow Mercenary Company.md",
-                "mode": "source",
-                "source": false
+                "file": "Alagaesia/BetterMap.png"
               },
-              "icon": "lucide-file",
-              "title": "The Iron Vow Mercenary Company"
+              "icon": "lucide-image",
+              "title": "BetterMap"
             }
           }
         ]
@@ -241,7 +239,9 @@
   },
   "active": "03743fe24b8253ac",
   "lastOpenFiles": [
+    "Alagaesia/Myths & Legends/The Menoa Tree.md",
     "Concepts/Ideas.md",
+    "Alagaesia/Factions/Minor Factions/The Iron Vow Mercenary Company.md",
     "Alagaesia/BetterMap.png",
     "Alagaesia/Cities/Evernmere.md",
     "Alagaesia/Cities/Kaluman.md",
@@ -258,7 +258,6 @@
     "Alagaesia/Factions/Minor Factions/The Gilded Pride Adventuring Party.md",
     "Alagaesia/Important People/Tesler.md",
     "Alagaesia/Myths & Legends/The Bagman.md",
-    "Alagaesia/Factions/Minor Factions/The Iron Vow Mercenary Company.md",
     "Alagaesia/D&D Shop Catalog, V-2.0.2-Refresh.pdf",
     "Alagaesia/Myths & Legends/Gods/Vitalos.md",
     "Alagaesia/Factions/Minor Factions/The Blood Cult of Skaro.md",

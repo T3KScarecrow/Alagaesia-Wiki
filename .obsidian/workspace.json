@@ -86,6 +86,7 @@
       {
         "id": "fae5c4bd789f9279",
         "type": "tabs",
+        "dimension": 39.351851851851855,
         "children": [
           {
             "id": "301d6a9a5810d5b3",
@@ -176,81 +177,6 @@
             }
           },
           {
-            "id": "f62bd111069b0dd8",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM",
-              "state": {
-                "calendar": "ID_1a89c9f90a59",
-                "ephemeral": {
-                  "viewState": 1,
-                  "displaying": {
-                    "day": 17,
-                    "month": 2,
-                    "year": 1342
-                  },
-                  "displayDayNumber": false,
-                  "displayMoons": true
-                },
-                "id": "ID_da487978bbeb"
-              },
-              "icon": "CALENDARIUM",
-              "title": "Calendarium"
-            }
-          },
-          {
-            "id": "78bcf91651b497bf",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM",
-              "state": {
-                "calendar": "ID_1a89c9f90a59",
-                "ephemeral": {
-                  "viewState": 1,
-                  "displaying": {
-                    "day": 17,
-                    "month": 2,
-                    "year": 1342
-                  },
-                  "displayDayNumber": false,
-                  "displayMoons": true
-                },
-                "id": "ID_f97abaaac8fb"
-              },
-              "icon": "CALENDARIUM",
-              "title": "Calendarium"
-            }
-          },
-          {
-            "id": "f2f47c4dc38502e2",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM",
-              "state": {
-                "calendar": "ID_1a89c9f90a59",
-                "ephemeral": {
-                  "viewing": {
-                    "day": 4,
-                    "month": 6,
-                    "year": 1342
-                  },
-                  "viewState": 1,
-                  "displaying": {
-                    "day": 17,
-                    "month": 6,
-                    "year": 1342
-                  },
-                  "displayDayNumber": false,
-                  "displayMoons": true
-                },
-                "id": "ID_787b3a5be888",
-                "child": "ID_09987bd85a28"
-              },
-              "icon": "CALENDARIUM",
-              "title": "Calendarium"
-            }
-          },
-          {
             "id": "f6cbbd37bc660a55",
             "type": "leaf",
             "state": {
@@ -275,21 +201,38 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 7
+      },
+      {
+        "id": "b8713535a38fc058",
+        "type": "tabs",
+        "dimension": 60.64814814814815,
+        "children": [
+          {
+            "id": "0c7e063117fe418a",
+            "type": "leaf",
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {},
+              "icon": "skull",
+              "title": "Combatant"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 380.5
+    "width": 521.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-5e-statblocks:Open Creature pane": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-5e-statblocks:Open Creature pane": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,

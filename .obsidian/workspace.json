@@ -11,14 +11,12 @@
             "id": "03743fe24b8253ac",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Alagaesia/Cities/Evernmere.md",
-                "mode": "source",
-                "source": false
+                "file": "Alagaesia/BetterMap.png"
               },
-              "icon": "lucide-file",
-              "title": "Evernmere"
+              "icon": "lucide-image",
+              "title": "BetterMap"
             }
           }
         ]
@@ -298,6 +296,7 @@
   },
   "active": "03743fe24b8253ac",
   "lastOpenFiles": [
+    "Alagaesia/Cities/Evernmere.md",
     "Alagaesia/Cities/Kaluman.md",
     "Alagaesia/Myths & Legends/Gods/Khonshu.md",
     "Alagaesia/Myths & Legends/Gods/Nadruul.md",
@@ -325,7 +324,6 @@
     "Alagaesia/Important People/Theramell.md",
     "Alagaesia/Myths & Legends/Gods/Zeboim.md",
     "Alagaesia/Myths & Legends/Gods/Terros.md",
-    "Alagaesia/Myths & Legends/Gods/Solinare.md",
     "Alagaesia/Factions/Minor Factions",
     "Alagaesia/Worldmap1.png",
     "Alagaesia/Archived VODs/Session -1, The Meeting of Wiate and Theramell.mkv",

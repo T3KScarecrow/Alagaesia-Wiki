@@ -276,22 +276,6 @@
           }
         ],
         "currentTab": 10
-      },
-      {
-        "id": "d59d1be70229f02f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "11dc8ae0d34e15a2",
-            "type": "leaf",
-            "state": {
-              "type": "fantasy-statblocks-creature-pane",
-              "state": {},
-              "icon": "skull",
-              "title": "Combatant"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
@@ -312,7 +296,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "03743fe24b8253ac",
+  "active": "f6cbbd37bc660a55",
   "lastOpenFiles": [
     "Alagaesia/BetterMap.png",
     "Alagaesia/Factions/The Forebearers.md",

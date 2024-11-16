@@ -84,7 +84,6 @@
       {
         "id": "fae5c4bd789f9279",
         "type": "tabs",
-        "dimension": 39.351851851851855,
         "children": [
           {
             "id": "301d6a9a5810d5b3",
@@ -200,23 +199,6 @@
           }
         ],
         "currentTab": 7
-      },
-      {
-        "id": "b8713535a38fc058",
-        "type": "tabs",
-        "dimension": 60.64814814814815,
-        "children": [
-          {
-            "id": "0c7e063117fe418a",
-            "type": "leaf",
-            "state": {
-              "type": "fantasy-statblocks-creature-pane",
-              "state": {},
-              "icon": "skull",
-              "title": "Combatant"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",

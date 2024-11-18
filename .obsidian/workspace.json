@@ -11,12 +11,14 @@
             "id": "03743fe24b8253ac",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Alagaesia/Worldmap1.png"
+                "file": "Alagaesia/Factions/The Vulgomage.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Worldmap1"
+              "icon": "lucide-file",
+              "title": "The Vulgomage"
             }
           }
         ]
@@ -236,8 +238,8 @@
   },
   "active": "03743fe24b8253ac",
   "lastOpenFiles": [
-    "Alagaesia/BetterMap.png",
     "Alagaesia/Worldmap1.png",
+    "Alagaesia/BetterMap.png",
     "Concepts/Ideas.md",
     "Alagaesia/Myths & Legends/The Menoa Tree.md",
     "Alagaesia/Factions/Minor Factions/The Iron Vow Mercenary Company.md",

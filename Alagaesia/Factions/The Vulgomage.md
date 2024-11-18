@@ -10,7 +10,7 @@ Located in the heart of the land, Caelora is the largest and most prominent Vulg
 
 Thalassara is situated to the northeast, close to the edge of the Du Weldenvarden, The Great Forest, and overlooking the sea. The name Thalassara is derived from ancient Vulgomage words for "sea" and "watch," reflecting its role as both a trade hub and a sentinel city guarding the northern approaches. Its proximity to the elven realms has made it a place of uneasy but important exchanges, with some Forestfolk venturing to the cities to trade or share knowledge. The cities' architecture is a blend of elven grace and human ingenuity, with sleek towers of wood and stone that mirror the nearby trees. Thalassara is known for its grand port city, Horizons Edge. Its ruling council, known as the Thalassocracy, is composed of wealthy merchant-mages who control the flow of trade and magic throughout the kingdom.
 
-#### 3. **[[Ostholme]]** (The Southern Port City)
+#### 3. **[[Ostholme]]** (The Southern Port Kingdom)
 
 Located on the southeastern coast, Ostholme is the southernmost Vulgomage kingdom, a bustling port kingdom that serves as the gateway to distant lands across the seas. Ostholme's position on the warm southern waters has made it a melting pot of cultures, with traders and sailors from all over the world passing through. The cities' mages are known for their mastery of wind and storm magics, aiding in navigation and the protection of ships from the treacherous sea. Ostholme is a vista of contrasts, where opulent mansions rise alongside bustling markets and docks filled with exotic goods. 
 

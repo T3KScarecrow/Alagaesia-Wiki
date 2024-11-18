@@ -1,6 +1,9 @@
 The elven township known as **Lenoria**, is a serene settlement deep within the enchanted expanse of Du Weldenvarden. With tall, silver-barked trees that glimmer under the perpetual canopy, the town is woven seamlessly with the natural environment, blending wooden structures and hanging bridges with the mystical foliage. Lenoria is known for its whispering glades and glistening pools where elven spellcasters practice their art under the moon's glow.
 
-### History and Important Locations:
+### History:
+Many years ago, the caretaker of Lenoria, Vorone Thalorien stepped down from the role, but insisted the title be passed down to his son, Aelindir Thalorien. None disputed this decision as Vorone had been a kind and benevolent overseer. This had been the wrong choice. Without earning the title, the young, immature elf Aelindir wrought  
+
+### Important Locations:
 - **Vesper’s Circle**: A stone amphitheater where Vesper's act of rebellion occurred. Now a place of storytelling and music, it serves as a reminder of the boldness that brought change.
 - **The Glimmerheart Forge**: An artisanal workshop run by skilled elven smiths who craft masterpieces for the sake of art. This place has no exchange of currency, only admiration and the sharing of techniques.
 - **Lenorian Sanctuary**: A tranquil space for contemplation and spellcraft. It is an open grove lined with runes that resonate with ancient Forebearer energy.

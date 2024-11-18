@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Alagaesia/Cities/City Of Tears.md",
+                "file": "Alagaesia/Factions/The Forestfolk.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "City Of Tears"
+              "title": "The Forestfolk"
             }
           }
         ]
@@ -236,8 +236,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "03743fe24b8253ac",
+  "active": "333464d61203671c",
   "lastOpenFiles": [
+    "Alagaesia/Cities/Untitled",
+    "Alagaesia/Factions/Minor Factions/The Iron Vow Mercenary Company.md",
+    "Alagaesia/Factions/The Forestfolk.md",
+    "Alagaesia/Cities/City Of Tears.md",
     "Alagaesia/Cities/Ellesmera.md",
     "Alagaesia/Cities/Evernmere.md",
     "Alagaesia/Cities/Gilead.md",
@@ -247,7 +251,6 @@
     "Alagaesia/Cities/Cogmind",
     "Alagaesia/Important People/CLU.md",
     "Alagaesia/Factions/The Forebearers.md",
-    "Alagaesia/Cities/City Of Tears.md",
     "Alagaesia/Cities/Cogmind/Argon City.md",
     "Alagaesia/Cities/Dwarven/Urubaen.md",
     "Alagaesia/Cities/Dwarven/Tronjheim.md",
@@ -264,9 +267,6 @@
     "Alagaesia/Cities/Thalassaran/Horizon's Edge.md",
     "Alagaesia/Cities/Caeloran/Ironhenge.md",
     "Alagaesia/Cities/Caeloran/Glaswood.md",
-    "Alagaesia/Cities/Caeloran/Falshire.md",
-    "Alagaesia/Cities/Caeloran/Brighthaven.md",
-    "Alagaesia/Cities/Ostholmian/Dunvarr.md",
     "Alagaesia/Cities/Ostholmian",
     "Alagaesia/Cities/Thalassaran",
     "Alagaesia/Cities/Caeloran",

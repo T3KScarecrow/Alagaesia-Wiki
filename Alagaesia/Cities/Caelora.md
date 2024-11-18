@@ -31,7 +31,7 @@ Inside, the nave stretches upward to an intricate domed ceiling painted with sce
 **Practices and Worship**
 Worshipers at the *Church of Vitalos* come for various reasons: some to pray for health and recovery, others for prosperity in their harvests or personal ventures. Services are often marked by melodic hymns and rituals involving offerings of fruits, flowers, and vials of clear spring water. Priests and priestesses of Vitalos
 
-### The Silver Quill Tavern and Its Bartender, Aric Dunwhistle
+#### The Silver Quill Tavern and Its Bartender, Aric Dunwhistle
 
 Nestled on the cobbled corner of Caelora’s bustling Artisan’s Quarter, just a short walk from the grand façade of the Great Museum of Arcane History (MoAH), stands *The Silver Quill Tavern*. Known for its warm ambiance and scholarly patrons, this establishment has become a favoured gathering spot for archaeologers, mages, and visiting scholars who frequent the museum. The tavern’s sign—a silver quill in mid-script, glimmering with enchantment—sways gently above the stout oaken door.
 

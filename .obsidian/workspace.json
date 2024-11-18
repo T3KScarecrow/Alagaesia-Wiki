@@ -11,14 +11,12 @@
             "id": "03743fe24b8253ac",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Concepts/Ideas.md",
-                "mode": "source",
-                "source": false
+                "file": "Alagaesia/Worldmap1.png"
               },
-              "icon": "lucide-file",
-              "title": "Ideas"
+              "icon": "lucide-image",
+              "title": "Worldmap1"
             }
           }
         ]
@@ -183,10 +181,9 @@
               "state": {
                 "calendar": "ID_1a89c9f90a59",
                 "ephemeral": {
-                  "viewing": null,
                   "viewState": 1,
                   "displaying": {
-                    "day": 17,
+                    "day": 21,
                     "month": 2,
                     "year": 1342
                   },
@@ -240,8 +237,9 @@
   "active": "03743fe24b8253ac",
   "lastOpenFiles": [
     "Alagaesia/BetterMap.png",
-    "Alagaesia/Myths & Legends/The Menoa Tree.md",
+    "Alagaesia/Worldmap1.png",
     "Concepts/Ideas.md",
+    "Alagaesia/Myths & Legends/The Menoa Tree.md",
     "Alagaesia/Factions/Minor Factions/The Iron Vow Mercenary Company.md",
     "Alagaesia/Cities/Evernmere.md",
     "Alagaesia/Cities/Kaluman.md",
@@ -267,7 +265,6 @@
     "Alagaesia/Important People/King Edrin Valaire, The Kind King.md",
     "Alagaesia/Important People/Theramell.md",
     "Alagaesia/Factions/Minor Factions",
-    "Alagaesia/Worldmap1.png",
     "Alagaesia/Archived VODs/Session -1, The Meeting of Wiate and Theramell.mkv",
     "Alagaesia/Archived VODs",
     "Alagaesia/Myths & Legends/Gods",

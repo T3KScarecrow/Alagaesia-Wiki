@@ -98,28 +98,7 @@
   "playerMarker": "default",
   "monsterMarker": "default",
   "state": {
-    "creatures": [
-      {
-        "name": "Goblin",
-        "initiative": 14,
-        "static": false,
-        "modifier": 2,
-        "hp": 7,
-        "currentMaxHP": 7,
-        "cr": "1/4",
-        "ac": 15,
-        "currentAC": 15,
-        "id": "ID_d90b185a687a",
-        "currentHP": 7,
-        "tempHP": 0,
-        "status": [],
-        "enabled": true,
-        "active": false,
-        "hidden": false,
-        "friendly": false,
-        "hit_dice": "2d6"
-      }
-    ],
+    "creatures": [],
     "state": false,
     "name": null,
     "round": 1,

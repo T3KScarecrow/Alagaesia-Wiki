@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Alagaesia/Factions/The Forestfolk.md",
+                "file": "Alagaesia/Important People/Dyson.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Forestfolk"
+              "title": "Dyson"
             }
           }
         ]
@@ -236,17 +236,22 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "333464d61203671c",
+  "active": "03743fe24b8253ac",
   "lastOpenFiles": [
-    "Alagaesia/Cities/Untitled",
-    "Alagaesia/Factions/Minor Factions/The Iron Vow Mercenary Company.md",
-    "Alagaesia/Factions/The Forestfolk.md",
-    "Alagaesia/Cities/City Of Tears.md",
-    "Alagaesia/Cities/Ellesmera.md",
-    "Alagaesia/Cities/Evernmere.md",
-    "Alagaesia/Cities/Gilead.md",
-    "Alagaesia/Cities/Cogmind/Pergos.md",
+    "Alagaesia/Important People/Duke Alaric Stonewrought.md",
+    "Alagaesia/Important People/Malachar The Sanguine.md",
+    "Alagaesia/Factions/The Enlightened.md",
     "Alagaesia/Cities/Vaer Quethal.md",
+    "Alagaesia/Cities/Gilead.md",
+    "Alagaesia/Cities/Kaluman.md",
+    "Alagaesia/Cities/Ruined/City Of Tears.md",
+    "Alagaesia/Cities/Ruined",
+    "Alagaesia/Cities/Aldorellan/Evernmere.md",
+    "Alagaesia/Factions/The Forestfolk.md",
+    "Alagaesia/Cities/Aldorellan/Ellesmera.md",
+    "Alagaesia/Cities/Aldorellan",
+    "Alagaesia/Factions/Minor Factions/The Iron Vow Mercenary Company.md",
+    "Alagaesia/Cities/Cogmind/Pergos.md",
     "Alagaesia/Factions/The Mechinators.md",
     "Alagaesia/Cities/Cogmind",
     "Alagaesia/Important People/CLU.md",
@@ -255,26 +260,21 @@
     "Alagaesia/Cities/Dwarven/Urubaen.md",
     "Alagaesia/Cities/Dwarven/Tronjheim.md",
     "Alagaesia/Cities/Dwarven/Svatlheim.md",
-    "Alagaesia/Cities/Kaluman.md",
     "Alagaesia/Cities/Cogmind/Hargraven.md",
     "Alagaesia/Cities/Dwarven/Haidenmaru.md",
     "Alagaesia/Cities/Unaffiliated/Ironfell.md",
     "Alagaesia/Cities/Dwarven",
-    "Alagaesia/Important People/Duke Alaric Stonewrought.md",
     "Alagaesia/Cities/Thalassaran/Tidehome.md",
     "Alagaesia/Cities/Unaffiliated",
     "Alagaesia/Cities/Thalassaran/Windmere.md",
     "Alagaesia/Cities/Thalassaran/Horizon's Edge.md",
     "Alagaesia/Cities/Caeloran/Ironhenge.md",
-    "Alagaesia/Cities/Caeloran/Glaswood.md",
     "Alagaesia/Cities/Ostholmian",
     "Alagaesia/Cities/Thalassaran",
     "Alagaesia/Cities/Caeloran",
     "Alagaesia/Worldmap1.png",
     "Alagaesia/BetterMap.png",
     "Alagaesia/D&D Shop Catalog, V-2.0.2-Refresh.pdf",
-    "Alagaesia/Factions/Minor Factions",
-    "Alagaesia/Archived VODs/Session -1, The Meeting of Wiate and Theramell.mkv",
-    "Alagaesia/Archived VODs"
+    "Alagaesia/Factions/Minor Factions"
   ]
 }

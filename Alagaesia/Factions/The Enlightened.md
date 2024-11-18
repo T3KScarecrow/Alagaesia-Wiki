@@ -12,4 +12,32 @@ The Enlightened's origins are deeply intertwined with the catastrophic events su
 
 ### **Leadership**
 
-The Enlightened is led by **[[Lord Tyrannus]]**, a figure both revered and feared. Known for his charismatic speeches and ruthless tactics, Tyrannus embodies the faction's zealous spirit. Under his leadership, the Enlightened has become more organized and militarized, with his commands often translating into swift and brutal actions against those deemed unworthy. His vision for a world unified under the One True God drives the faction’s relentless expansion, making him a pivotal force in the ongoing conflict with other races and factions.
+The Enlightened is led by **[[Lord Tyrannus]]**, a figure both revered and feared. Known for his charismatic speeches and ruthless tactics, Tyrannus embodies the faction's zealous spirit. Under his leadership, the Enlightened has become more organized and militarized, with his commands often translating into swift and brutal actions against those deemed unworthy. His vision for a world unified under the One True God drives the faction’s relentless expansion, making him a pivotal force in the ongoing conflict with other races and factions. The faction is split into two divisions, each operating from different cities, with slightly differing governing structures.
+
+#### Divisions of The Enlightened
+
+##### 1. **The Holy Order of the Vanguard**
+
+**Description**: The Holy Order of the Vanguard serves as the militant and crusading arm of The Enlightened. Its mission is to expand Alaegor's influence through conquest and forceful assimilation. The Vanguard is known for their rigorous discipline, zealous faith, and unyielding approach to warfare. Members of this order see themselves as the true bearers of Alaegor’s will, dedicated to spreading his doctrine and purging those they deem heretical. Clad in ornate armor inscribed with holy symbols, they march under banners of pure white emblazoned with a golden flame, symbolizing divine purification.
+
+**Central City of Operation**: **Celestarch**—A fortress city that stands as the heart of The Enlightened's military might. Celestarch's grand halls echo with battle hymns and sermons, preparing warriors spiritually and physically for campaigns.
+
+**Important Figures**:
+
+- **High Commander Seraphion Tormand**: A battle-hardened leader whose strategies have secured victory in countless crusades.
+- **Saint Ganelle of the Pure Light**: Revered as a living saint, she leads battle prayers and inspires troops with divine blessings during campaigns.
+- **Captain Mathias Drehl**: A ruthless officer renowned for his unwavering faith and relentless pursuit of enemies.
+
+##### 2. **The Inquisitorial Sanctum**
+
+**Description**: The Inquisitorial Sanctum is the shadowy, secretive branch of The Enlightened focused on intelligence, subterfuge, and maintaining doctrinal purity. Members of the Sanctum, known as Inquisitors, are tasked with rooting out dissent, heresy, and any threats to Alaegor's will from within The Enlightened's territories and beyond. Their methods often involve psychological manipulation, magic-infused interrogation, and covert operations. The Sanctum's symbol is a golden eye set against a black background, symbolizing unblinking vigilance.
+
+**Central City of Operation**: **Tyrhallow**—A city shrouded in mystery and known for its grand spires and labyrinthine catacombs, where the Sanctum conducts its operations and secret trials.
+
+**Important Figures**:
+
+- **Grand Inquisitor Aeleth Morgayne**: The feared and revered leader of the Sanctum, known for her piercing intellect and mastery of divination magic.
+- **Preceptor Valen Craegus**: Overseer of covert missions and espionage, responsible for gathering intelligence and orchestrating sabotage.
+- **Inquisitor Elara Voss**: A skilled spellcaster specializing in illusion and enchantment, tasked with infiltrating enemy factions to gather information or sow discord.
+
+These divisions, though differing in their methods, share an unyielding loyalty to Lord Tyrannus and the divine purpose they believe was ordained by Alaegor.

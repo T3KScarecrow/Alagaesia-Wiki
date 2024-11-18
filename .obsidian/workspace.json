@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Alagaesia/Factions/The Enlightened.md",
+                "file": "Alagaesia/Important People/CLASSIFIED (SPOLIERS WITHIN)/Pavel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Enlightened"
+              "title": "Pavel"
+            }
+          },
+          {
+            "id": "a330ef256439dab1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Alagaesia/Important People/CLASSIFIED (SPOLIERS WITHIN)/Tesler.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tesler"
+            }
+          },
+          {
+            "id": "e5eeaa4e5ed72f30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Alagaesia/Important People/CLASSIFIED (SPOLIERS WITHIN)/Pavel.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pavel"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -226,12 +255,19 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "f6cbbd37bc660a55",
+  "active": "333464d61203671c",
   "lastOpenFiles": [
+    "Alagaesia/Important People/CLASSIFIED (SPOLIERS WITHIN)/Tesler.md",
+    "Alagaesia/Important People/CLASSIFIED (SPOLIERS WITHIN)/Pavel.md",
+    "Alagaesia/Important People/CLASSIFIED (SPOLIERS WITHIN)/Malachar The Sanguine.md",
+    "Alagaesia/Important People/CLASSIFIED (SPOLIERS WITHIN)/Lord Tyrannus.md",
+    "Alagaesia/Important People/King Edrin Valaire, The Kind King.md",
+    "Alagaesia/Factions/The Enlightened.md",
+    "Alagaesia/Important People/CLASSIFIED (SPOLIERS WITHIN)",
+    "Alagaesia/BetterMap(2).jpg",
     "Alagaesia/Factions/The Forebearers.md",
     "Alagaesia/Factions/The Mechinators.md",
     "Alagaesia/Factions/The Forestfolk.md",
-    "Alagaesia/Factions/The Enlightened.md",
     "Alagaesia/Factions/The Stoners.md",
     "Alagaesia/Factions/The Vulgomage.md",
     "Alagaesia/Factions/The Undersea.md",
@@ -247,9 +283,8 @@
     "Alagaesia/Cities/CLASSIFIED (SPOILERS WITHIN)",
     "Alagaesia/Cities/Enlightened/Gilead.md",
     "Alagaesia/Cities/Enlightened",
-    "Alagaesia/Important People/Dyson.md",
-    "Alagaesia/Important People/Duke Alaric Stonewrought.md",
-    "Alagaesia/Important People/Malachar The Sanguine.md",
+    "Alagaesia/Important People/CLASSIFIED (SPOLIERS WITHIN)/Dyson.md",
+    "Alagaesia/Important People/CLASSIFIED (SPOLIERS WITHIN)/Duke Alaric Stonewrought.md",
     "Alagaesia/Cities/Ruined",
     "Alagaesia/Cities/Aldorellan/Evernmere.md",
     "Alagaesia/Cities/Aldorellan/Ellesmera.md",
@@ -257,14 +292,9 @@
     "Alagaesia/Factions/Minor Factions/The Iron Vow Mercenary Company.md",
     "Alagaesia/Cities/Cogmind/Pergos.md",
     "Alagaesia/Cities/Cogmind",
-    "Alagaesia/Important People/CLU.md",
-    "Alagaesia/Cities/Dwarven/Urubaen.md",
-    "Alagaesia/Cities/Dwarven/Tronjheim.md",
-    "Alagaesia/Cities/Dwarven/Svatlheim.md",
     "Alagaesia/Cities/Dwarven",
     "Alagaesia/Cities/Unaffiliated",
     "Alagaesia/Cities/Ostholmian",
-    "Alagaesia/Cities/Thalassaran",
     "Alagaesia/Worldmap1.png",
     "Alagaesia/BetterMap.png"
   ]

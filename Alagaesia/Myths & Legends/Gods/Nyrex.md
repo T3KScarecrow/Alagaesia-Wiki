@@ -1,0 +1,1 @@
+Originally known by the [[The Forebearers|Forebearers]] as Noctyrex, Nyrex is the [[The Vulgomage|Vulgomage]] god of shadows, stealth and the unknown. A deity of subtlety and precision,  

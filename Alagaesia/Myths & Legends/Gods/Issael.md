@@ -1,0 +1,1 @@
+Originally known by the [[The Forebearers|Forebearers]] as Issaephyra, Issael is the human and elf god of familial love and unity. Issael is often called on during marriage ceremonies to bless the union and ensure a harmonious household. Issael is depicted as a golden light surrounded by intertwining vines, meant to represent unbreakable bonds.

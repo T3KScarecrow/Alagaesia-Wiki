@@ -11,12 +11,14 @@
             "id": "f761b79779826f4e",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Alagaesia/BetterMap.png"
+                "file": "Alagaesia/Myths & Legends/Gods/Zarros.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "BetterMap"
+              "icon": "lucide-file",
+              "title": "Zarros"
             }
           }
         ]
@@ -84,7 +86,6 @@
       {
         "id": "fae5c4bd789f9279",
         "type": "tabs",
-        "dimension": 76.85185185185185,
         "children": [
           {
             "id": "301d6a9a5810d5b3",
@@ -188,26 +189,6 @@
             }
           },
           {
-            "id": "e5eeaa4e5ed72f30",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Alagaesia/BetterMap.png"
-              },
-              "icon": "lucide-image",
-              "title": "BetterMap"
-            }
-          }
-        ],
-        "currentTab": 7
-      },
-      {
-        "id": "95feca345d17d914",
-        "type": "tabs",
-        "dimension": 23.14814814814815,
-        "children": [
-          {
             "id": "38fb53ef513c988f",
             "type": "leaf",
             "state": {
@@ -217,11 +198,12 @@
               "title": "Combatant"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 521.5
+    "width": 453.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -240,10 +222,14 @@
   },
   "active": "f761b79779826f4e",
   "lastOpenFiles": [
-    "Alagaesia/133547411240553320.jpg",
-    "Alagaesia/BetterMap.png",
-    "Alagaesia/Myths & Legends/The Bagman.md",
+    "The Fall.md",
     "Alagaesia/Myths & Legends/Gods/Zarros.md",
+    "Alagaesia/History/Major Historical Events/The Fall of The Forebearers.md",
+    "Alagaesia/History/Major Historical Events",
+    "Alagaesia/History",
+    "Alagaesia/BetterMap.png",
+    "Alagaesia/133547411240553320.jpg",
+    "Alagaesia/Myths & Legends/The Bagman.md",
     "Alagaesia/Myths & Legends/Gods/Aeloria.md",
     "Alagaesia/Myths & Legends/Gods/Guntera.md",
     "Alagaesia/Myths & Legends/Gods/Khonshu.md",
@@ -267,7 +253,6 @@
     "Alagaesia/Cities/CLASSIFIED (SPOILERS WITHIN)/Atlazara or Talazoria.md",
     "Alagaesia/Factions/The Forestfolk.md",
     "Alagaesia/Cities/Aldorellan/Ellesmera.md",
-    "Alagaesia/Cities/Ruined/City Of Tears.md",
     "Alagaesia/Important People/Untitled",
     "Alagaesia/Important People/CLASSIFIED (SPOLIERS WITHIN)",
     "Alagaesia/BetterMap(2).jpg",
@@ -277,8 +262,6 @@
     "Alagaesia/Cities/Enlightened",
     "Alagaesia/Cities/Ruined",
     "Alagaesia/Cities/Aldorellan",
-    "Alagaesia/Cities/Cogmind",
-    "Alagaesia/Cities/Dwarven",
     "Alagaesia/Worldmap1.png"
   ]
 }

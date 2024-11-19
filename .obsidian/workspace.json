@@ -11,14 +11,12 @@
             "id": "f761b79779826f4e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Alagaesia/Myths & Legends/Gods/AAA The Gods, Explained.md",
-                "mode": "source",
-                "source": false
+                "file": "Alagaesia/BetterMap.png"
               },
-              "icon": "lucide-file",
-              "title": "AAA The Gods, Explained"
+              "icon": "lucide-image",
+              "title": "BetterMap"
             }
           },
           {
@@ -236,8 +234,12 @@
   },
   "active": "f761b79779826f4e",
   "lastOpenFiles": [
-    "Alagaesia/Factions/The Unaligned/The Halflings.md",
+    "Alagaesia/BetterMap(2).jpg",
+    "Alagaesia/BetterMap.png",
+    "Alagaesia/Myths & Legends/Gods/Nyrex.md",
     "Alagaesia/Myths & Legends/Gods/AAA The Gods, Explained.md",
+    "Alagaesia/Myths & Legends/Gods/Zarros.md",
+    "Alagaesia/Factions/The Unaligned/The Halflings.md",
     "Alagaesia/Factions/The Unaligned",
     "Alagaesia/Factions/The Vulgomage/The Humans.md",
     "Alagaesia/Factions/The Stoners/The Dwarves.md",
@@ -257,12 +259,9 @@
     "Alagaesia/Factions/The Enlightened",
     "Alagaesia/Cities/Z CLASSIFIED (SPOILERS WITHIN)/Atlazara or Talazoria.md",
     "Alagaesia/Cities/Z CLASSIFIED (SPOILERS WITHIN)/Vaer Quethal.md",
-    "Alagaesia/Myths & Legends/Gods/Nyrex.md",
     "Alagaesia/Myths & Legends/Gods/Issael.md",
-    "Alagaesia/Myths & Legends/Gods/Zarros.md",
     "The Fall.md",
     "Alagaesia/History/Major Historical Events/The Fall of The Forebearers.md",
-    "Alagaesia/BetterMap.png",
     "Alagaesia/133547411240553320.jpg",
     "Alagaesia/Myths & Legends/The Bagman.md",
     "Alagaesia/Myths & Legends/Gods/Aeloria.md",
@@ -273,8 +272,6 @@
     "Alagaesia/Myths & Legends/Gods/Pholtus.md",
     "Alagaesia/Myths & Legends/Gods/Terros.md",
     "Alagaesia/Myths & Legends/Gods/Vitalos.md",
-    "Alagaesia/Myths & Legends/Gods/WIP/Zeboim.md",
-    "Alagaesia/BetterMap(2).jpg",
     "Alagaesia/FixedMap1.jpg",
     "Alagaesia/Worldmap1.png"
   ]

@@ -14,6 +14,9 @@
 - Nephilims
 - Ghostborne
 - Cat One
+- Doppelgangers
+- Skinwalkers
+- Vampires
 -----------------------------------------------------------------------
 Nonintelligent Races
 - Beholders
@@ -22,7 +25,6 @@ Nonintelligent Races
 - Banshees
 - Chimeras
 - Undead
-- Doppelgangers
 - Hydras
 - Falsehydras
 - Golems
@@ -31,6 +33,4 @@ Nonintelligent Races
 - Mimics
 - Ooze
 - Skeletons
-- Skinwalkers
-- Vampires
 - Demogorgons

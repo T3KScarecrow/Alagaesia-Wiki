@@ -4,53 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "a7f8fe07701bdc77",
+        "id": "563fb850ca06a6ce",
         "type": "tabs",
         "children": [
           {
-            "id": "03743fe24b8253ac",
+            "id": "f761b79779826f4e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Alagaesia/Important People/CLASSIFIED (SPOLIERS WITHIN)/Pavel.md",
-                "mode": "source",
-                "source": false
+                "file": "Alagaesia/BetterMap.png"
               },
-              "icon": "lucide-file",
-              "title": "Pavel"
-            }
-          },
-          {
-            "id": "a330ef256439dab1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Alagaesia/Important People/CLASSIFIED (SPOLIERS WITHIN)/Tesler.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tesler"
-            }
-          },
-          {
-            "id": "e5eeaa4e5ed72f30",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Alagaesia/Myths & Legends/Gods/Zarros.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Zarros"
+              "icon": "lucide-image",
+              "title": "BetterMap"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,6 +84,7 @@
       {
         "id": "fae5c4bd789f9279",
         "type": "tabs",
+        "dimension": 76.85185185185185,
         "children": [
           {
             "id": "301d6a9a5810d5b3",
@@ -216,13 +186,26 @@
               "icon": "CALENDARIUM",
               "title": "Calendarium"
             }
+          },
+          {
+            "id": "e5eeaa4e5ed72f30",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Alagaesia/BetterMap.png"
+              },
+              "icon": "lucide-image",
+              "title": "BetterMap"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       },
       {
         "id": "95feca345d17d914",
         "type": "tabs",
+        "dimension": 23.14814814814815,
         "children": [
           {
             "id": "38fb53ef513c988f",
@@ -255,10 +238,13 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e5eeaa4e5ed72f30",
+  "active": "f761b79779826f4e",
   "lastOpenFiles": [
-    "Alagaesia/Myths & Legends/Gods/Aeloria.md",
+    "Alagaesia/133547411240553320.jpg",
+    "Alagaesia/BetterMap.png",
+    "Alagaesia/Myths & Legends/The Bagman.md",
     "Alagaesia/Myths & Legends/Gods/Zarros.md",
+    "Alagaesia/Myths & Legends/Gods/Aeloria.md",
     "Alagaesia/Myths & Legends/Gods/Guntera.md",
     "Alagaesia/Myths & Legends/Gods/Khonshu.md",
     "Alagaesia/Myths & Legends/Gods/Nadruul.md",
@@ -282,8 +268,6 @@
     "Alagaesia/Factions/The Forestfolk.md",
     "Alagaesia/Cities/Aldorellan/Ellesmera.md",
     "Alagaesia/Cities/Ruined/City Of Tears.md",
-    "Alagaesia/Cities/Dwarven/Tronjheim.md",
-    "Alagaesia/Cities/Caeloran/Caelora.md",
     "Alagaesia/Important People/Untitled",
     "Alagaesia/Important People/CLASSIFIED (SPOLIERS WITHIN)",
     "Alagaesia/BetterMap(2).jpg",
@@ -295,7 +279,6 @@
     "Alagaesia/Cities/Aldorellan",
     "Alagaesia/Cities/Cogmind",
     "Alagaesia/Cities/Dwarven",
-    "Alagaesia/Worldmap1.png",
-    "Alagaesia/BetterMap.png"
+    "Alagaesia/Worldmap1.png"
   ]
 }

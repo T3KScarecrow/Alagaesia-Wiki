@@ -11,14 +11,12 @@
             "id": "f761b79779826f4e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Alagaesia/Cities/Ruined/City Of Tears.md",
-                "mode": "source",
-                "source": false
+                "file": "Alagaesia/BetterMap(2).jpg"
               },
-              "icon": "lucide-file",
-              "title": "City Of Tears"
+              "icon": "lucide-image",
+              "title": "BetterMap(2)"
             }
           },
           {
@@ -236,13 +234,14 @@
   },
   "active": "f761b79779826f4e",
   "lastOpenFiles": [
+    "Alagaesia/BetterMap.png",
+    "Alagaesia/Cities/Ruined/City Of Tears.md",
     "Alagaesia/Myths & Legends/Gods/Nyrex.md",
     "Alagaesia/Myths & Legends/Gods/Nadruul.md",
     "Alagaesia/Myths & Legends/Gods/Khonshu.md",
     "Alagaesia/Myths & Legends/Gods/Zarros.md",
     "Alagaesia/Myths & Legends/Gods/Vitalos.md",
     "Alagaesia/BetterMap(2).jpg",
-    "Alagaesia/BetterMap.png",
     "Alagaesia/Myths & Legends/Gods/Kaelyra - Goddess of Songs of Warmth, Friendship, & Adventure.md",
     "Alagaesia/Myths & Legends/Gods/Kadros - God of Songs of War and Battle.md",
     "Alagaesia/Myths & Legends/Gods/Daromir.md",
@@ -272,8 +271,6 @@
     "Alagaesia/Factions/The Forebearers",
     "Alagaesia/Cities/Z CLASSIFIED (SPOILERS WITHIN)/Atlazara or Talazoria.md",
     "Alagaesia/Cities/Z CLASSIFIED (SPOILERS WITHIN)/Vaer Quethal.md",
-    "Alagaesia/Myths & Legends/Gods/Issael.md",
-    "The Fall.md",
     "Alagaesia/133547411240553320.jpg",
     "Alagaesia/FixedMap1.jpg",
     "Alagaesia/Worldmap1.png"

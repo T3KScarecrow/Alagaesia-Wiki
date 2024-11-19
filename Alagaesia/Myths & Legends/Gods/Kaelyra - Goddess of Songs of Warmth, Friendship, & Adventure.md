@@ -1,0 +1,3 @@
+Kaelyra is the [[The Vulgomage|Vulgomage]] goddess of joy, camaraderie, storytelling, and wanderlust, and is the sister to Kadros. Kaelyra's songs remind mortals of the bonds they share, the adventures they’ve undertaken, and the joys of living. She is the muse of traveling bards, who carry her melodies across the land to heal hearts and inspire journeys.
+
+Kaelyra is depicted as a smiling bard with a golden lute and a traveller's cloak. Her imagery includes campfires under the stars

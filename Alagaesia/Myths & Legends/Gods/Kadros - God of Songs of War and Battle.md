@@ -1,4 +1,4 @@
-Kadros is the [[The Humans|Vulgomage]] god of war, courage, honour and glory, and is the sister to Kaelyra. Kadros inspires warriors through songs that stir their hearts and steel their resolve. His melodies are thunderous, brimming with tales of valour and the clash of steel. He believes that conflict is a proving ground for strength and his songs a means of capturing history, but his songs also honour the fallen, preserving their deeds for eternity.
+Kadros is the [[The Humans|Vulgomage]] god of war, courage, honour and glory, and is the brother to Kaelyra. Kadros inspires warriors through songs that stir their hearts and steel their resolve. His melodies are thunderous, brimming with tales of valour and the clash of steel. He believes that conflict is a proving ground for strength and his songs a means of capturing history, but his songs also honour the fallen, preserving their deeds for eternity.
 
 Kadros is depicted as a bardic warrior with a crimson cloak and a battle-worn lute strapped to his back, wielding it both as an instrument and weapon. Statues of Kadros often show him standing on a battlefield, his head thrown back in song.
 

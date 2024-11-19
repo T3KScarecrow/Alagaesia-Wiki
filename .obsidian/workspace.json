@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/Ideas.md",
+                "file": "Alagaesia/Myths & Legends/Gods/Eryndra.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ideas"
+              "title": "Eryndra"
             }
           },
           {
@@ -217,7 +217,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 453.5
+    "width": 400.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -236,6 +236,9 @@
   },
   "active": "f761b79779826f4e",
   "lastOpenFiles": [
+    "Alagaesia/Myths & Legends/Gods/Zarros.md",
+    "Alagaesia/Myths & Legends/Gods/Eryndra.md",
+    "Concepts/Ideas.md",
     "Alagaesia/Myths & Legends/Gods/Daromir.md",
     "Alagaesia/Myths & Legends/Valora.md",
     "Alagaesia/Myths & Legends/Gods/Paladine.md",
@@ -244,7 +247,6 @@
     "Alagaesia/BetterMap.png",
     "Alagaesia/BetterMap(2).jpg",
     "Alagaesia/Myths & Legends/Gods/AAA The Gods, Explained.md",
-    "Alagaesia/Myths & Legends/Gods/Zarros.md",
     "Alagaesia/Factions/The Unaligned/The Halflings.md",
     "Alagaesia/Factions/The Unaligned",
     "Alagaesia/Factions/The Vulgomage/The Humans.md",
@@ -273,8 +275,6 @@
     "Alagaesia/Myths & Legends/Gods/Guntera.md",
     "Alagaesia/Myths & Legends/Gods/Khonshu.md",
     "Alagaesia/Myths & Legends/Gods/Nadruul.md",
-    "Alagaesia/Myths & Legends/Gods/Pholtus.md",
-    "Alagaesia/Myths & Legends/Gods/Terros.md",
     "Alagaesia/FixedMap1.jpg",
     "Alagaesia/Worldmap1.png"
   ]

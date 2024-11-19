@@ -11,12 +11,14 @@
             "id": "f761b79779826f4e",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Alagaesia/BetterMap.png"
+                "file": "Alagaesia/Myths & Legends/Gods/Nyrex.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "BetterMap"
+              "icon": "lucide-file",
+              "title": "Nyrex"
             }
           },
           {
@@ -234,8 +236,9 @@
   },
   "active": "f761b79779826f4e",
   "lastOpenFiles": [
-    "Alagaesia/BetterMap(2).jpg",
+    "Alagaesia/D&D Shop Catalog, V-2.0.2-Refresh.pdf",
     "Alagaesia/BetterMap.png",
+    "Alagaesia/BetterMap(2).jpg",
     "Alagaesia/Myths & Legends/Gods/Nyrex.md",
     "Alagaesia/Myths & Legends/Gods/AAA The Gods, Explained.md",
     "Alagaesia/Myths & Legends/Gods/Zarros.md",

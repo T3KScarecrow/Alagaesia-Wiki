@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Alagaesia/Factions/The Forestfolk/AAA The Forestfolk.md",
+                "file": "Alagaesia/Myths & Legends/Gods/AAA The Gods, Explained.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AAA The Forestfolk"
+              "title": "AAA The Gods, Explained"
             }
           },
           {
@@ -234,8 +234,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "f761b79779826f4e",
+  "active": "333464d61203671c",
   "lastOpenFiles": [
+    "Alagaesia/AAA Session Summaries/Lyric's Notes",
+    "Alagaesia/Factions/The Forestfolk/AAA The Forestfolk.md",
     "Alagaesia/Factions/The Forestfolk/The Elves.md",
     "Alagaesia/Myths & Legends/Gods/AAA The Gods, Explained.md",
     "Alagaesia/Factions/The Forebearers/CLASSIFIED (SPOILERS WITHIN)",
@@ -272,8 +274,6 @@
     "Alagaesia/Myths & Legends/Gods/WIP/Solinare.md",
     "Alagaesia/Myths & Legends/Gods/WIP/Sirrion.md",
     "Alagaesia/Myths & Legends/Gods/WIP/Sargonnas.md",
-    "Alagaesia/Myths & Legends/Gods/WIP/Kirivthal.md",
-    "Alagaesia/Myths & Legends/Gods/WIP/Chemosh.md",
     "Alagaesia/BetterMap(2).jpg",
     "Alagaesia/FixedMap1.jpg",
     "Alagaesia/Worldmap1.png"

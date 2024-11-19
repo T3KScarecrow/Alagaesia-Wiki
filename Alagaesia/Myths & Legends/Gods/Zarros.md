@@ -1,0 +1,1 @@
+Originally known by the Forebearers as Zatharion, Zarros is the human god of knowledge, innovation and technology. The Mechinators praise and worship Zarros

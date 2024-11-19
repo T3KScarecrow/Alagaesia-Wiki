@@ -1,0 +1,1 @@
+Originally known by the [[The Forebearers|Forebearers]] as Eryndralis, Eryndra is a [[The Vulgomage|Vulgomage]] god of art, music, and beauty. As the goddess of expression, Eryndra inspires creative works and craftmanship. She is appears as a woman clad in Greek white robes with a gold leaf circlet upon her brow, and sometimes with wings of flowing light sprouting from her back.

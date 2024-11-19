@@ -1,0 +1,1 @@
+Originally known by the [[The Forebearers|Forebearers]] as Valshara, Valora is a human god of war, strength and strategy. She is a fierce warrior deity who values discipline over brute force. She was often invoked before battles and during times of great adversity. 

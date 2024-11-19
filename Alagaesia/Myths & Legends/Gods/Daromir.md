@@ -1,0 +1,1 @@
+Originally known by the [[The Forebearers|Forebearers]] as Daromythos, Daromir is human god of 

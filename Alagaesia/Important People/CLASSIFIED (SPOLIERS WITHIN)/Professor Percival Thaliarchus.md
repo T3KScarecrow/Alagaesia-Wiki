@@ -1,4 +1,3 @@
-Hello, Scarecrow! Here’s a fleshed-out version of your character idea, combining elements of your suggestions with some new twists to give him depth and intrigue while maintaining his whimsical and enigmatic charm.
 
 ---
 
@@ -17,7 +16,7 @@ Hello, Scarecrow! Here’s a fleshed-out version of your character idea, combini
 
 Centuries ago, Percival Thaliarchus was born in **Caelora**, the son of humble alchemists. From an early age, he displayed an uncanny brilliance, inventing intricate contraptions and delving into mysteries of magic with an insatiable curiosity. His life took a dramatic turn during an experiment that was meant to unify **transmutation magic** and **healing magic**—a field he called "Vitalic Alchemy."  
 
-Percival’s experiment was noble in intent: to create a device that could heal wounds and even extend life by repairing the body at a fundamental level. However, something went terribly wrong when he combined **conjuration**, **transmutation**, and **divine magic** channeled from both **Vitalas** (Goddess of Healing and Compassion) and **Zarros** (God of Knowledge and Discovery).  
+Percival’s experiment was noble in intent: to create a device that could heal wounds and even extend life by repairing the body at a fundamental level. However, something went terribly wrong when he combined **conjuration**, **transmutation**, and **divine magic** channelled from both **Vitalas** (Goddess of Healing and Compassion) and **Zarros** (God of Knowledge and Discovery).  
 
 Instead of healing or extending life in a conventional sense, the magical forces tore through his body and soul, leaving him gravely injured. But then, his body shimmered and shifted, morphing into a younger, unfamiliar version of himself. Percival had unwittingly fused his essence with **pure transmutation magic**, anchored by divine blessings from Vitalas and Zarros, creating a cycle of **regenerative rebirth**.  
 

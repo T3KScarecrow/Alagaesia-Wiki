@@ -1,0 +1,5 @@
+Our departure from Caelora began with chaos. Aaron, in what I can only describe as a fit of defiance, caused such a commotion at the Silver Quill Tavern that I was nearly turned away at the door! Were it not for Natalie’s intervention, I might still be standing outside, embarrassed and bewildered.
+
+Later, as we made camp, Aaron forcefully rifled through my belongings. My journal, my notes—my work scattered like autumn leaves! To make matters worse, he unintentionally triggered a Fireball scroll, nearly roasting us all alive. I escaped with singed nerves and my dignity in tatters, though Gabriel was kind enough to mend what damage he could.
+
+Despite Aaron’s lack of tact or care, the others have shown themselves to be steadfast and capable. Gabriel’s quiet reverence for his god, Michael’s unwavering vigilance, and Natalie’s leadership are reassuring. I find myself cautiously optimistic, though I still feel a growing unease toward our Warforged companion.

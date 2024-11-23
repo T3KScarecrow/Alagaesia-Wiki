@@ -11,12 +11,14 @@
             "id": "f761b79779826f4e",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Alagaesia/BetterMap(2).jpg"
+                "file": "Alagaesia/Cities/Caeloran/Caelora.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "BetterMap(2)"
+              "icon": "lucide-file",
+              "title": "Caelora"
             }
           },
           {
@@ -273,6 +275,8 @@
   "active": "f761b79779826f4e",
   "lastOpenFiles": [
     "Alagaesia/Travel System.md",
+    "Alagaesia/Timeline Of Events.md",
+    "Alagaesia/BetterMap(2).jpg",
     "Alagaesia/Cities/Ruined/City Of Tears.md",
     "Concepts/Ideas.md",
     "Alagaesia/Myths & Legends/Gods/Aeloria.md",
@@ -289,7 +293,6 @@
     "Alagaesia/AAA Session Summaries/Lyric's Notes/ay 3 -.md",
     "Alagaesia/Important People/CLASSIFIED (SPOLIERS WITHIN)/Professor Percival Thaliarchus.md",
     "Alagaesia/Myths & Legends/Gods/Zarros.md",
-    "Alagaesia/BetterMap(2).jpg",
     "Alagaesia/BetterMap.png",
     "Alagaesia/Myths & Legends/Gods/Kaelyra - Goddess of Songs of Warmth, Friendship, & Adventure.md",
     "Alagaesia/Myths & Legends/Gods/Kadros - God of Songs of War and Battle.md",
@@ -301,7 +304,6 @@
     "Alagaesia/Myths & Legends/Gods/AAA The Gods, Explained.md",
     "Alagaesia/Factions/The Unaligned/The Halflings.md",
     "Alagaesia/Factions/The Unaligned",
-    "Alagaesia/Factions/The Vulgomage/The Humans.md",
     "Alagaesia/AAA Session Summaries/Lyric's Notes",
     "Alagaesia/Factions/The Forebearers/CLASSIFIED (SPOILERS WITHIN)",
     "Alagaesia/Factions/The Undersea",

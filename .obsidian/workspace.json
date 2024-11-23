@@ -223,11 +223,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 400.5
+    "width": 540.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -244,7 +244,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "f761b79779826f4e",
+  "active": "38fb53ef513c988f",
   "lastOpenFiles": [
     "Alagaesia/AAA Session Summaries/Lyric's Notes/Entry 4 - Trials of the Forebearers.md",
     "Alagaesia/AAA Session Summaries/Lyric's Notes/Entry 3 - A Late Arrival and Goblins.md",

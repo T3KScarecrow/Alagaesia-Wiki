@@ -100,7 +100,7 @@
       {
         "id": "fae5c4bd789f9279",
         "type": "tabs",
-        "dimension": 76.85185185185185,
+        "dimension": 41.714947856315185,
         "children": [
           {
             "id": "301d6a9a5810d5b3",
@@ -235,7 +235,7 @@
       {
         "id": "e901111a5f1ea95e",
         "type": "tabs",
-        "dimension": 23.14814814814815,
+        "dimension": 58.28505214368482,
         "children": [
           {
             "id": "3ad6b00f11e2dbbe",
@@ -272,7 +272,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "f761b79779826f4e",
+  "active": "38fb53ef513c988f",
   "lastOpenFiles": [
     "Alagaesia/Myths & Legends/Gods/Aeloria.md",
     "Alagaesia/Myths & Legends/Gods/Nyrex.md",

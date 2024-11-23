@@ -11,14 +11,12 @@
             "id": "f761b79779826f4e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Alagaesia/Important People/Lasscial.md",
-                "mode": "source",
-                "source": false
+                "file": "Alagaesia/D&D Shop Catalog, V-2.0.2-Refresh.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Lasscial"
+              "icon": "lucide-file-text",
+              "title": "D&D Shop Catalog, V-2.0.2-Refresh"
             }
           },
           {
@@ -255,7 +253,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 540.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -274,8 +272,8 @@
   },
   "active": "f761b79779826f4e",
   "lastOpenFiles": [
-    "Concepts/Ideas.md",
     "Alagaesia/Important People/Lasscial.md",
+    "Concepts/Ideas.md",
     "Alagaesia/Cities/Caeloran/Caelora.md",
     "Alagaesia/Travel System.md",
     "Alagaesia/Timeline Of Events.md",

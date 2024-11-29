@@ -1,0 +1,5 @@
+The darkness of that cursed hall still lingers in my thoughts. Shadows that claw and mirrors that twist reality—it was a labyrinth of lies and truths. The "good" mirrors, though rare, showed memories untainted, a respite in the oppressive gloom. Yet, the "bad" mirrors... stepping through them drained the very light around us.
+
+At the last of these mirrors, I glimpsed something unsettling—memories untouched by my conscious mind, as if they were stolen moments from a forgotten life. Vesper saw something similar, a tender fragment of his origins. It gave me pause: do these reflections hold truths we are not meant to know, or are they fabrications designed to manipulate?
+
+Gabriel and I turned back to rescue Aaron and Wiate, who were both in terrible peril. Shadows lashed out as if alive, and Aaron bore the evidence of their savagery. Despite our setbacks, we found the way forward through Vesper's vision.

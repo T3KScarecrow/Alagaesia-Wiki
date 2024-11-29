@@ -1,0 +1,5 @@
+The moonlit chamber was no less foreboding. At first, its serene glow offered comfort, but the puzzle it hid tested us in ways I did not expect. The dials seemed harmless—until the statues moved. Wiate, ever defiant, pushed the limits and awakened them. The ensuing battle was chaos.
+
+I... was not prepared. My attempts to avoid their relentless strikes were met with mixed success. The others fought valiantly, their strength and skill shining where mine faltered. I saw the way Aaron and Gabriel worked together to destroy those stone monstrosities. Vesper, from his perch above, lent his precision, while Michael brought his calm determination to solving the puzzle.
+
+In the end, it was the moons that saved us, their phases unlocking the room's secrets. But I cannot shake the shame of my own helplessness.

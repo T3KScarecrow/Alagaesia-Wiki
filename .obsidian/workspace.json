@@ -11,12 +11,14 @@
             "id": "f761b79779826f4e",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Alagaesia/D&D Shop Catalog, V-2.0.2-Refresh.pdf"
+                "file": "Alagaesia/AAA Session Summaries/Lyric's Notes/Entry 7 -.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "D&D Shop Catalog, V-2.0.2-Refresh"
+              "icon": "lucide-file",
+              "title": "Entry 7 -"
             }
           },
           {
@@ -271,7 +273,11 @@
   },
   "active": "f761b79779826f4e",
   "lastOpenFiles": [
+    "Alagaesia/AAA Session Summaries/Lyric's Notes/Entry 6 - Statues & Shadows.md",
+    "Alagaesia/AAA Session Summaries/Lyric's Notes/Entry 7 -.md",
+    "Alagaesia/AAA Session Summaries/Lyric's Notes/Entry 5 - The Hall Of Mirrors.md",
     "Alagaesia/Important People/Lasscial.md",
+    "Alagaesia/D&D Shop Catalog, V-2.0.2-Refresh.pdf",
     "Concepts/Ideas.md",
     "Alagaesia/Cities/Caeloran/Caelora.md",
     "Alagaesia/Travel System.md",
@@ -296,10 +302,6 @@
     "Alagaesia/Myths & Legends/Gods/Kaelyra - Goddess of Songs of Warmth, Friendship, & Adventure.md",
     "Alagaesia/Myths & Legends/Gods/Kadros - God of Songs of War and Battle.md",
     "Alagaesia/Myths & Legends/Gods/Daromir.md",
-    "Alagaesia/Myths & Legends/Gods/Eryndra.md",
-    "Alagaesia/Myths & Legends/Valora.md",
-    "Alagaesia/Myths & Legends/Gods/Paladine.md",
-    "Alagaesia/D&D Shop Catalog, V-2.0.2-Refresh.pdf",
     "Alagaesia/Factions/The Unaligned",
     "Alagaesia/AAA Session Summaries/Lyric's Notes",
     "Alagaesia/Factions/The Forebearers/CLASSIFIED (SPOILERS WITHIN)",

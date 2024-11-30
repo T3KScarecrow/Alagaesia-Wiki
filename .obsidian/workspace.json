@@ -11,14 +11,12 @@
             "id": "f761b79779826f4e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Alagaesia/History/Minor World Events/The Caeloran Exposition of Marvels and Mechanisms.md",
-                "mode": "source",
-                "source": false
+                "file": "Alagaesia/D&D Shop Catalog, V-2.0.2-Refresh.pdf"
               },
-              "icon": "lucide-file",
-              "title": "The Caeloran Exposition of Marvels and Mechanisms"
+              "icon": "lucide-file-text",
+              "title": "D&D Shop Catalog, V-2.0.2-Refresh"
             }
           },
           {
@@ -271,10 +269,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "f761b79779826f4e",
+  "active": "333464d61203671c",
   "lastOpenFiles": [
-    "Alagaesia/AAA Session Summaries/Lyric's Notes/Entry 9 - The Museum, Lasscial, & a Familiar Face.md",
     "Alagaesia/History/Minor World Events/The Caeloran Exposition of Marvels and Mechanisms.md",
+    "Alagaesia/AAA Session Summaries/Lyric's Notes/Entry 9 - The Museum, Lasscial, & a Familiar Face.md",
     "Alagaesia/History/Minor World Events",
     "Alagaesia/AAA Session Summaries/Lyric's Notes/Entry 8 - Strength & Struggle.md",
     "Alagaesia/AAA Session Summaries/Lyric's Notes/Entry 7 - The Crystal & Aaron's Vision.md",

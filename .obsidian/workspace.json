@@ -11,14 +11,12 @@
             "id": "f761b79779826f4e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Concepts/Ideas.md",
-                "mode": "source",
-                "source": false
+                "file": "Alagaesia/BetterMap(2).jpg"
               },
-              "icon": "lucide-file",
-              "title": "Ideas"
+              "icon": "lucide-image",
+              "title": "BetterMap(2)"
             }
           },
           {
@@ -273,6 +271,7 @@
   },
   "active": "f761b79779826f4e",
   "lastOpenFiles": [
+    "Concepts/Ideas.md",
     "Alagaesia/D&D Shop Catalog, V-2.0.2-Refresh.pdf",
     "Alagaesia/History/Minor World Events/The Caeloran Exposition of Marvels and Mechanisms.md",
     "Alagaesia/AAA Session Summaries/Lyric's Notes/Entry 9 - The Museum, Lasscial, & a Familiar Face.md",
@@ -285,7 +284,6 @@
     "Alagaesia/AAA Session Summaries/Lyric's Notes/Entry 2 - A Fiery Morning.md",
     "Alagaesia/AAA Session Summaries/Lyric's Notes/Entry 1 - An Unlikely Company.md",
     "Alagaesia/Important People/Lasscial.md",
-    "Concepts/Ideas.md",
     "Alagaesia/Cities/Caeloran/Caelora.md",
     "Alagaesia/Travel System.md",
     "Alagaesia/Timeline Of Events.md",

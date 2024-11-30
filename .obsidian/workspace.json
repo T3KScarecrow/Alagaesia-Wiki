@@ -11,12 +11,14 @@
             "id": "f761b79779826f4e",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Alagaesia/D&D Shop Catalog, V-2.0.2-Refresh.pdf"
+                "file": "Concepts/Ideas.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "D&D Shop Catalog, V-2.0.2-Refresh"
+              "icon": "lucide-file",
+              "title": "Ideas"
             }
           },
           {
@@ -269,8 +271,9 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "333464d61203671c",
+  "active": "f761b79779826f4e",
   "lastOpenFiles": [
+    "Alagaesia/D&D Shop Catalog, V-2.0.2-Refresh.pdf",
     "Alagaesia/History/Minor World Events/The Caeloran Exposition of Marvels and Mechanisms.md",
     "Alagaesia/AAA Session Summaries/Lyric's Notes/Entry 9 - The Museum, Lasscial, & a Familiar Face.md",
     "Alagaesia/History/Minor World Events",
@@ -282,7 +285,6 @@
     "Alagaesia/AAA Session Summaries/Lyric's Notes/Entry 2 - A Fiery Morning.md",
     "Alagaesia/AAA Session Summaries/Lyric's Notes/Entry 1 - An Unlikely Company.md",
     "Alagaesia/Important People/Lasscial.md",
-    "Alagaesia/D&D Shop Catalog, V-2.0.2-Refresh.pdf",
     "Concepts/Ideas.md",
     "Alagaesia/Cities/Caeloran/Caelora.md",
     "Alagaesia/Travel System.md",
@@ -299,7 +301,6 @@
     "Alagaesia/AAA Session Summaries/Lyric's Notes/Day 2 - Departure and Disruption.md",
     "Alagaesia/AAA Session Summaries/Lyric's Notes/Day 1 - Arrival At The Silver Quill Tavern.md",
     "Alagaesia/AAA Session Summaries/Lyric's Notes/ay 3 -.md",
-    "Alagaesia/Important People/CLASSIFIED (SPOLIERS WITHIN)/Professor Percival Thaliarchus.md",
     "Alagaesia/BetterMap.png",
     "Alagaesia/Factions/The Unaligned",
     "Alagaesia/AAA Session Summaries/Lyric's Notes",

@@ -11,12 +11,14 @@
             "id": "f761b79779826f4e",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Alagaesia/BetterMap(2).jpg"
+                "file": "Alagaesia/Important People/CLASSIFIED (SPOLIERS WITHIN)/Professor Percival Thaliarchus.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "BetterMap(2)"
+              "icon": "lucide-file",
+              "title": "Professor Percival Thaliarchus"
             }
           },
           {
@@ -271,6 +273,7 @@
   },
   "active": "f761b79779826f4e",
   "lastOpenFiles": [
+    "Alagaesia/BetterMap(2).jpg",
     "Concepts/Ideas.md",
     "Alagaesia/D&D Shop Catalog, V-2.0.2-Refresh.pdf",
     "Alagaesia/History/Minor World Events/The Caeloran Exposition of Marvels and Mechanisms.md",
@@ -287,7 +290,6 @@
     "Alagaesia/Cities/Caeloran/Caelora.md",
     "Alagaesia/Travel System.md",
     "Alagaesia/Timeline Of Events.md",
-    "Alagaesia/BetterMap(2).jpg",
     "Alagaesia/Cities/Ruined/City Of Tears.md",
     "Alagaesia/Myths & Legends/Gods/Aeloria.md",
     "Alagaesia/Myths & Legends/Gods/Nyrex.md",

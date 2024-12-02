@@ -37,7 +37,7 @@ The Professor is:
 - **Quirky**: Always armed with odd sayings, unusual habits, and peculiar outfits.  
 - **Inventive**: Constantly sketching, building, or tinkering with contraptions no one else understands.  
 - **Compassionate**: Driven by an unyielding desire to help others and improve the world.  
-- **Eccentric**: Prone to bursts of energy, erratic behavior, and leaps of logic that somehow always work out.  
+- **Eccentric**: Prone to bursts of energy, erratic behaviour, and leaps of logic that somehow always work out.  
 - **A Touch of Sadness**: Beneath his cheer is a layer of loneliness. He’s lived through generations, outlived friends, and sometimes feels disconnected from the mortal world.  
 
 ---

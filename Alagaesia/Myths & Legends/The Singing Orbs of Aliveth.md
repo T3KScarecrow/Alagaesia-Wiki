@@ -1,0 +1,5 @@
+#### From _"Constructs and Curiosities: Artifice of the Ancients"_ by Jorath Fizzlesprocket
+
+The ruins of [[Aliveth]], a Forebearer city discovered during a rare joint expedition of Forestfolk and Stoners, are home to peculiar spherical constructs known as the Singing Orbs. These translucent devices, about the size of a halfling’s head, emit haunting, melodious tones when exposed to moonlight—particularly from Aelora.
+
+The texts describe their purpose as "aligning the mind to the greater song," which many interpret as some form of psychic or spiritual communion. Others believe the orbs were used in rituals meant to harness lunar magic, perhaps to power an elusive "Gate of Silent Stars" or similar constructs. Attempts to study the orbs have been met with frustration, as they crumble to dust when removed from Aliveth, leaving only speculation and unverified tales.

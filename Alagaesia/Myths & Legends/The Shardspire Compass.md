@@ -1,0 +1,5 @@
+#### From _"Constructs and Curiosities: Artifice of the Ancient"_ by Jorath Fizzlesprocket
+
+Mentioned in Forebearer journals and diagrams, the Shardspire Compass appears to have been an artifact of incredible navigational power. Its design was said to resemble a starburst crafted from crystal and gold, with arms that spun and locked in directions unrelated to any magnetic north.
+
+The texts imply it could locate not only physical locations but also align its bearer with "threads of destiny" or "anchored fates." Some interpret this as a way of finding Forebearer ruins or ley lines, while others suggest the compass could guide its user to personal revelations or forgotten memories. The last known mention of the Shardspire Compass places it in the vaults of an undiscovered Forebearer citadel beneath the Southern Peaks, although many speculate it to have since been destroyed.

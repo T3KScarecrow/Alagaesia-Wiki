@@ -1,0 +1,5 @@
+#### From _"Constructs and Curiosities: Artifice of the Ancients"_ by Jorath Fizzlesprocket
+
+Far to the south of the current boundaries of explored lands lies the rumoured site of Azaranth, a stronghold described in texts uncovered at Hargraven and corroborated by fragments in The City of Tears. This "bastion" appears to have been a hub of Forebearer innovation, housing laboratories and vaults where both mechanical constructs and magical artifacts were forged.
+
+Curiously, Azaranth was said to be encased in a translucent dome that shimmered under the light of Aegirion. The texts suggest this dome was an early attempt at creating a fully self-sustaining environment, shielded from external threats and perhaps even from the flow of time itself. No explorer has verified its existence, and any who seek it report only endless sandstorms and desolation. Whether Azaranth was real or a mere legend conjured by hopeful dreamers remains to be seen.

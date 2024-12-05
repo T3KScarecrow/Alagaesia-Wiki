@@ -1,0 +1,1 @@
+Aelthion is the Elf god of knowledge, magic, and exploration. He encourages the pursuit of wisdom and the unravelling of mysteries, his temples filled with scrolls, maps, and magical artefacts. Aelthion manifests as a scholarly Elf with eyes that glow like stars. 

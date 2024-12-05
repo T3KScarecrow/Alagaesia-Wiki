@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Alagaesia/Myths & Legends/Gods/Nyrex.md",
+                "file": "Alagaesia/Myths & Legends/Gods/Sylaereth - Goddess of Nature & Forests.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nyrex"
+              "title": "Sylaereth - Goddess of Nature & Forests"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Alagaesia/Myths & Legends/Gods/Zarros.md",
+                "file": "Alagaesia/Myths & Legends/Gods/Issael - God of Familial Love & Unity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Zarros"
+              "title": "Issael - God of Familial Love & Unity"
             }
           }
         ]
@@ -273,11 +273,19 @@
   },
   "active": "f761b79779826f4e",
   "lastOpenFiles": [
+    "Alagaesia/Myths & Legends/Gods/Issael - God of Familial Love & Unity.md",
+    "Alagaesia/Myths & Legends/Gods/Kaelyra - Goddess of Songs of Warmth, Friendship, & Adventure.md",
+    "Alagaesia/Myths & Legends/Gods/Pholtus.md",
+    "Alagaesia/Myths & Legends/Gods/Sylaereth - Goddess of Nature & Forests.md",
+    "Alagaesia/Myths & Legends/Gods/Terros.md",
+    "Alagaesia/Myths & Legends/Gods/Zarros.md",
+    "Alagaesia/Myths & Legends/Gods/Daromir.md",
+    "Alagaesia/Myths & Legends/Gods/Vitalas.md",
+    "Alagaesia/Myths & Legends/Gods/Paladine.md",
+    "Alagaesia/Myths & Legends/Gods/Nyrex.md",
     "Alagaesia/Myths & Legends/Gods/Nadruul.md",
     "Alagaesia/Myths & Legends/Gods/Khonshu.md",
-    "Alagaesia/Myths & Legends/Gods/Kaelyra - Goddess of Songs of Warmth, Friendship, & Adventure.md",
     "Alagaesia/Myths & Legends/Gods/Guntera.md",
-    "Alagaesia/Myths & Legends/Gods/Issael - God of Familial Love & Unity.md",
     "Alagaesia/Myths & Legends/Gods/Kadros - God of Songs of War and Battle.md",
     "Alagaesia/Myths & Legends/Gods/Eryndra.md",
     "Alagaesia/Important People/PC Renown/Vesper.md",
@@ -295,14 +303,6 @@
     "Alagaesia/History/Minor World Events",
     "Alagaesia/AAA Session Summaries/Lyric's Notes/Entry 8 - Strength & Struggle.md",
     "Alagaesia/AAA Session Summaries/Lyric's Notes/Entry 7 - The Crystal & Aaron's Vision.md",
-    "Alagaesia/AAA Session Summaries/Lyric's Notes/Entry 6 - Statues & Shadows.md",
-    "Alagaesia/AAA Session Summaries/Lyric's Notes/Entry 5 - The Hall Of Mirrors.md",
-    "Alagaesia/AAA Session Summaries/Lyric's Notes/Entry 10 -.md",
-    "Alagaesia/AAA Session Summaries/Lyric's Notes/Entry 2 - A Fiery Morning.md",
-    "Alagaesia/AAA Session Summaries/Lyric's Notes/Entry 1 - An Unlikely Company.md",
-    "Alagaesia/Important People/Lasscial.md",
-    "Alagaesia/Cities/Caeloran/Caelora.md",
-    "Alagaesia/Travel System.md",
     "Alagaesia/BetterMap.png",
     "Alagaesia/Factions/The Unaligned",
     "Alagaesia/AAA Session Summaries/Lyric's Notes",

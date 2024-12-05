@@ -1,0 +1,7 @@
+#### From _"Terrors and Spooks The Might Be True"_ by Beatrisa Wynstone
+
+No one knows exactly what the Night Weavers are—perhaps shadows given form, or spirits of the forgotten dead—but every child knows the stories, except apparently those who find themselves reading this. On moonless nights, when the air grows too still and the dark feels heavy, they come. They creep from the corners of your room, the cracks in the walls, even the shadows of your own hands.
+
+The Weavers are said to have long, spindly fingers, perfect for their craft. They spin webs of silence and shadow, binding their prey without ever making a sound. Once captured, their victims vanish, taken to a place beyond mortal comprehension. Some say they weave these souls into their webs, creating tapestries of despair that hang in some far-off realm of eternal night.
+
+The old folk remedy is to leave a lantern burning by your bedside. Light, it seems, is the only thing the Night Weavers fear. But be warned: a single flicker, a single sputter of your flame, and the Weavers will know. They’ll wait, patient as death itself, for the moment the dark returns. But how scary can shadows really be?

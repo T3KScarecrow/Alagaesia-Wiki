@@ -1,0 +1,5 @@
+#### From _"Constructs and Curiosities: Artifice of the Ancient"_ by Jorath Fizzlesprocket
+
+One of the most mysterious locations referenced in Forebearer lore is the _Vesper Vaults_, a complex supposedly buried beneath the Western Wastes. The texts hint at vast chambers filled with constructs frozen in eerie stillness, as though awaiting a command that never came.
+
+The Vaults are also said to house an artifact called the _Auracore Engine_, a device described as the heart of the Forebearers' most ambitious creations. While the true purpose of the Auracore Engine is lost to time, cryptic phrases like "a beacon to the stars" and "the luminary’s promise" suggest it may have been intended as a source of immense energy—or even as a means of communication with other realms. Explorers who claim to have searched for the Vesper Vaults report strange dreams and an overwhelming sense of being watched, though none have found the site itself.

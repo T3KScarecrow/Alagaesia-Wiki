@@ -1,0 +1,1 @@
+Nythrien was a famed, and believed crazy, inventor from the days of the Forebearers. They are only known now by historians due to the amount of abnormal schematics and broken devices of their creation that have been unearthed, and the countless references to them in texts made by fellow Forebearer inventors 

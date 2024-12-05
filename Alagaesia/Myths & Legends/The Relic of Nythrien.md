@@ -1,0 +1,5 @@
+#### From _"Constructs and Curiosities: Artifice of the Ancients"_ by Jorath Fizzlesprocket
+
+A single fragment of text, recovered by the Great Museum of Arcane History, alludes to a Forebearer artifact called the _Relic of Nythrien_. Said to have been forged "at the dawn of their ascent," the Relic is described as a swirling orb of shifting glass and molten metal, perpetually hovering above its base.
+
+The Relic’s purpose remains elusive, but it is frequently associated with phrases such as "binding the horizon" and "the key to the converging tides." Some scholars speculate it was a tool for manipulating the natural boundaries between planes, while others believe it served as a protective device against incursions from otherworldly forces. Its last known location is listed as the now-lost Forebearer city of Rynshar, which was said to have been consumed by a magical calamity centuries before the Fall.

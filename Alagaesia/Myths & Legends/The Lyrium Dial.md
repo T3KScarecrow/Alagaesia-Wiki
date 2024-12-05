@@ -1,0 +1,5 @@
+#### From _"Constructs and Curiosities: Artifice of the Ancient"_ by Jorath Fizzlesprocket
+
+Recovered schematics from Hargraven depict the _Lyrium Dial_, a compact device described as a Forebearer tool for "measuring the immeasurable." This intricate artifact was said to have a face of liquid silver, which could shift and rearrange its markings depending on the holder's intent.
+
+The Dial's purpose is hotly debated. Some believe it was used to detect anomalies in the fabric of reality, such as fluctuations in magical energy or the alignment of astral bodies. Others interpret its purpose as far more abstract—perhaps even philosophical—measuring the "flow of destiny" or "the weight of a soul." No complete Lyrium Dial has ever been found, but fragments matching its description have been unearthed in ruins near Deepnest, tantalizing scholars with the possibility of piecing one together.

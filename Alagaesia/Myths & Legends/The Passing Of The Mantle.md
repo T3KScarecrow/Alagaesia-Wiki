@@ -1,0 +1,17 @@
+
+#### From "Celestial Myths & Divine Histories" by Loremaster Caelwyn Eltharion
+In the earliest days, before mortals had yet charted the skies or whispered the names of the gods, it was **[[Aelthion - God of Curiosity & Learning|Aelthion]]**, the Radiant Seeker, who commanded the moons. Aegirion, the great white guardian, and Aelora, the pale blue dreamer, danced under his gaze, their light guiding travellers and illuminating the world’s mysteries. Alongside him stood **[[Aeloria|Aeloria]]**, she of the Veil, whose quiet wisdom shrouded Aelora in mysteries and wove the threads of divination.
+
+Together, they ruled the night—[[Aelthion - God of Curiosity & Learning|Aelthion]] as the vigilant watcher and Aeloria as the keeper of secrets. But Aelthion, ever restless, grew weary of his station. While his heart swelled with curiosity and the thrill of discovery, the moons’ unending cycles became a chain, binding him to the skies. And though he admired Aeloria's enigmatic nature, her ceaseless riddles and her penchant for the unknowable began to weigh upon him.
+
+So it was that one fateful night, as the stars burned bright and the moons bathed the world in their dual glow, Aelthion turned his gaze beyond. He saw the endless expanse of the heavens, the myriad stars whispering secrets of their own, and he made his decision.
+
+Calling upon **Khonshu**, a minor god whose domain was justice and retribution, Aelthion offered him an unprecedented gift: his mantle of power over the night. Khonshu, humbled by this offer, knelt before the Radiant Seeker and swore an oath:
+
+"I shall protect those who wander the night, those who carry their burdens and hopes beneath the stars. And I shall bring retribution upon those who stalk the shadows to harm the innocent. I swear to protect the travellers of the night, and punish those who would do them harm."
+
+Pleased by the fervour in Khonshu's vow, Aelthion transferred his divine essence into the god of justice. The moons, once symbols of curiosity and revelation, now took on new purpose as harbingers of justice and guardians of travellers. **Aegirion** became a watchful sentinel, its brilliant white light warding against evil, while **Aelora** cast her subtle glow to veil the lost and guide the wandering.
+
+With his duty passed on, Aelthion turned his gaze skyward one final time. The stars welcomed him as an old friend, their secrets calling to his insatiable curiosity. He left the realm of mortals, ascending beyond the celestial sphere, where he wanders still, exploring the infinite tapestry of the cosmos and unravelling the mysteries of the Sea of the Sky.
+
+And so it was that the night was forever changed. Under Khonshu's vigilant watch, the moons no longer simply illuminated the world—they became a shield and a sword, a light to guide and a beacon of retribution. Yet, in the quiet hours when the stars twinkle brightest, one might wonder: does Aelthion still gaze down upon us, his curiosity undimmed, his heart still yearning for the unknown?

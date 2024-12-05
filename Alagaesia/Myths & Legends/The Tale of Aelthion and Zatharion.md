@@ -1,4 +1,4 @@
-#### From _"Celestial Myths & Divine Histories"_ by Loremaster Caelwyn Eltharion_
+#### From _"Celestial Myths & Divine Histories"_ by Loremaster Caelwyn Eltharion
 
 In the time long before Zarros ascended to his rightful place as a god of knowledge, when the world was still young and its mysteries vast, there existed only one great and ancient god of knowledge—Aelthion. He was the god of magic, of exploration, and of learning. His mind was vast, his curiosity boundless, and the world had long been his canvas upon which he painted the wonders of the cosmos. While Aelthion revelled in the discovery of forgotten secrets and the unlocking of ancient truths, there was one thing he could never quite conquer: he could not find someone who shared his insatiable curiosity.
 

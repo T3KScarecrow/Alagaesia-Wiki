@@ -1,0 +1,1 @@
+Lysandrel is the Elf God of artistry, refinement, and beauty. A god who inspires elegance in all things, Lysandrel is invoked during performances, dances, and the crafting of intricate works. Their symbol is a single, perfect feather. Some depictions show them as an eloquent flowing woman

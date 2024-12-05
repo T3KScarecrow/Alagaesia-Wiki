@@ -1,0 +1,1 @@
+Veylistra is the Elf Goddess of stars, dreams, and celestial magic. Veylistra is a guide for both travellers and dreamers alike. Her worshippers often meditate under the stars to commune with their goddess. Veylistra is depicted as a radiant figure clad in constellations.

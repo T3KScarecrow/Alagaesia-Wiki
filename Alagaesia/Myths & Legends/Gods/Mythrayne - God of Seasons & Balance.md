@@ -1,1 +1,1 @@
-Mythrayne is the Elf God 
+Mythrayne is the Elf God of cycles, shifting ways, and harmony. Mythrayne governs the shifting of seasons and the balance of the natural world. Their teachings encourage Elves to maintain equilibrium in all aspects of life. Mythrayne manifests as a figure garbed in a long wrapping cloak made up of leaves and flowers whose colours and species change to reflect the seasons.

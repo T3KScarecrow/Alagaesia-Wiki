@@ -4,7 +4,7 @@ Traveling Event System
 
 An Introduction
 
-Welcome! This is a guide to use the Traveling Event System. This system was designed not with the goal of achieving realism when roleplaying extended travel, but with the goal of making it exciting. It’s meant to recreate the feel and appeal of other media centered on travel, focusing on dramatic scenarios rather than the real-life mechanics of travel. The Traveling Event System has also been made for those who find things like tracking specific distance depending on pace and other minutiae of other traveling systems in the game tedious. Its design concentrates on keeping those simple and to a minimum.
+Welcome! This is a guide to use the Traveling Event System. This system was designed not with the goal of achieving realism when roleplaying extended travel, but with the goal of making it exciting. It’s meant to recreate the feel and appeal of other media centred on travel, focusing on dramatic scenarios rather than the real-life mechanics of travel. The Traveling Event System has also been made for those who find things like tracking specific distance depending on pace and other minutiae of other traveling systems in the game tedious. Its design concentrates on keeping those simple and to a minimum.
 
 It is, therefore, not your best option if you’re looking to recreate a realistic travel experience. This guide will not go over how rationing food works or how much ground the party covers when traveling, but rather will give you a way to account for that while prioritizing excitement at the table and a story-first travel design.
 
@@ -31,7 +31,7 @@ Events are the main component of the Traveling Event System. An event is anythin
 - Close: 1 Event
 - Far: 2 Events
 - Very Far: 3 Events
-
+# Talk About Gods?
 Once a party has encountered the number of events determined by the distance traveled, they arrive at their destination.
 
 TIP: It is important to note that you are welcome and encouraged to alter these numbers. As a matter of fact, the system itself encourages it.  

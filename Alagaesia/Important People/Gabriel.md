@@ -7,3 +7,13 @@
 - Cannot yet fully heal his mother
 - Few years later, she dies
 - Left distraught as child, has to live on streets for while
+- Still trying to learn ways of healing, gets snippets from travellers
+- Some kind of battle; Helps heal some soldiers etc
+- Tried to help in fight; learnt mace
+- Paladin finds him, takes him to orphanage run by the Church.
+- Agrees to join Paladin as he was a great healer.
+- Was recruiter and tutored by Church at orphanage.
+- Hears first whispers of Vitalas relic of magical all-powerful healing
+- Becomes obsessed with relic, believes it exists and can heal the Sickness
+- Starts exploring Forebearer lore
+- Currently late 20's.

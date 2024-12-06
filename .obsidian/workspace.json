@@ -106,64 +106,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "301d6a9a5810d5b3",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Alagaesia/Cities/Shortstaig.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Shortstaig"
-            }
-          },
-          {
-            "id": "7c1ee39450e5409a",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Alagaesia/Cities/Shortstaig.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Shortstaig"
-            }
-          },
-          {
-            "id": "cca145cdbb918c1d",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "77a693758a76c4a3",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Alagaesia/Cities/Shortstaig.md"
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Shortstaig"
-            }
-          },
-          {
             "id": "f58cc1e222b21475",
             "type": "leaf",
             "state": {
@@ -181,35 +123,6 @@
               "state": {},
               "icon": "git-pull-request",
               "title": "Source Control"
-            }
-          },
-          {
-            "id": "f6cbbd37bc660a55",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM",
-              "state": {
-                "calendar": "ID_1a89c9f90a59",
-                "ephemeral": {
-                  "viewing": {
-                    "day": 27,
-                    "month": 2,
-                    "year": 1342
-                  },
-                  "viewState": 1,
-                  "displaying": {
-                    "day": 21,
-                    "month": 2,
-                    "year": 1342
-                  },
-                  "displayDayNumber": false,
-                  "displayMoons": true
-                },
-                "id": "ID_e9a869187af8",
-                "child": "ID_0b496bdb19a8"
-              },
-              "icon": "CALENDARIUM",
-              "title": "Calendarium"
             }
           },
           {
@@ -231,29 +144,32 @@
               "icon": "initiative-tracker",
               "title": "Initiative Tracker"
             }
-          }
-        ],
-        "currentTab": 6
-      },
-      {
-        "id": "c947cbe219201a15",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "60e75172fb6ede78",
+            "id": "540d2d6182243844",
             "type": "leaf",
             "state": {
-              "type": "CALENDARIUM_AGENDA",
+              "type": "CALENDARIUM",
               "state": {
                 "calendar": "ID_1a89c9f90a59",
-                "id": "ID_0b496bdb19a8",
-                "parent": "ID_e9a869187af8"
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 27,
+                    "month": 2,
+                    "year": 1342
+                  },
+                  "displayDayNumber": false,
+                  "displayMoons": true
+                },
+                "id": "ID_9beb59b97a89"
               },
-              "icon": "CALENDARIUM_AGENDA",
-              "title": "Agenda"
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -274,7 +190,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "f761b79779826f4e",
+  "active": "f58cc1e222b21475",
   "lastOpenFiles": [
     "Alagaesia/Timeline Of Events.md",
     "Alagaesia/Important People/Gabriel.md",

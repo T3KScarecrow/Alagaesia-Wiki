@@ -5,4 +5,4 @@ Tim'Bop'Mcgee left home at 19 with the cloths on his back, a lute, and a mere 50
 ### Family:
 Tim'Bop'McGee was raised by his elven mother, Morfir McGee, and his human father, Rodd Bop, in their large estate. Only knowing wealth and comfort, Tim 
 
-# Hi
+# Kind of, yes

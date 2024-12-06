@@ -1,7 +1,7 @@
 ### Renown:
 
 ##### General (Vulgomage)
-0
+1
 
 ##### General (Forestfolk)
 7

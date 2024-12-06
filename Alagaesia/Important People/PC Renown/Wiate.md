@@ -4,16 +4,16 @@
 0
 
 ##### General (Forestfolk)
-1
+-1
 
 ##### General (Stoner)
--1
+0
 
 ##### General (Enlightened)
--7
+-4
 
 ##### General (Mechinators)
--1
+0
 
 ##### Archaeologers' Guild/MoAH
 2
@@ -24,10 +24,6 @@
 ##### Thieves' Guild
 -2
 
-##### Church of Vitalas
-4
-
 ### Piety:
 
-##### Vitalas
-3
+##### 

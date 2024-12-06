@@ -18,5 +18,8 @@
 ##### Archaeologers' Guild/MoAH
 2
 
+##### Adventurers' Guild
+-2
+
 ##### Thieves' Guild
 -2

@@ -17,3 +17,5 @@
 - Becomes obsessed with relic, believes it exists and can heal the Sickness
 - Starts exploring Forebearer lore
 - Currently late 20's.
+- From Windmere
+- Conflict was between some unaffiliated border cities

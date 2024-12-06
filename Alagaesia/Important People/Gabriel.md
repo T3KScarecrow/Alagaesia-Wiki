@@ -1,2 +1,9 @@
 - Fast rising in Church of Vitalas
-- 
+- Instead of staying and working harder, decided to go in search of whispered holy Vitalas relic.
+- Doesn't know father
+- Some kind of plague/sickness overtook his home town
+- Mother got sick
+- Went in search of help: found help in woman who teaches him some ways of healing
+- Cannot yet fully heal his mother
+- Few years later, she dies
+- Left distraught as child, has to live on streets for while

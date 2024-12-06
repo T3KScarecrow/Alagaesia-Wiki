@@ -20,23 +20,26 @@
               "icon": "lucide-file",
               "title": "Gabriel"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "640d391d2efd9ae9",
+        "type": "tabs",
+        "children": [
           {
             "id": "3bbf2f072f24c45c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Alagaesia/Important People/Natalie Porter.md",
-                "mode": "source",
-                "source": false
+                "file": "Alagaesia/BetterMap(2).jpg"
               },
-              "icon": "lucide-file",
-              "title": "Natalie Porter"
+              "icon": "lucide-image",
+              "title": "BetterMap(2)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -271,10 +274,16 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "3bbf2f072f24c45c",
+  "active": "f761b79779826f4e",
   "lastOpenFiles": [
-    "Alagaesia/Important People/Michael.md",
+    "Alagaesia/Timeline Of Events.md",
     "Alagaesia/Important People/Gabriel.md",
+    "Alagaesia/BetterMap(2).jpg",
+    "Alagaesia/BetterMap.png",
+    "Alagaesia/FixedMap1.jpg",
+    "Alagaesia/Important People/Vesper.md",
+    "Alagaesia/Important People/Natalie Porter.md",
+    "Alagaesia/Important People/Michael.md",
     "Alagaesia/Important People/King Edrin Valaire, The Kind King.md",
     "Alagaesia/Myths & Legends/Gods/Guntera.md",
     "Alagaesia/Myths & Legends/Gods/Aeloria.md",
@@ -295,15 +304,9 @@
     "Alagaesia/Myths & Legends/Gods/Paladine.md",
     "Alagaesia/Myths & Legends/Gods/Sylaereth - Goddess of Nature & Forests.md",
     "Alagaesia/Myths & Legends/Gods/Terros.md",
-    "Alagaesia/Myths & Legends/Gods/Valora.md",
-    "Alagaesia/Myths & Legends/Gods/Pholtus.md",
-    "Alagaesia/Myths & Legends/Gods/Daromir.md",
-    "Alagaesia/Myths & Legends/Gods/Nadruul.md",
     "Alagaesia/Important People/PC Renown",
-    "Alagaesia/BetterMap(2).jpg",
     "Alagaesia/D&D Shop Catalog, V-2.0.2-Refresh.pdf",
     "Alagaesia/History/Minor World Events",
-    "Alagaesia/BetterMap.png",
     "Alagaesia/Factions/The Unaligned",
     "Alagaesia/AAA Session Summaries/Lyric's Notes",
     "Alagaesia/Factions/The Forebearers/CLASSIFIED (SPOILERS WITHIN)",
@@ -312,7 +315,6 @@
     "Alagaesia/Factions/The Stoners",
     "Alagaesia/Factions/The Mechinators",
     "Alagaesia/133547411240553320.jpg",
-    "Alagaesia/FixedMap1.jpg",
     "Alagaesia/Worldmap1.png"
   ]
 }

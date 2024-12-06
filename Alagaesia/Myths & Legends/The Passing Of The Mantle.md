@@ -1,5 +1,5 @@
-
 #### From "Celestial Myths & Divine Histories" by Loremaster Caelwyn Eltharion
+
 In the earliest days, before mortals had yet charted the skies or whispered the names of the gods, it was **[[Aelthion - God of Curiosity & Learning|Aelthion]]**, the Radiant Seeker, who commanded the moons. Aegirion, the great white guardian, and Aelora, the pale blue dreamer, danced under his gaze, their light guiding travellers and illuminating the world’s mysteries. Alongside him stood **[[Aeloria|Aeloria]]**, she of the Veil, whose quiet wisdom shrouded Aelora in mysteries and wove the threads of divination.
 
 Together, they ruled the night—[[Aelthion - God of Curiosity & Learning|Aelthion]] as the vigilant watcher and [[Aeloria|Aeloria]] as the keeper of secrets. But [[Aelthion - God of Curiosity & Learning|Aelthion]], ever restless, grew weary of his station. While his heart swelled with curiosity and the thrill of discovery, the moons’ unending cycles became a chain, binding him to the skies. And though he admired [[Aeloria|Aeloria's]] enigmatic nature, her ceaseless riddles and her penchant for the unknowable began to weigh upon him.

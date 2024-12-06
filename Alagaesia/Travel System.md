@@ -31,7 +31,7 @@ Events are the main component of the Traveling Event System. An event is anythin
 - Close: 1 Event
 - Far: 2 Events
 - Very Far: 3 Events
-# Talk About Gods?
+
 Once a party has encountered the number of events determined by the distance traveled, they arrive at their destination.
 
 TIP: It is important to note that you are welcome and encouraged to alter these numbers. As a matter of fact, the system itself encourages it.  

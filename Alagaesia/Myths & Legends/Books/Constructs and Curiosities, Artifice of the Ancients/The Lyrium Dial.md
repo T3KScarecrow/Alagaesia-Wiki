@@ -1,4 +1,4 @@
-#### From _"Constructs and Curiosities: Artifice of the Ancient"_ by Jorath Fizzlesprocket
+#### From _"Constructs and Curiosities: Artifice of the Ancients"_ by Jorath Fizzlesprocket
 
 Recovered schematics from Hargraven depict the _Lyrium Dial_, a compact device described as a Forebearer tool for "measuring the immeasurable." This intricate artifact was said to have a face of liquid silver, which could shift and rearrange its markings depending on the holder's intent.
 

@@ -18,7 +18,7 @@ The Enlightened is led by **[[Lord Tyrannus]]**, a figure both revered and feare
 
 ##### 1. **The Holy Order of the Vanguard**
 
-**Description**: The Holy Order of the Vanguard serves as the militant and crusading arm of The Enlightened. Its mission is to expand Alaegor's influence through conquest and forceful assimilation. The Vanguard is known for their rigorous discipline, zealous faith, and unyielding approach to warfare. Members of this order see themselves as the true bearers of Alaegor’s will, dedicated to spreading his doctrine and purging those they deem heretical. Clad in ornate armor inscribed with holy symbols, they march under banners of pure white emblazoned with a golden flame, symbolizing divine purification.
+**Description**: The Holy Order of the Vanguard serves as the militant and crusading arm of The Enlightened. Its mission is to expand Alaegor's influence through conquest and forceful assimilation. The Vanguard is known for their rigorous discipline, zealous faith, and unyielding approach to warfare. Members of this order see themselves as the true bearers of Alaegor’s will, dedicated to spreading his doctrine and purging those they deem heretical. Clad in ornate armour inscribed with holy symbols, they march under banners of pure white emblazoned with a golden flame, symbolizing divine purification.
 
 **Central City of Operation**: **Celestarch**—A fortress city that stands as the heart of The Enlightened's military might. Celestarch's grand halls echo with battle hymns and sermons, preparing warriors spiritually and physically for campaigns.
 

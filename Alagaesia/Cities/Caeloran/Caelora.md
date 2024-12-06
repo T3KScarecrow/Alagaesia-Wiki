@@ -19,17 +19,17 @@ The main room is filled with mismatched but inviting furniture, from plush armch
 
 Despite its welcoming atmosphere, _The Arcane Hearth_ has witnessed its share of intrigue. Stories abound of deals struck in the shadows, powerful mages meeting in secret, and relics of questionable origin passing through its doors. Velanna’s descendants now manage the establishment, maintaining its traditions and ensuring that the tavern remains a center for camaraderie and mystique in the city. Some whisper that the current keeper, Dorian Fairwind, is a retired adventurer himself, whose own exploits are subtly referenced in the songs sung by the tavern’s bards.
 
-#### The Church of Vitalos in Caelora
+#### The Church of Vitalas in Caelora
 
-In the heart of Caelora, not far from the bustling marketplace and the grand spires of the Magisterium, stands the *Church of Vitalos*, an ancient and revered sanctuary dedicated to the god of life, renewal, and boundless vitality. Though the city is famed for its arcane ingenuity and the scholarly pursuits of its mages, the Church of Vitalos remains a vital part of daily life for citizens who seek balance between magic and the divine.
+In the heart of Caelora, not far from the bustling marketplace and the grand spires of the Magisterium, stands the *Church of Vitalas*, an ancient and revered sanctuary dedicated to the god of life, renewal, and boundless vitality. Though the city is famed for its arcane ingenuity and the scholarly pursuits of its mages, the Church of Vitalas remains a vital part of daily life for citizens who seek balance between magic and the divine.
 
 **Architecture and Appearance**
-The *Church of Vitalos* is an architectural marvel that embodies the themes of life and renewal. Its facade is constructed from polished limestone interwoven with veins of emerald-green marble, giving the impression that living vines are permanently embedded in its structure. Towering stained-glass windows depict scenes of flourishing fields, rejuvenating springs, and Vitalos himself, rendered as a radiant, benevolent figure with a crown of leaves and an aura of golden light.
+The *Church of Vitalas* is an architectural marvel that embodies the themes of life and renewal. Its façade is constructed from polished limestone interwoven with veins of emerald-green marble, giving the impression that living vines are permanently embedded in its structure. Towering stained-glass windows depict scenes of flourishing fields, rejuvenating springs, and Vitalas herself, rendered as a radiant, benevolent figure with a crown of leaves and an aura of golden light.
 
 Inside, the nave stretches upward to an intricate domed ceiling painted with scenes of nature's cycles: blooming flowers, cascading waterfalls, and the gradual change of seasons. The air is imbued with the fresh, earthy scent of herbs and blossoms, and sunlight filters through the stained-glass panels, casting hues of green, blue, and gold across the pews and polished stone floor.
 
 **Practices and Worship**
-Worshipers at the *Church of Vitalos* come for various reasons: some to pray for health and recovery, others for prosperity in their harvests or personal ventures. Services are often marked by melodic hymns and rituals involving offerings of fruits, flowers, and vials of clear spring water. Priests and priestesses of Vitalos
+Worshipers at the *Church of Vitalas* come for various reasons: some to pray for health and recovery, others for prosperity in their harvests or personal ventures. Services are often marked by melodic hymns and rituals involving offerings of fruits, flowers, and vials of clear spring water. Priests and priestesses of Vitalas
 
 #### The Silver Quill Tavern and Its Bartender, Aric Dunwhistle
 

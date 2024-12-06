@@ -20,26 +20,23 @@
               "icon": "lucide-file",
               "title": "Gabriel"
             }
-          }
-        ]
-      },
-      {
-        "id": "640d391d2efd9ae9",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "3bbf2f072f24c45c",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Alagaesia/BetterMap(2).jpg"
+                "file": "Alagaesia/Cities/Thalassaran/Windmere.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "BetterMap(2)"
+              "icon": "lucide-file",
+              "title": "Windmere"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,11 +187,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "f58cc1e222b21475",
+  "active": "3bbf2f072f24c45c",
   "lastOpenFiles": [
-    "Alagaesia/Timeline Of Events.md",
-    "Alagaesia/Important People/Gabriel.md",
     "Alagaesia/BetterMap(2).jpg",
+    "Alagaesia/Important People/Gabriel.md",
+    "Alagaesia/Timeline Of Events.md",
     "Alagaesia/BetterMap.png",
     "Alagaesia/FixedMap1.jpg",
     "Alagaesia/Important People/Vesper.md",

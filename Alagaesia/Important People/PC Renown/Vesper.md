@@ -28,3 +28,6 @@
 
 ##### Sylaereth
 7
+
+##### Nyrex
+1

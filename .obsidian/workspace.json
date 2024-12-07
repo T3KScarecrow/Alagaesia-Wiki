@@ -25,12 +25,14 @@
             "id": "d3e9b2ca7c5ffc3c",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Alagaesia/BetterMap(2).jpg"
+                "file": "Alagaesia/Important People/PC Renown/Aaron.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "BetterMap(2)"
+              "icon": "lucide-file",
+              "title": "Aaron"
             }
           },
           {
@@ -176,6 +178,64 @@
               "icon": "CALENDARIUM",
               "title": "Calendarium"
             }
+          },
+          {
+            "id": "c0cf56d1cd234b59",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Alagaesia/Important People/PC Renown/Aaron.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Aaron"
+            }
+          },
+          {
+            "id": "ab397baab0c3a9f3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Alagaesia/Important People/PC Renown/Aaron.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Aaron"
+            }
+          },
+          {
+            "id": "4710ecba089b9d99",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "84cfc475ac053dee",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Alagaesia/Important People/PC Renown/Aaron.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Aaron"
+            }
           }
         ],
         "currentTab": 4
@@ -201,6 +261,7 @@
   },
   "active": "d3e9b2ca7c5ffc3c",
   "lastOpenFiles": [
+    "Alagaesia/BetterMap(2).jpg",
     "Alagaesia/BetterMap.png",
     "Concepts/Ideas.md",
     "Alagaesia/Factions/The Forebearers/The Forebearers.md",
@@ -237,7 +298,6 @@
     "Alagaesia/Myths & Legends/Books",
     "Alagaesia/Myths & Legends/Books/Constructs and Curiosities, Artifice of the Ancients",
     "Alagaesia/Myths & Legends/Books/Terrors And Spooks that Might be True",
-    "Alagaesia/BetterMap(2).jpg",
     "Alagaesia/FixedMap1.jpg",
     "Alagaesia/133547411240553320.jpg",
     "Alagaesia/Worldmap1.png"

@@ -25,12 +25,14 @@
             "id": "d3e9b2ca7c5ffc3c",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Alagaesia/D&D Shop Catalog, V-2.0.2-Refresh.pdf"
+                "file": "Alagaesia/Myths & Legends/Gods/Vitalas.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "D&D Shop Catalog, V-2.0.2-Refresh"
+              "icon": "lucide-file",
+              "title": "Vitalas"
             }
           },
           {
@@ -189,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Alagaesia/D&D Shop Catalog, V-2.0.2-Refresh.pdf",
+                "file": "Alagaesia/Myths & Legends/Gods/Vitalas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +201,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for D&D Shop Catalog, V-2.0.2-Refresh"
+              "title": "Backlinks for Vitalas"
             }
           },
           {
@@ -208,12 +210,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Alagaesia/D&D Shop Catalog, V-2.0.2-Refresh.pdf",
+                "file": "Alagaesia/Myths & Legends/Gods/Vitalas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from D&D Shop Catalog, V-2.0.2-Refresh"
+              "title": "Outgoing links from Vitalas"
             }
           },
           {
@@ -235,10 +237,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Alagaesia/D&D Shop Catalog, V-2.0.2-Refresh.pdf"
+                "file": "Alagaesia/Myths & Legends/Gods/Vitalas.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of D&D Shop Catalog, V-2.0.2-Refresh"
+              "title": "Outline of Vitalas"
             }
           }
         ],
@@ -285,6 +287,7 @@
   },
   "active": "d3e9b2ca7c5ffc3c",
   "lastOpenFiles": [
+    "Alagaesia/D&D Shop Catalog, V-2.0.2-Refresh.pdf",
     "Alagaesia/Important People/PC Renown/Aaron.md",
     "Alagaesia/Cities/Caeloran/Ironhenge.md",
     "Alagaesia/Important People/PC Renown/Vesper.md",
@@ -295,7 +298,6 @@
     "Alagaesia/Cities/Caeloran/Caelora.md",
     "Alagaesia/Important People/AR-8125   -   Aaron.md",
     "Concepts/Ideas.md",
-    "Alagaesia/D&D Shop Catalog, V-2.0.2-Refresh.pdf",
     "Alagaesia/History/Minor World Events/The Caeloran Exposition of Marvels and Mechanisms.md",
     "Alagaesia/BetterMap(2).jpg",
     "Alagaesia/BetterMap.png",
@@ -313,7 +315,6 @@
     "Alagaesia/Important People/CLASSIFIED (SPOLIERS WITHIN)/Lord Tyrannus.md",
     "Alagaesia/Cities/Enlightened/Gilead.md",
     "Alagaesia/Cities/Unaffiliated/Shortstaig.md",
-    "Alagaesia/Factions/The Vulgomage/The Vulgomage.md",
     "Alagaesia/Myths & Legends/Poems",
     "Alagaesia/Myths & Legends/Books/Cryptids of the Forgotten Wilds",
     "Alagaesia/Myths & Legends/Books/Draconic Myths and Shadowed Legends",

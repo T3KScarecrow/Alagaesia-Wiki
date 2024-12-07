@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Alagaesia/History/Minor World Events/The Caeloran Exposition of Marvels and Mechanisms.md",
+                "file": "Concepts/Ideas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Caeloran Exposition of Marvels and Mechanisms"
+              "title": "Ideas"
             }
           },
           {
@@ -185,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Alagaesia/History/Minor World Events/The Caeloran Exposition of Marvels and Mechanisms.md",
+                "file": "Concepts/Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The Caeloran Exposition of Marvels and Mechanisms"
+              "title": "Backlinks for Ideas"
             }
           },
           {
@@ -204,12 +204,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Alagaesia/History/Minor World Events/The Caeloran Exposition of Marvels and Mechanisms.md",
+                "file": "Concepts/Ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from The Caeloran Exposition of Marvels and Mechanisms"
+              "title": "Outgoing links from Ideas"
             }
           },
           {
@@ -231,10 +231,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Alagaesia/History/Minor World Events/The Caeloran Exposition of Marvels and Mechanisms.md"
+                "file": "Concepts/Ideas.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of The Caeloran Exposition of Marvels and Mechanisms"
+              "title": "Outline of Ideas"
             }
           }
         ],
@@ -259,10 +259,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "540d2d6182243844",
+  "active": "d3e9b2ca7c5ffc3c",
   "lastOpenFiles": [
-    "Concepts/Ideas.md",
     "Alagaesia/D&D Shop Catalog, V-2.0.2-Refresh.pdf",
+    "Alagaesia/History/Minor World Events/The Caeloran Exposition of Marvels and Mechanisms.md",
+    "Concepts/Ideas.md",
     "Alagaesia/Important People/PC Renown/Aaron.md",
     "Alagaesia/BetterMap(2).jpg",
     "Alagaesia/BetterMap.png",
@@ -288,7 +289,6 @@
     "Alagaesia/Cities/Thalassaran/Coralcrest.md",
     "Alagaesia/Cities/Ostholmian/Ashfell.md",
     "Alagaesia/Cities/Ostholmian/Valeforge.md",
-    "Alagaesia/Cities/Ostholmian/Dunvarr.md",
     "Alagaesia/Myths & Legends/Poems",
     "Alagaesia/Myths & Legends/Books/Cryptids of the Forgotten Wilds",
     "Alagaesia/Myths & Legends/Books/Draconic Myths and Shadowed Legends",

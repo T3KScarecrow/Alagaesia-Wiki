@@ -19,7 +19,7 @@
 2
 
 ##### Adventurers' Guild
--2
+0
 
 ##### Thieves' Guild
 -3

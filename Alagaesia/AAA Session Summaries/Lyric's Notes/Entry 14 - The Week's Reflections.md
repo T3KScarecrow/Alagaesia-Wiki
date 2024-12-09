@@ -1,0 +1,3 @@
+Our time in Caelora has been anything but dull. Aaron’s impulsiveness has made our registration with the Adventurers' Guild significantly more difficult, but I remain hopeful. Gabriel’s quest for the relic of Vitalas has sparked a fire in me, and the prospect of the Exposition fills me with anticipation.
+
+I feel the weight of my inexperience lessening with each passing day. The world is vast, chaotic, and strange, but within that chaos lies opportunity. For discovery. For growth. For adventure.

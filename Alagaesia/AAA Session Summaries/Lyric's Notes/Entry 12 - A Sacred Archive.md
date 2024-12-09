@@ -1,0 +1,3 @@
+With Aaron detained, Gabriel suggested we visit the Great Cathedral of Life. I had not expected what lay beneath its hallowed halls. Gabriel led me to a hidden archive, concealed behind a secret door, where he revealed his true purpose for coming to Caelora: to find a cure for a magical sickness. The same sickness that claimed his mother and ravaged his hometown.
+
+The texts here are Forebearer in origin but barely translated. They reference a holy relic of Vitalas herself, said to heal any wound or cure any ailment. Gabriel believes it may be the key to his quest. Over the next few days, we delved into these texts, deciphering what we could. Progress was slow, but Gabriel’s grasp of the Forebearer language grew with each attempt. His dedication is inspiring.

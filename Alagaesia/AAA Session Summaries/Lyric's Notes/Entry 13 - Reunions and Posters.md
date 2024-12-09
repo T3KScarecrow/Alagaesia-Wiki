@@ -1,0 +1,3 @@
+Aaron was released today, thanks to Geoffrey’s intervention. Rejoining with Gabriel and I at the Silver Quill, our party reconvened. Gabriel, Michael, Natalie, and I discussed attending the Caeloran Exposition of Marvels and Mechanisms—a gathering of inventors and scholars that promises untold wonders. Vesper, ever the rogue, was absent during this conversation but overheard our plans.
+
+On my way back, I noticed an unusual sight: posters of Vesper’s face plastered across the city. _Wanted posters_, no less, though the reasons for this peculiar self-promotion escape me. Another set of posters advertised the Exposition. I wonder if the two are connected in some way, though with Vesper, one can never be certain.

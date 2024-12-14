@@ -27,6 +27,9 @@
 ##### Church of Vitalas
 4
 
+#### Angela
+4
+
 ### Piety:
 
 ##### Vitalas

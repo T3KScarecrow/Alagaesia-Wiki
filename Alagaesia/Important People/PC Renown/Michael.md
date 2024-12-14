@@ -24,6 +24,9 @@
 ##### Thieves' Guild
 -2
 
+#### Angela
+5
+
 ### Piety:
 
 ##### Khonshu

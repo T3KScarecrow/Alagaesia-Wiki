@@ -24,3 +24,5 @@
 ##### Thieves' Guild
 -3
 
+#### Angela
+1

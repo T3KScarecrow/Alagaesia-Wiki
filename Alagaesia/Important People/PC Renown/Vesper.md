@@ -24,6 +24,9 @@
 ##### Thieves' Guild
 -2
 
+#### Angela
+1
+
 ### Piety:
 
 ##### Sylaereth

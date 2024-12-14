@@ -25,14 +25,12 @@
             "id": "d3e9b2ca7c5ffc3c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Concepts/Magic Items.md",
-                "mode": "source",
-                "source": false
+                "file": "Alagaesia/D&D Shop Catalog, V-2.0.2-Refresh.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Magic Items"
+              "icon": "lucide-file-text",
+              "title": "D&D Shop Catalog, V-2.0.2-Refresh"
             }
           },
           {
@@ -244,7 +242,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       },
       {
         "id": "b7fc10aa618433f2",
@@ -287,6 +285,7 @@
   },
   "active": "d3e9b2ca7c5ffc3c",
   "lastOpenFiles": [
+    "Concepts/Magic Items.md",
     "Alagaesia/Cities/Ruined/City Of Tears.md",
     "Alagaesia/Cities/Z CLASSIFIED (SPOILERS WITHIN)/Atlazara or Talazoria.md",
     "Alagaesia/BetterMap(2).jpg",
@@ -297,7 +296,6 @@
     "Alagaesia/Important People/PC Renown/Gabriel.md",
     "Alagaesia/Important People/PC Renown/Aaron.md",
     "Alagaesia/Important People/PC Renown/Vesper.md",
-    "Concepts/Magic Items.md",
     "Concepts/Ideas.md",
     "Alagaesia/AAA Session Summaries/Lyric's Notes/Entry 14 - The Week's Reflections.md",
     "Alagaesia/AAA Session Summaries/Lyric's Notes/Entry 13 - Reunions and Posters.md",

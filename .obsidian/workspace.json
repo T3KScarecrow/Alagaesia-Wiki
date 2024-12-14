@@ -25,12 +25,14 @@
             "id": "d3e9b2ca7c5ffc3c",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Alagaesia/D&D Shop Catalog, V-2.0.2-Refresh.pdf"
+                "file": "Concepts/Magic Items.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "D&D Shop Catalog, V-2.0.2-Refresh"
+              "icon": "lucide-file",
+              "title": "Magic Items"
             }
           },
           {
@@ -285,6 +287,7 @@
   },
   "active": "d3e9b2ca7c5ffc3c",
   "lastOpenFiles": [
+    "Alagaesia/D&D Shop Catalog, V-2.0.2-Refresh.pdf",
     "Concepts/Magic Items.md",
     "Concepts/Ideas.md",
     "Alagaesia/AAA Session Summaries/Lyric's Notes/Entry 14 - The Week's Reflections.md",
@@ -298,7 +301,6 @@
     "Alagaesia/Important People/CLASSIFIED (SPOLIERS WITHIN)/CLU.md",
     "Alagaesia/Myths & Legends/Poems/The Menoa Tree.md",
     "Alagaesia/Myths & Legends/Gods/Vitalas.md",
-    "Alagaesia/D&D Shop Catalog, V-2.0.2-Refresh.pdf",
     "Alagaesia/Important People/PC Renown/Aaron.md",
     "Alagaesia/Cities/Caeloran/Ironhenge.md",
     "Alagaesia/Important People/PC Renown/Vesper.md",
@@ -313,7 +315,6 @@
     "Alagaesia/Factions/The Forebearers/The Forebearers.md",
     "Alagaesia/Factions/Intelligent Races.md",
     "Alagaesia/Factions/Minor Factions/The Iron Vow Mercenary Company.md",
-    "Alagaesia/Factions/The Forestfolk/AAA The Forestfolk.md",
     "Alagaesia/Myths & Legends/Poems",
     "Alagaesia/Myths & Legends/Books/Cryptids of the Forgotten Wilds",
     "Alagaesia/Myths & Legends/Books/Draconic Myths and Shadowed Legends",

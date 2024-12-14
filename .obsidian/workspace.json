@@ -25,14 +25,12 @@
             "id": "d3e9b2ca7c5ffc3c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Concepts/Magic Items.md",
-                "mode": "source",
-                "source": false
+                "file": "Alagaesia/D&D Shop Catalog, V-2.0.2-Refresh.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Magic Items"
+              "icon": "lucide-file-text",
+              "title": "D&D Shop Catalog, V-2.0.2-Refresh"
             }
           },
           {
@@ -287,8 +285,8 @@
   },
   "active": "d3e9b2ca7c5ffc3c",
   "lastOpenFiles": [
-    "Concepts/Ideas.md",
     "Concepts/Magic Items.md",
+    "Concepts/Ideas.md",
     "Alagaesia/AAA Session Summaries/Lyric's Notes/Entry 14 - The Week's Reflections.md",
     "Alagaesia/AAA Session Summaries/Lyric's Notes/Entry 13 - Reunions and Posters.md",
     "Alagaesia/AAA Session Summaries/Lyric's Notes/Entry 12 - A Sacred Archive.md",

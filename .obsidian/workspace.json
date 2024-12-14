@@ -25,12 +25,14 @@
             "id": "d3e9b2ca7c5ffc3c",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Alagaesia/D&D Shop Catalog, V-2.0.2-Refresh.pdf"
+                "file": "Alagaesia/Important People/CLASSIFIED (SPOLIERS WITHIN)/Professor Percival Thaliarchus.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "D&D Shop Catalog, V-2.0.2-Refresh"
+              "icon": "lucide-file",
+              "title": "Professor Percival Thaliarchus"
             }
           },
           {
@@ -285,6 +287,8 @@
   },
   "active": "d3e9b2ca7c5ffc3c",
   "lastOpenFiles": [
+    "Alagaesia/Myths & Legends/Poems/The Menoa Tree.md",
+    "Alagaesia/D&D Shop Catalog, V-2.0.2-Refresh.pdf",
     "Concepts/Magic Items.md",
     "Alagaesia/Cities/Ruined/City Of Tears.md",
     "Alagaesia/Cities/Z CLASSIFIED (SPOILERS WITHIN)/Atlazara or Talazoria.md",
@@ -292,7 +296,6 @@
     "Alagaesia/Myths & Legends/Books/Myths of Might and Mystery/The Wyrms of a Forgotten Age.md",
     "Alagaesia/Important People/PC Renown/Natalie.md",
     "Alagaesia/Important People/PC Renown/Michael.md",
-    "Alagaesia/D&D Shop Catalog, V-2.0.2-Refresh.pdf",
     "Alagaesia/Important People/PC Renown/Gabriel.md",
     "Alagaesia/Important People/PC Renown/Aaron.md",
     "Alagaesia/Important People/PC Renown/Vesper.md",
@@ -306,13 +309,11 @@
     "Concepts/Codes.md",
     "Alagaesia/Important People/CLASSIFIED (SPOLIERS WITHIN)/Professor Percival Thaliarchus.md",
     "Alagaesia/Important People/CLASSIFIED (SPOLIERS WITHIN)/CLU.md",
-    "Alagaesia/Myths & Legends/Poems/The Menoa Tree.md",
     "Alagaesia/Myths & Legends/Gods/Vitalas.md",
     "Alagaesia/Cities/Caeloran/Ironhenge.md",
     "Alagaesia/Myths & Legends/Books/Celestial Myths & Divine Histories/The Tale Of The Passing Of The Mantle.md",
     "Alagaesia/History/Major Historical Events/The Fall of The Forebearers.md",
     "Alagaesia/Cities/Caeloran/Caelora.md",
-    "Alagaesia/Important People/AR-8125   -   Aaron.md",
     "Alagaesia/BetterMap.png",
     "Alagaesia/Myths & Legends/Poems",
     "Alagaesia/Myths & Legends/Books/Cryptids of the Forgotten Wilds",

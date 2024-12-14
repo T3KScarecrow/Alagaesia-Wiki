@@ -164,14 +164,9 @@
               "state": {
                 "calendar": "ID_1a89c9f90a59",
                 "ephemeral": {
-                  "viewing": {
-                    "day": 28,
-                    "month": 2,
-                    "year": 1342
-                  },
                   "viewState": 1,
                   "displaying": {
-                    "day": 27,
+                    "day": 29,
                     "month": 2,
                     "year": 1342
                   },
@@ -287,15 +282,16 @@
   },
   "active": "3bbf2f072f24c45c",
   "lastOpenFiles": [
+    "Concepts/Magic Items.md",
+    "Concepts/Codes.md",
     "Alagaesia/Factions/Minor Factions/The Iron Vow Mercenary Company.md",
-    "Alagaesia/Myths & Legends/Books/Celestial Myths & Divine Histories/The Tale of Aelthion and Zatharion.md",
     "Concepts/Ideas.md",
+    "Alagaesia/Myths & Legends/Books/Celestial Myths & Divine Histories/The Tale of Aelthion and Zatharion.md",
     "Alagaesia/Cities/Thalassaran/Windmere.md",
     "Alagaesia/Myths & Legends/Books/Terrors And Spooks that Might be True/The Bagman.md",
     "Alagaesia/Important People/CLASSIFIED (SPOLIERS WITHIN)/Professor Percival Thaliarchus.md",
     "Alagaesia/Myths & Legends/Poems/The Menoa Tree.md",
     "Alagaesia/D&D Shop Catalog, V-2.0.2-Refresh.pdf",
-    "Concepts/Magic Items.md",
     "Alagaesia/Cities/Ruined/City Of Tears.md",
     "Alagaesia/Cities/Z CLASSIFIED (SPOILERS WITHIN)/Atlazara or Talazoria.md",
     "Alagaesia/BetterMap(2).jpg",
@@ -311,7 +307,6 @@
     "Alagaesia/AAA Session Summaries/Lyric's Notes/Entry 11 - The Goblin Incident.md",
     "Alagaesia/AAA Session Summaries/Lyric's Notes/Entry 10 - A Curious Proposition.md",
     "Alagaesia/AAA Session Summaries/Lyric's Notes/Entry 9 - The Museum, Lasscial, & a Familiar Face.md",
-    "Concepts/Codes.md",
     "Alagaesia/Important People/CLASSIFIED (SPOLIERS WITHIN)/CLU.md",
     "Alagaesia/Myths & Legends/Gods/Vitalas.md",
     "Alagaesia/Cities/Caeloran/Ironhenge.md",

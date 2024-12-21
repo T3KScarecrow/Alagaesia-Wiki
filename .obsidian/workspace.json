@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/Magic Items.md",
+                "file": "Alagaesia/Myths & Legends/Gods/Vitalas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Magic Items"
+              "title": "Vitalas"
             }
           }
         ],
@@ -263,7 +263,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 373.5
+    "width": 360.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -282,6 +282,7 @@
   },
   "active": "3bbf2f072f24c45c",
   "lastOpenFiles": [
+    "Concepts/Magic Items.md",
     "Concepts/Ideas.md",
     "Alagaesia/Important People/CLASSIFIED (SPOLIERS WITHIN)/Angela Vaelstrande.md",
     "Alagaesia/Factions/Minor Factions/Guilds/Magus Guild.md",
@@ -293,7 +294,6 @@
     "Alagaesia/Cities/Caeloran/Caelora.md",
     "Alagaesia/Factions/Minor Factions/Guilds",
     "Alagaesia/Factions/Minor Factions/Untitled.md",
-    "Concepts/Magic Items.md",
     "Concepts/Codes.md",
     "Alagaesia/Factions/Minor Factions/The Iron Vow Mercenary Company.md",
     "Alagaesia/Myths & Legends/Books/Celestial Myths & Divine Histories/The Tale of Aelthion and Zatharion.md",

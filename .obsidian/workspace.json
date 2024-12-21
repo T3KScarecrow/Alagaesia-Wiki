@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Alagaesia/AAAAAAAAAAA.md",
+                "file": "Alagaesia/AAABBBBBBBBB.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AAAAAAAAAAA"
+              "title": "AAABBBBBBBBB"
             }
           }
         ],
@@ -283,7 +283,7 @@
   "active": "3bbf2f072f24c45c",
   "lastOpenFiles": [
     "Alagaesia/Cities/Cogmind/Hargraven.md",
-    "Alagaesia/AAAAAAAAAAA.md",
+    "Alagaesia/AAABBBBBBBBB.md",
     "Alagaesia/Myths & Legends/Gods/Vitalas.md",
     "Concepts/Magic Items.md",
     "Concepts/Ideas.md",

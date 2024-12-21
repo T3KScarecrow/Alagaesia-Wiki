@@ -65,3 +65,67 @@ The king of Caelora, **King Edrin Valaire**, is more a living emblem than a true
 Inside, the palace is filled with tapestries, relics, and murals depicting Caelora’s history. Its grand hall is where King Edrin holds audiences with the people, listening to their needs and granting small tokens of goodwill. Here, he holds court in an environment of genuine openness, with none of the austerity typical of the Magisterium. 
 
 Despite his limited power, King Edrin’s presence serves a vital purpose, particularly for the common people who view him as a beacon of compassion and stability. His role is a counterbalance to the Magisterium's often distant governance, bringing a sense of humanity and groundedness to Caelora. Though King Edrin wields little actual power, he holds the people's hearts—a fact that the Magisterium understands and, for now, respects.
+
+
+### Shops:
+
+#### **The Golden Anvil** _(Blacksmith)_
+
+**Owner:** **Tharekk Ironbrand** – A retired dwarf adventurer with a thick, braided beard and a missing finger on his left hand. He is gruff but fair, known for his masterful work.  
+**Exterior:** The shop's stone facade is decorated with a gilded iron anvil hanging as a sign, polished to a shine. The sound of hammers clanging and a steady plume of smoke rising from the back forge is a constant.  
+**Interior:** Inside, the shop is warm and smells of molten metal. Weapons and armor hang on the walls, displayed like works of art. The forge in the back casts a flickering orange glow over racks of finely crafted tools. A side counter is laden with smaller trinkets like buckles, horseshoes, and ornate nails.  
+**Backstory:** Tharekk opened the shop after leaving the adventuring life, using his earnings to establish himself as the premier blacksmith of Caelora. His weapons are sought after by the city’s guards and adventurers alike, but he refuses to do business with The Enlightened, citing personal reasons he keeps to himself.
+
+---
+
+#### **Arcane Odds & Ends** _(Magic Shop)_
+
+**Owner:** **Lady Nyssara Vyrenna** – A half-elf enchantress with an air of mystery. She dresses in flowing silks and often seems to know what a customer is looking for before they do.  
+**Exterior:** The shopfront is adorned with glowing, shifting runes etched into the wooden beams. A carved obsidian sign with golden script spells out the shop’s name. The door emits a faint hum when touched, as though alive.  
+**Interior:** Shelves crammed with magical curiosities line the shop. Enchanted baubles float in glass cases, and a faint lavender aroma lingers in the air. A wisp-like familiar flits around the room, often startling newcomers. Behind the counter lies a large crystal orb that Nyssara sometimes peers into theatrically.  
+**Backstory:** Nyssara was a former apprentice to a powerful archmage in Caelora, but she left the Magisterium due to philosophical differences. She now runs her shop to cater to adventurers, scholars, and the occasional eccentric noble.
+
+---
+
+#### **Drellen’s Wares** _(General Goods)_
+
+**Owner:** **Drellen Fairhollow** – A human merchant with a round face, quick wit, and a knack for haggling. He wears spectacles perched precariously on his nose and always has ink stains on his fingers.  
+**Exterior:** The building is plain but well-maintained, with a weathered wooden sign showing a sack of goods. Crates and barrels are stacked neatly outside.  
+**Interior:** Shelves overflow with mundane supplies, from rope and lanterns to rations and parchment. The counter is cluttered with ledgers, quills, and a bell for service. There’s a faint smell of dried herbs and sawdust.  
+**Backstory:** Drellen inherited the shop from his father but modernized it with a sharper focus on adventurers. He has a soft spot for young explorers, often slipping them small discounts, though his wife claims it will put them out of business someday.
+
+---
+
+#### **Silverfeather Fletcher** _(Fletcher)_
+
+**Owner:** **Ellara Silverfeather** – A reclusive elf with striking silver hair and a quiet demeanor. She’s known for her near-perfect craftsmanship of bows and arrows.  
+**Exterior:** A tall, narrow building with a wooden carved bow and quiver as its sign. Vines creep up the stone walls, giving it a rustic charm.  
+**Interior:** The scent of polished wood fills the air. Racks of bows, crossbows, and meticulously crafted arrows line the walls. There’s a small range in the back where customers can test the merchandise.  
+**Backstory:** Ellara came to Caelora from Du Weldenvarden centuries ago, seeking to escape her past. She keeps her history a secret, though her craftsmanship speaks of ancient elven traditions.
+
+---
+
+#### **The Cauldron’s Calling** _(Potion & Herbalist Shop)_
+
+**Owner:** **Maribel Greenleaf** – A halfling alchemist with an irrepressible cheerfulness. She has a green thumb and seems to know every herb by heart.  
+**Exterior:** The shop is built of moss-covered stone with potted plants adorning the windowsills. A painted cauldron hangs above the door, puffing colorful smoke every so often.  
+**Interior:** Shelves are stacked with bottles and vials of every shape and size, filled with liquids in a rainbow of colors. Bundles of herbs dangle from the ceiling, and a bubbling cauldron occupies the center of the room.  
+**Backstory:** Maribel left her sleepy halfling village to pursue her passion for potion-making. She quickly became popular in Caelora for her affordable healing potions and "special brews" that cater to adventurers' various needs.
+
+---
+
+#### **The Clockwork Emporium** _(Tinkerer’s Shop)_
+
+**Owner:** **Borrick Tinkerthorn** – A gnome inventor with wild hair and an eccentric personality. He always seems on the verge of an epiphany—or a disaster.  
+**Exterior:** The shop is a chaotic mix of gears and pipes sticking out from the walls. A rotating clockwork contraption serves as the sign, drawing curious onlookers.  
+**Interior:** The space is cluttered with half-finished gadgets, ticking clocks, and strange mechanical devices. Customers often find it hard to navigate without stepping on or tripping over something.  
+**Backstory:** Borrick is a member of the Tinkerer’s Guild, though his unorthodox methods have made him somewhat of a black sheep. His creations are either brilliant successes or catastrophic failures, with little in between.
+
+---
+
+#### **Velvet Veil Tailors** _(Clothing Shop)_
+
+**Owner:** **Madame Cecille Varois** – A human seamstress with impeccable taste and a flair for drama. She’s a perfectionist and a bit of a gossip.  
+**Exterior:** The shop boasts elegant purple awnings with gold embroidery. A mannequin dressed in the latest fashion trends is displayed in the window.  
+**Interior:** Rich fabrics drape from the walls, and bolts of cloth are stacked neatly in the corners. A long counter holds measuring tools and spools of thread. A small stage with mirrors allows customers to view their garments from every angle.  
+**Backstory:** Cecille once worked as a costumer for a famous troupe of actors in Caelora’s entertainment district. After retiring, she opened her shop to cater to nobles and adventurers alike, providing both functional and fashionable attire.

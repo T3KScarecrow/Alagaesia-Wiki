@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Alagaesia/Factions/Minor Factions/The Iron Vow Mercenary Company.md",
+                "file": "Concepts/Ideas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Iron Vow Mercenary Company"
+              "title": "Ideas"
             }
           },
           {
@@ -48,7 +48,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -237,31 +237,11 @@
             }
           }
         ],
-        "currentTab": 1
-      },
-      {
-        "id": "b7fc10aa618433f2",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d672c3f1761b6376",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM_AGENDA",
-              "state": {
-                "calendar": "ID_1a89c9f90a59",
-                "id": "ID_fa6a5beac98b",
-                "parent": "ID_9beb59b97a89"
-              },
-              "icon": "CALENDARIUM_AGENDA",
-              "title": "Agenda"
-            }
-          }
-        ]
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 360.5
+    "width": 822.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -278,8 +258,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "3bbf2f072f24c45c",
+  "active": "d3e9b2ca7c5ffc3c",
   "lastOpenFiles": [
+    "Alagaesia/Factions/Minor Factions/The Iron Vow Mercenary Company.md",
+    "Alagaesia/D&D Shop Catalog, V-2.0.2-Refresh.pdf",
     "Alagaesia/Cities/Dwarven/Svatlheim.md",
     "Alagaesia/Factions/The Stoners/The Dwarves.md",
     "Alagaesia/Factions/The Stoners/The Stoners.md",
@@ -303,11 +285,8 @@
     "Alagaesia/Factions/Minor Factions/Guilds",
     "Alagaesia/Factions/Minor Factions/Untitled.md",
     "Concepts/Codes.md",
-    "Alagaesia/Factions/Minor Factions/The Iron Vow Mercenary Company.md",
     "Alagaesia/Myths & Legends/Books/Celestial Myths & Divine Histories/The Tale of Aelthion and Zatharion.md",
     "Alagaesia/Cities/Thalassaran/Windmere.md",
-    "Alagaesia/Myths & Legends/Books/Terrors And Spooks that Might be True/The Bagman.md",
-    "Alagaesia/D&D Shop Catalog, V-2.0.2-Refresh.pdf",
     "Alagaesia/BetterMap(2).jpg",
     "Alagaesia/BetterMap.png",
     "Alagaesia/Myths & Legends/Poems",

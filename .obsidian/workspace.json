@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Alagaesia/Cities/Cogmind/Hargraven.md",
+                "file": "Alagaesia/Factions/Minor Factions/The Blood Cult of Skaro.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hargraven"
+              "title": "The Blood Cult of Skaro"
             }
           }
         ],
@@ -282,8 +282,8 @@
   },
   "active": "3bbf2f072f24c45c",
   "lastOpenFiles": [
-    "Alagaesia/AAABBBBCCCC.md",
     "Alagaesia/Cities/Cogmind/Hargraven.md",
+    "Alagaesia/AAABBBBCCCC.md",
     "Alagaesia/Myths & Legends/Gods/Vitalas.md",
     "Concepts/Magic Items.md",
     "Concepts/Ideas.md",

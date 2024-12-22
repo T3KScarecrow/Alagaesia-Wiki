@@ -49,6 +49,22 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "51c0f44ad31b8a43",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "38fb53ef513c988f",
+            "type": "leaf",
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {},
+              "icon": "skull",
+              "title": "Combatant"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -132,16 +148,6 @@
               "state": {},
               "icon": "git-pull-request",
               "title": "Source Control"
-            }
-          },
-          {
-            "id": "38fb53ef513c988f",
-            "type": "leaf",
-            "state": {
-              "type": "fantasy-statblocks-creature-pane",
-              "state": {},
-              "icon": "skull",
-              "title": "Combatant"
             }
           },
           {
@@ -237,7 +243,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",

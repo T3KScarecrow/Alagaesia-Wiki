@@ -63,6 +63,16 @@
               "icon": "skull",
               "title": "Combatant"
             }
+          },
+          {
+            "id": "1ad99bac467c0156",
+            "type": "leaf",
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {},
+              "icon": "skull",
+              "title": "Combatant"
+            }
           }
         ]
       }
@@ -247,7 +257,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 822.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -266,8 +276,10 @@
   },
   "active": "d3e9b2ca7c5ffc3c",
   "lastOpenFiles": [
-    "Alagaesia/Factions/Minor Factions/The Iron Vow Mercenary Company.md",
+    "Alagaesia/Myths & Legends/Books/Celestial Myths & Divine Histories/The Tale of Aelthion and Zatharion.md",
     "Alagaesia/D&D Shop Catalog, V-2.0.2-Refresh.pdf",
+    "Concepts/Ideas.md",
+    "Alagaesia/Factions/Minor Factions/The Iron Vow Mercenary Company.md",
     "Alagaesia/Cities/Dwarven/Svatlheim.md",
     "Alagaesia/Factions/The Stoners/The Dwarves.md",
     "Alagaesia/Factions/The Stoners/The Stoners.md",
@@ -279,7 +291,6 @@
     "Alagaesia/AAABBBBCCCC.md",
     "Alagaesia/Myths & Legends/Gods/Vitalas.md",
     "Concepts/Magic Items.md",
-    "Concepts/Ideas.md",
     "Alagaesia/Important People/CLASSIFIED (SPOLIERS WITHIN)/Angela Vaelstrande.md",
     "Alagaesia/Factions/Minor Factions/Guilds/Magus Guild.md",
     "Alagaesia/Factions/Minor Factions/Guilds/Artisans Guild.md",
@@ -291,7 +302,6 @@
     "Alagaesia/Factions/Minor Factions/Guilds",
     "Alagaesia/Factions/Minor Factions/Untitled.md",
     "Concepts/Codes.md",
-    "Alagaesia/Myths & Legends/Books/Celestial Myths & Divine Histories/The Tale of Aelthion and Zatharion.md",
     "Alagaesia/Cities/Thalassaran/Windmere.md",
     "Alagaesia/BetterMap(2).jpg",
     "Alagaesia/BetterMap.png",

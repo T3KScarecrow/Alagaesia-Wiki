@@ -112,6 +112,7 @@
       {
         "id": "fae5c4bd789f9279",
         "type": "tabs",
+        "dimension": 23.14814814814815,
         "children": [
           {
             "id": "f58cc1e222b21475",
@@ -160,8 +161,7 @@
                   "displayDayNumber": false,
                   "displayMoons": true
                 },
-                "id": "ID_9beb59b97a89",
-                "child": "ID_fa6a5beac98b"
+                "id": "ID_9beb59b97a89"
               },
               "icon": "CALENDARIUM",
               "title": "Calendarium"
@@ -219,18 +219,35 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Alagaesia/Myths & Legends/Gods/Vitalas.md"
+                "file": "Concepts/Ideas.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Vitalas"
+              "title": "Outline of Ideas"
             }
           }
         ],
         "currentTab": 2
+      },
+      {
+        "id": "a2cb3a9db0bd3d50",
+        "type": "tabs",
+        "dimension": 76.85185185185185,
+        "children": [
+          {
+            "id": "c49be530ca3a3b13",
+            "type": "leaf",
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {},
+              "icon": "skull",
+              "title": "Combatant"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 789.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -247,7 +264,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "f761b79779826f4e",
+  "active": "c49be530ca3a3b13",
   "lastOpenFiles": [
     "Alagaesia/Important People/PC Renown/Michael.md",
     "Concepts/Ideas.md",

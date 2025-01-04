@@ -49,33 +49,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "51c0f44ad31b8a43",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "38fb53ef513c988f",
-            "type": "leaf",
-            "state": {
-              "type": "fantasy-statblocks-creature-pane",
-              "state": {},
-              "icon": "skull",
-              "title": "Combatant"
-            }
-          },
-          {
-            "id": "1ad99bac467c0156",
-            "type": "leaf",
-            "state": {
-              "type": "fantasy-statblocks-creature-pane",
-              "state": {},
-              "icon": "skull",
-              "title": "Combatant"
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -275,7 +248,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "6eaa1b7e57bf5595",
+  "active": "d3e9b2ca7c5ffc3c",
   "lastOpenFiles": [
     "Alagaesia/Myths & Legends/Books/Celestial Myths & Divine Histories/The Tale of Aelthion and Zatharion.md",
     "Alagaesia/D&D Shop Catalog, V-2.0.2-Refresh.pdf",

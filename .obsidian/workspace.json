@@ -39,12 +39,14 @@
             "id": "3bbf2f072f24c45c",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Alagaesia/D&D Shop Catalog, V-2.0.2-Refresh.pdf"
+                "file": "Alagaesia/Readme.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "D&D Shop Catalog, V-2.0.2-Refresh"
+              "icon": "lucide-file",
+              "title": "Readme"
             }
           }
         ],
@@ -267,12 +269,12 @@
   },
   "active": "3bbf2f072f24c45c",
   "lastOpenFiles": [
+    "Alagaesia/D&D Shop Catalog, V-2.0.2-Refresh.pdf",
     "Alagaesia/Myths & Legends/Books/Myths of Might and Mystery/The Wyrms of a Forgotten Age.md",
     "Concepts/Ideas.md",
     "Alagaesia/Important People/PC Renown/Michael.md",
     "Alagaesia/Myths & Legends/Books/Celestial Myths & Divine Histories/The Tale of Aelthion and Zatharion.md",
     "Alagaesia/Important People/CLASSIFIED (SPOLIERS WITHIN)/Professor Percival Thaliarchus.md",
-    "Alagaesia/D&D Shop Catalog, V-2.0.2-Refresh.pdf",
     "Alagaesia/Factions/Minor Factions/The Iron Vow Mercenary Company.md",
     "Alagaesia/Cities/Dwarven/Svatlheim.md",
     "Alagaesia/Factions/The Stoners/The Dwarves.md",
@@ -294,7 +296,6 @@
     "Alagaesia/Factions/Minor Factions/Guilds/Archaeologers Guild.md",
     "Alagaesia/Cities/Caeloran/Caelora.md",
     "Alagaesia/Factions/Minor Factions/Guilds",
-    "Alagaesia/Factions/Minor Factions/Untitled.md",
     "Alagaesia/BetterMap(2).jpg",
     "Alagaesia/BetterMap.png",
     "Alagaesia/Myths & Legends/Poems",

@@ -39,12 +39,14 @@
             "id": "3bbf2f072f24c45c",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Alagaesia/FixedMap1.jpg"
+                "file": "Concepts/Falshire.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "FixedMap1"
+              "icon": "lucide-file",
+              "title": "Falshire"
             }
           }
         ],
@@ -267,6 +269,12 @@
   },
   "active": "3bbf2f072f24c45c",
   "lastOpenFiles": [
+    "Concepts/Ideas.md",
+    "Concepts/Falshire.md",
+    "Concepts/Codes.md",
+    "Alagaesia/Important People/PC Renown/Gabriel.md",
+    "Alagaesia/Important People/Gabriel.md",
+    "Alagaesia/FixedMap1.jpg",
     "Alagaesia/Worldmap1.png",
     "Alagaesia/Cities/Caeloran/Falshire.md",
     "Alagaesia/Cities/Caeloran/Aldemire.md",
@@ -279,7 +287,6 @@
     "Alagaesia/Factions/Intelligent Races.md",
     "Alagaesia/Important People/CLASSIFIED (SPOLIERS WITHIN)/Professor Percival Thaliarchus.md",
     "Alagaesia/Myths & Legends/Gods/Sylaereth - Goddess of Nature & Forests.md",
-    "Concepts/Ideas.md",
     "Alagaesia/Readme.md",
     "Alagaesia/D&D Shop Catalog, V-2.0.2-Refresh.pdf",
     "Alagaesia/Myths & Legends/Books/Myths of Might and Mystery/The Wyrms of a Forgotten Age.md",
@@ -293,9 +300,6 @@
     "Alagaesia/Cities/Caeloran/Ironhenge.md",
     "Alagaesia/Cities/Unaffiliated/Shortstaig.md",
     "Alagaesia/Factions/Minor Factions/The Blood Cult of Skaro.md",
-    "Alagaesia/Cities/Cogmind/Hargraven.md",
-    "Alagaesia/AAABBBBCCCC.md",
-    "Alagaesia/Myths & Legends/Gods/Vitalas.md",
     "Alagaesia/Factions/Minor Factions/Guilds",
     "Alagaesia/Myths & Legends/Poems",
     "Alagaesia/Myths & Legends/Books/Cryptids of the Forgotten Wilds",
@@ -305,7 +309,6 @@
     "Alagaesia/Myths & Legends/Books/Celestial Myths & Divine Histories",
     "Alagaesia/Myths & Legends/Books/Myths of Might and Mystery",
     "Alagaesia/Myths & Legends/Books",
-    "Alagaesia/FixedMap1.jpg",
     "Alagaesia/133547411240553320.jpg"
   ]
 }

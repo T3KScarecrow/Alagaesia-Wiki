@@ -1,7 +1,7 @@
 ### Renown:
 
 ##### General (Vulgomage)
-0
+2
 
 ##### General (Forestfolk)
 1
@@ -33,4 +33,4 @@
 ### Piety:
 
 ##### Vitalas
-3
+6

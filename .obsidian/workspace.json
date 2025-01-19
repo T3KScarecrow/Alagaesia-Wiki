@@ -39,14 +39,12 @@
             "id": "3bbf2f072f24c45c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Alagaesia/Factions/Intelligent Races.md",
-                "mode": "source",
-                "source": false
+                "file": "Alagaesia/BetterMap(2).jpg"
               },
-              "icon": "lucide-file",
-              "title": "Intelligent Races"
+              "icon": "lucide-image",
+              "title": "BetterMap(2)"
             }
           }
         ],
@@ -267,8 +265,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "540d2d6182243844",
+  "active": "3bbf2f072f24c45c",
   "lastOpenFiles": [
+    "Alagaesia/BetterMap.png",
+    "Alagaesia/Important People/Lasscial.md",
+    "Alagaesia/Factions/Intelligent Races.md",
     "Alagaesia/Important People/CLASSIFIED (SPOLIERS WITHIN)/Professor Percival Thaliarchus.md",
     "Alagaesia/Myths & Legends/Gods/Sylaereth - Goddess of Nature & Forests.md",
     "Concepts/Ideas.md",
@@ -293,12 +294,8 @@
     "Alagaesia/Factions/Minor Factions/Guilds/Magus Guild.md",
     "Alagaesia/Factions/Minor Factions/Guilds/Artisans Guild.md",
     "Alagaesia/Factions/Minor Factions/Guilds/Adventurers Guild.md",
-    "Alagaesia/Factions/Minor Factions/Guilds/Tinkerers Guild.md",
-    "Alagaesia/Factions/Minor Factions/Guilds/Thieves Guild.md",
-    "Alagaesia/Factions/Minor Factions/Guilds/Archaeologers Guild.md",
     "Alagaesia/Factions/Minor Factions/Guilds",
     "Alagaesia/BetterMap(2).jpg",
-    "Alagaesia/BetterMap.png",
     "Alagaesia/Myths & Legends/Poems",
     "Alagaesia/Myths & Legends/Books/Cryptids of the Forgotten Wilds",
     "Alagaesia/Myths & Legends/Books/Draconic Myths and Shadowed Legends",

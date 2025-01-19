@@ -39,14 +39,12 @@
             "id": "3bbf2f072f24c45c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Alagaesia/Important People/CLASSIFIED (SPOLIERS WITHIN)/Angela Vaelstrande.md",
-                "mode": "source",
-                "source": false
+                "file": "Alagaesia/FixedMap1.jpg"
               },
-              "icon": "lucide-file",
-              "title": "Angela Vaelstrande"
+              "icon": "lucide-image",
+              "title": "FixedMap1"
             }
           }
         ],
@@ -269,8 +267,11 @@
   },
   "active": "3bbf2f072f24c45c",
   "lastOpenFiles": [
-    "Concepts/Prophecies.md",
+    "Alagaesia/Worldmap1.png",
+    "Alagaesia/Cities/Caeloran/Falshire.md",
+    "Alagaesia/Cities/Caeloran/Aldemire.md",
     "Alagaesia/Important People/CLASSIFIED (SPOLIERS WITHIN)/Angela Vaelstrande.md",
+    "Concepts/Prophecies.md",
     "Alagaesia/Cities/Caeloran/Caelora.md",
     "Alagaesia/BetterMap(2).jpg",
     "Alagaesia/BetterMap.png",
@@ -295,9 +296,6 @@
     "Alagaesia/Cities/Cogmind/Hargraven.md",
     "Alagaesia/AAABBBBCCCC.md",
     "Alagaesia/Myths & Legends/Gods/Vitalas.md",
-    "Concepts/Magic Items.md",
-    "Alagaesia/Factions/Minor Factions/Guilds/Magus Guild.md",
-    "Alagaesia/Factions/Minor Factions/Guilds/Artisans Guild.md",
     "Alagaesia/Factions/Minor Factions/Guilds",
     "Alagaesia/Myths & Legends/Poems",
     "Alagaesia/Myths & Legends/Books/Cryptids of the Forgotten Wilds",
@@ -308,7 +306,6 @@
     "Alagaesia/Myths & Legends/Books/Myths of Might and Mystery",
     "Alagaesia/Myths & Legends/Books",
     "Alagaesia/FixedMap1.jpg",
-    "Alagaesia/133547411240553320.jpg",
-    "Alagaesia/Worldmap1.png"
+    "Alagaesia/133547411240553320.jpg"
   ]
 }

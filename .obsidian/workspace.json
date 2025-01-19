@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Alagaesia/Readme.md",
+                "file": "Concepts/Ideas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Readme"
+              "title": "Ideas"
             }
           }
         ],
@@ -269,6 +269,7 @@
   },
   "active": "3bbf2f072f24c45c",
   "lastOpenFiles": [
+    "Alagaesia/Readme.md",
     "Alagaesia/D&D Shop Catalog, V-2.0.2-Refresh.pdf",
     "Alagaesia/Myths & Legends/Books/Myths of Might and Mystery/The Wyrms of a Forgotten Age.md",
     "Concepts/Ideas.md",

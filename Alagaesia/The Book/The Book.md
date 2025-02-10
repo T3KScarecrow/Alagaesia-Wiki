@@ -21,4 +21,6 @@ Gabriel looked at the Automaton. When it did not acknowledge him, he asked "Does
 "Yes, I in fact do, heretic." Its voice was low in pitch but not in volume, and it spat out the last word.
 "My apologies. I meant no offence..." Gabriel waited for a name which did not come.
 "Aaron. It said its name was Aaron. When Michael arrived, Mr Metal stopped talking." Natalie explained.
-"Yeah"
+"Yeah. I never knew a hunk of metal to have such an attitude." Michael laughed heartily.
+"You bite your tongue, Moonprayer, or I'll smash your head against the cobblestone!" Aaron spoke with much venom. After a few minutes in an awkward silence, the tension too high to speak, a small yet proper voice announced behind them. 
+"Good day, adventurers! I - um, I am Lyric Alderwyn. I shall be your liaison to the MOAH and guide." Upon tracing the voice back to its origin, the group were presented with a small, very well dressed, scholarly Elf man. He seemed to be young for an Elf. Everything about his appearance screamed he was no adventurer; his neatly combed chestnut hair, his circular copper-rimmed glasses, his lithe form, and his 

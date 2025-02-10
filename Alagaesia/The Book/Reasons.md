@@ -1,0 +1,1 @@
+The Adventurers' Guild did not help Percy as an anonymous patron put up an incredibly high reward to kill some bandits, and they were all trying to take it, or were drugged/drunk.

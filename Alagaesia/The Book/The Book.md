@@ -51,4 +51,6 @@ Natalie leaned back in her seat, slouching slightly, crossing her arms. She seem
 Aaron returned to the booth, this time with a large bottle of expensive wine. It not so much popped the cork off as pulled it off with its metal hand, and took a large swig.
 "Much better."
 "You can drink?" Gabriel asked.
-"Yes. I don't need to though, if that was your next question. I drink when I want, and I want often. It makes my....me tingle." Aaron explained, a hint a snideness to his words. Hidden from the brightness of the direct midday sun, Gabriel could now see lines of blue magical energy flow between the "plates" of Aaron's armour-skin, serving to split the sections up. The energy seemed to eb and flow, and after much focus, Gabriel could make out a pseudo heartbeat in the brightness of the magic.
+"Yes. I don't need to though, if that was your next question. I drink when I want, and I want often. It makes my....me tingle." Aaron explained, a hint a snideness to his words. Hidden from the brightness of the direct midday sun, Gabriel could now see lines of blue magical energy flow between the "plates" of Aaron's armour-skin, serving to split the sections up. The energy seemed to eb and flow, and after much focus, Gabriel could make out a pseudo heartbeat in the brightness of the magic. The magic sparkled slightly whenever Aaron took a swig.
+"You're not like any Automaton I've ever seen." Gabriel mused.
+"You're like every Elf I've seen." Gabriel brushed off the snide remark. Insults were not Vitalas' way.

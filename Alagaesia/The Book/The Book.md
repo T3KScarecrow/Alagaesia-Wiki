@@ -37,10 +37,18 @@ Natalie, Wiate, and Gabriel all sat in thinking silence, processing this informa
 "Fantastic! I love me a good treasure and the chance to protect travellers." Laughed Michael before anyone else could answer his apparent rhetoric. Gabriel caught the religious allusion Michael had made, it being a reference to the oath worshippers of the Moon God of Justice, Nahzu swear. Gabriel did not know much of the other religions of the world, focussing his studies mainly on his, his being the Goddess of Healing and Compassion, Vitalas. Despite this, when he had first arrived in Caelora City, he had made it a goal to learn more on as many topics as were discussed in the church's library. Thanks to his slightly closed-off upbringing, Gabriel was surprised to find there were as many Gods as he did.
 "What specifically would we be doing? Investigating?" Natalie asked, leaning forward to get more of an answer out of the timid Lyric.
 "Um - Well, all across the lands, there are rumours, whispers, tales told to children to stop them from playing in the woods, and so on. Some of these are well-founded. Especially in the unaligned Wilds, there are ruins, monuments, dungeons, underground temples, many of which from the time of the Forebearers. These such sites, the MOAH seeks to map and catalogue, but we can't do that if we don't know where they are, if the rumours are true. You will be going to the approximated areas where such rumoured locations lie, and then explore anything you find there, bringing with you any artefacts and information when you report back."
+
 Natalie leaned back in her seat, slouching slightly, crossing her arms. She seemed to mull it over. Finally, Wiate spoke.
 "The Wilds, you say? Will we go anyplace near Ironhenge?"
 "I can't say for certain, but it's possible." The Automaton got up from its seat.
 "I need a drink." Lyric began to respond, but Aaron walked away to the bar, not listening.
 "The MOAH has paid for a few beverages and meals before your first mission." Wiate eyed Aaron as it walked away, seemingly fascinated by the design and artistry of the marvellous machinations powering it.
 "And what is our first mission?" Gabriel queried.
-"Yes, quite right. Okay. Some sources tell of a stone spiral staircase in the middle of nowhere. Of those who venture down the steps, many leave as corpses whose cause of death seem to be bolts of lightning. The majority who leave alive describe a dark room with a large stone"
+"Yes, quite right. Okay. Some sources tell of a stone spiral staircase in the middle of nowhere. Of those who venture down the steps, many leave as corpses whose cause of death seem to be bolts of lightning. The majority who leave alive describe a dark room with a large stone door. Nothing seems to be able to open the door, no key, no amount of force. There are also murals of some kind on the walls. I hypothesise it to be some kind of Forebearer dungeon, and the source of the lightning a magical trap."
+"You hypothesise?" Natalie questions, raising an eyebrow.
+"Well, yes. Yous are the ones who are being sent to find out."
+
+Aaron returned to the booth, this time with a large bottle of expensive wine. It not so much popped the cork off as pulled it off with its metal hand, and took a large swig.
+"Much better."
+"You can drink?" Gabriel asked.
+"Yes. I don't need to though, if that was your next question. I drink when I want, and I want often. It makes my....me tingle." Aaron explained, a hint a snideness to his words. Hidden from the brightness of the direct midday sun, Gabriel could now see lines of blue magical energy flow between the "plates" of Aaron's armour-skin, serving to split the sections up. The energy seemed to eb and flow, and after much focus, Gabriel could make out a pseudo heartbeat in the brightness of the magic.

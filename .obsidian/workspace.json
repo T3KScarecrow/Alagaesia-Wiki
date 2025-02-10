@@ -13,6 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Alagaesia/Cities/Caeloran/Caelora.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Caelora"
+            }
+          },
+          {
+            "id": "fe4bb15472810ab1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Alagaesia/The Book.md",
                 "mode": "source",
                 "source": false
@@ -21,7 +35,8 @@
               "title": "The Book"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -52,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "the book",
+                "query": "moah",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -238,10 +253,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "333464d61203671c",
+  "active": "fe4bb15472810ab1",
   "lastOpenFiles": [
-    "Alagaesia/Important People/Lasscial.md",
+    "Alagaesia/Cities/Caeloran/Caelora.md",
     "Alagaesia/The Book.md",
+    "Alagaesia/Important People/Lasscial.md",
     "Alagaesia/AAA Session Summaries/Lyric's Notes/Entry 9 - The Museum, Lasscial, & a Familiar Face.md",
     "Alagaesia/Myths & Legends/Books/Celestial Myths & Divine Histories/The Tale of Aelthion and Zatharion.md",
     "Alagaesia/Myths & Legends/Gods/Aelthion - God of Curiosity & Learning.md",
@@ -267,7 +283,6 @@
     "Alagaesia/Worldmap1.png",
     "Alagaesia/Cities/Caeloran/Falshire.md",
     "Alagaesia/Important People/CLASSIFIED (SPOLIERS WITHIN)/Angela Vaelstrande.md",
-    "Concepts/Prophecies.md",
     "Alagaesia/BetterMap(2).jpg",
     "Alagaesia/BetterMap.png",
     "Alagaesia/D&D Shop Catalog, V-2.0.2-Refresh.pdf",

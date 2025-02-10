@@ -20,7 +20,7 @@ The group tilted their heads slightly at his accent. The woman was the one to an
 "A pleasure." replied Gabriel after he extricated his hand from the too-long greeting.
 "Hello. I am Wiate." The more scholarly man proffered. Another handshake ensued.
 Gabriel looked at the Automaton. When it did not acknowledge him, he asked "Does it have a name?"
-"Yes, I in fact do, heretic." Its voice was low in pitch but not in volume, and it spat out the last word.
+"Yes, I in fact do, heretic." Its voice was barely artificial sounding and low in pitch but not in volume, the last word spat out.
 "My apologies. I meant no offence..." Gabriel waited for a name which did not come.
 "Aaron. It said its name was Aaron. When Michael arrived, Mr Metal stopped talking." Natalie explained.
 "Yeah. I never knew a hunk of metal to have such an attitude." Michael laughed heartily.
@@ -39,4 +39,8 @@ Natalie, Wiate, and Gabriel all sat in thinking silence, processing this informa
 "Um - Well, all across the lands, there are rumours, whispers, tales told to children to stop them from playing in the woods, and so on. Some of these are well-founded. Especially in the unaligned Wilds, there are ruins, monuments, dungeons, underground temples, many of which from the time of the Forebearers. These such sites, the MOAH seeks to map and catalogue, but we can't do that if we don't know where they are, if the rumours are true. You will be going to the approximated areas where such rumoured locations lie, and then explore anything you find there, bringing with you any artefacts and information when you report back."
 Natalie leaned back in her seat, slouching slightly, crossing her arms. She seemed to mull it over. Finally, Wiate spoke.
 "The Wilds, you say? Will we go anyplace near Ironhenge?"
-"I can't say for certain, but it's possible."
+"I can't say for certain, but it's possible." The Automaton got up from its seat.
+"I need a drink." Lyric began to respond, but Aaron walked away to the bar, not listening.
+"The MOAH has paid for a few beverages and meals before your first mission." Wiate eyed Aaron as it walked away, seemingly fascinated by the design and artistry of the marvellous machinations powering it.
+"And what is our first mission?" Gabriel queried.
+"Yes, quite right. Okay. Some sources tell of a stone spiral staircase in the middle of nowhere. Of those who venture down the steps, many leave as corpses whose cause of death seem to be bolts of lightning. The majority who leave alive describe a dark room with a large stone"

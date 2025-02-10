@@ -13,7 +13,8 @@ Gabriel pocketed the small letter and looked around the street. He had only been
 *Nahzu*. Gabriel made a mental note. And finally, a similarly tall Human man, although a stark contrast to the prior with his wiry and academic demeanour. 
 
 "Greetings. I assume you all are here for the MOAH job?" queried Gabriel.
-The woman was the one to answer. "Yes. I am Natalie Porter"
+The group tilted their heads slightly at his accent. The woman was the one to answer.
+"Yes. I am Natalie Porter"
 "Gabriel." The two shook hands.
 "Ah, another holy man, I see!" The muscular man took Gabriel's hand into a firm shake. "Michael's the name."
 "A pleasure." replied Gabriel after he extricated his hand from the too-long greeting.
@@ -33,4 +34,6 @@ Under his breath and quite enough for no one to hear, Lyric sibilated,
 "Five? I could have sworn to the Gods there was supposed to be six." Lyric quietly recounted.
 Natalie, Wiate, and Gabriel all sat in thinking silence, processing this information.
 "So we are hired swords to be sent out into the forest and across the lands in search of ancient loot?" Michael demanded, almost angrily.
-"Fantastic! I love me a good treasure and the chance to protect travellers." Laughed Michael before anyone else could answer his apparent rhetoric. Gabriel caught the religious allusion Michael had made, it being a reference to the oath worshippers of the Moon God of Justice, Nahzu swear.
+"Fantastic! I love me a good treasure and the chance to protect travellers." Laughed Michael before anyone else could answer his apparent rhetoric. Gabriel caught the religious allusion Michael had made, it being a reference to the oath worshippers of the Moon God of Justice, Nahzu swear. Gabriel did not know much of the other religions of the world, focussing his studies mainly on his, his being the Goddess of Healing and Compassion, Vitalas. Despite this, when he had first arrived in Caelora City, he had made it a goal to learn more on as many topics as were discussed in the church's library. Thanks to his slightly closed-off upbringing, Gabriel was surprised to find there were as many Gods as he did.
+"What specifically would we be doing? Investigating?" Natalie asked, leaning forward to get more of an answer out of the timid Lyric.
+"Um - Well, all across the lands, there are rumours, whispers, tales told to children to stop them from playing in the woods, etc. Some of these are well-founded. Especially in the unaligned Wilds, there are ruins, monuments, dungeons, underground temples, many of which from the time of the Forebearers. These such sights, the MOAH seeks to map and catalogue, but we can't do that if we don't know where they are, if they"

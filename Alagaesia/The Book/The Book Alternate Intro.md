@@ -1,0 +1,1 @@
+A man, not quite Elven nor wholly Human, wearing **ROBES** and a **PENDANT** sat on a pew in a large and grand church. It was quite 

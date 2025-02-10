@@ -1,4 +1,4 @@
-A man, not quite Elven nor wholly Human, wearing **ROBES** and a **PENDANT** stood in the street checking a note. 
+A man, not quite Elven nor wholly Human, wearing **ROBES** and a **PENDANT** stood in the street checking a piece of parchment. 
 
 *Gabriel **SOMETHING** of **SOMETHING CHURCHY**                  13th Marcion 1342
 I hope this letter finds you well.
@@ -14,7 +14,7 @@ Gabriel pocketed the small letter and looked around the street. He had only been
 "Greetings. I assume you all are here for the MOAH job?" queried Gabriel.
 The woman was the one to answer. "Yes. I am Natalie Porter"
 "Gabriel." The two shook hands.
-"Ah, another holy man, I see!" The muscular man took Gabriel's hand into a firm shake, "Michael's the name."
+"Ah, another holy man, I see!" The muscular man took Gabriel's hand into a firm shake. "Michael's the name."
 "A pleasure." replied Gabriel after he extricated his hand from the too-long greeting.
 "Hello. I am Wiate." The more scholarly man proffered. Another handshake ensued.
 Gabriel looked at the Automaton. When it did not acknowledge him, he asked "Does it have a name?"
@@ -23,4 +23,6 @@ Gabriel looked at the Automaton. When it did not acknowledge him, he asked "Does
 "Aaron. It said its name was Aaron. When Michael arrived, Mr Metal stopped talking." Natalie explained.
 "Yeah. I never knew a hunk of metal to have such an attitude." Michael laughed heartily.
 "You bite your tongue, Moonprayer, or I'll smash your head against the cobblestone!" Aaron spoke with much venom. After a few minutes in an awkward silence, the tension too high to speak, a small yet proper voice announced behind them. 
-"Good day, adventurers! I - um, I am Lyric Alderwyn. I shall be your liaison to the MOAH and guide." Upon tracing the voice back to its origin, the group were presented with a small, very well dressed, scholarly Elf man. He seemed to be young for an Elf. Everything about his appearance screamed he was no adventurer; his neatly combed chestnut hair, his circular copper-rimmed glasses, his lithe form, and his 
+"Good day, adventurers! I - um, I am Lyric Alderwyn. I shall be your liaison to the MOAH and guide." Upon tracing the voice back to its origin, the group were presented with a small, very well dressed, scholarly Elf. He seemed to be young for an Elf. Everything about his appearance screamed he was no adventurer; his neatly combed chestnut hair, his circular copper-rimmed glasses, his lithe form, and his high-collared, cream-coloured tunic, and tailored vest. *At least I'll have someone to talk to*, Gabriel thought to himself.
+
+Lyric guided the group to the Silver Quill Tavern, where inside he explained the party's role and first mission. The party took in the Tavern as Lyric spoke. The main word that came to mind was "cheap". The Silver Quill

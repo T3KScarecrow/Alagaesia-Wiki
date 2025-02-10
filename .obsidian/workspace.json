@@ -35,7 +35,8 @@
               "title": "The Book"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,8 +88,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -253,10 +253,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "3bbf2f072f24c45c",
+  "active": "333464d61203671c",
   "lastOpenFiles": [
-    "Alagaesia/The Book/The Book.md",
     "Concepts/Ideas.md",
+    "Alagaesia/The Book/The Book.md",
     "Alagaesia/Cities/Caeloran/Caelora.md",
     "Alagaesia/The Book/Reasons.md",
     "Alagaesia/The Book/The Gods.md",

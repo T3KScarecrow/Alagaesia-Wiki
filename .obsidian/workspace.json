@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Alagaesia/The Book.md",
+                "file": "Alagaesia/The Book/The Book.md",
                 "mode": "source",
                 "source": false
               },
@@ -255,8 +255,10 @@
   },
   "active": "fe4bb15472810ab1",
   "lastOpenFiles": [
+    "Alagaesia/The Book/The Gods.md",
+    "Alagaesia/The Book/The Book.md",
+    "Alagaesia/The Book",
     "Alagaesia/Cities/Caeloran/Caelora.md",
-    "Alagaesia/The Book.md",
     "Alagaesia/Important People/Lasscial.md",
     "Alagaesia/AAA Session Summaries/Lyric's Notes/Entry 9 - The Museum, Lasscial, & a Familiar Face.md",
     "Alagaesia/Myths & Legends/Books/Celestial Myths & Divine Histories/The Tale of Aelthion and Zatharion.md",
@@ -282,7 +284,6 @@
     "Alagaesia/FixedMap1.jpg",
     "Alagaesia/Worldmap1.png",
     "Alagaesia/Cities/Caeloran/Falshire.md",
-    "Alagaesia/Important People/CLASSIFIED (SPOLIERS WITHIN)/Angela Vaelstrande.md",
     "Alagaesia/BetterMap(2).jpg",
     "Alagaesia/BetterMap.png",
     "Alagaesia/D&D Shop Catalog, V-2.0.2-Refresh.pdf",
@@ -294,7 +295,6 @@
     "Alagaesia/Myths & Legends/Books/Myths of the Wilds, Beasts Beyond Belief",
     "Alagaesia/Myths & Legends/Books/Celestial Myths & Divine Histories",
     "Alagaesia/Myths & Legends/Books/Myths of Might and Mystery",
-    "Alagaesia/Myths & Legends/Books",
     "Alagaesia/133547411240553320.jpg"
   ]
 }

@@ -11,14 +11,12 @@
             "id": "3bbf2f072f24c45c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Alagaesia/Cities/Caeloran/Caelora.md",
-                "mode": "source",
-                "source": false
+                "file": "Alagaesia/D&D Shop Catalog, V-2.0.2-Refresh.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Caelora"
+              "icon": "lucide-file-text",
+              "title": "D&D Shop Catalog, V-2.0.2-Refresh"
             }
           },
           {
@@ -261,11 +259,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "333464d61203671c",
+  "active": "fe4bb15472810ab1",
   "lastOpenFiles": [
-    "Alagaesia/Cities/Caeloran/Caelora.md",
-    "Alagaesia/The Book/The Book.md",
     "Alagaesia/D&D Shop Catalog, V-2.0.2-Refresh.pdf",
+    "Alagaesia/The Book/The Book.md",
+    "Alagaesia/Cities/Caeloran/Caelora.md",
     "Alagaesia/The Book/Reasons.md",
     "Alagaesia/Myths & Legends/Gods/Khonshu.md",
     "Alagaesia/Dungeon Master's Guide.pdf",

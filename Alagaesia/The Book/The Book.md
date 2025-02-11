@@ -72,4 +72,4 @@ Gabriel squinted to make out the various meals displayed on the large blackboard
 "Ah, right. ' should've guessed, what with you unique bunch. Not hardly my usual patrons."
 "Aye, we're treasure hunters!" Michael blurted out, raising a large tankard of frothy mead.
 "Explorers. Rumour followers." Natalie clarified defensively.
-"Ohhho, interesting. I'd love for you to bring back some tales of adventure. I'll go put those orders in with the kitchen." With that, the man disappeared into a door behind the bar, and Natalie 
+"Ohhho, interesting. I'd love for you to bring back some tales of adventure. I'll go put those orders in with the kitchen." With that, the man disappeared into a door behind the bar, and Natalie saw a glimpse of a kitchen 

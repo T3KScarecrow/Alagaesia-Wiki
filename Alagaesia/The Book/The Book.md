@@ -52,6 +52,12 @@ Aaron returned to the booth, this time with a large bottle of expensive wine. It
 "Much better."
 "You can drink?" Gabriel asked.
 "Yes. I don't need to though, if that was your next question. I drink when I want, and I want often. It makes my....me tingle." Aaron explained, a hint a snideness to his words. Previously hidden from the brightness of the direct midday sun, Gabriel could now see lines of blue magical energy flow between the "plates" of Aaron's armour-skin, serving to split the sections up. The energy seemed to eb and flow, and after much focus, Gabriel could make out a pseudo heartbeat in the brightness of the magic. The magic sparkled slightly whenever Aaron took a swig.
-"Ha! ' makes me tingle too!" Michael clapped a large hand on Aaron's back, and 
+"Ha! ' makes me tingle too!" Michael clapped a large hand on Aaron's back, and tried to take a swig of his own, though the bottle was pulled out of his reach.
 "You're not like any Automaton I've ever seen." Gabriel mused.
 "You're like every Elf I've seen." Gabriel brushed off the snide remark. Insults were not Vitalas' way.
+
+The conversation lead into evening, and the party grew hungry. Aaron was the first to act on this sensation, abruptly standing and heading to the bar. Michael followed, eager for a nice warm roast and a mead to wash it down. He would definitely make sure to fill up before they set off.
+"Would you like anything?" Natalie asked those who remained seated.
+Gabriel squinted to make out the various meals displayed on the large blackboard above the bar. "I'll take a a roast pork and salad, with a murky tea. Thanks."
+"Got it."
+"Um, - I'll take a chicken sandwich"

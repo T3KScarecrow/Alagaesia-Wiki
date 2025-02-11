@@ -11,14 +11,12 @@
             "id": "3bbf2f072f24c45c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Alagaesia/Cities/Caeloran/Caelora.md",
-                "mode": "source",
-                "source": false
+                "file": "Alagaesia/D&D Shop Catalog, V-2.0.2-Refresh.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Caelora"
+              "icon": "lucide-file-text",
+              "title": "D&D Shop Catalog, V-2.0.2-Refresh"
             }
           },
           {
@@ -101,7 +99,6 @@
       {
         "id": "fae5c4bd789f9279",
         "type": "tabs",
-        "dimension": 71.95828505214368,
         "children": [
           {
             "id": "f58cc1e222b21475",
@@ -141,6 +138,11 @@
               "state": {
                 "calendar": "ID_1a89c9f90a59",
                 "ephemeral": {
+                  "viewing": {
+                    "day": 18,
+                    "month": 2,
+                    "year": 1342
+                  },
                   "viewState": 1,
                   "displaying": {
                     "day": 29,
@@ -150,7 +152,8 @@
                   "displayDayNumber": false,
                   "displayMoons": true
                 },
-                "id": "ID_9beb59b97a89"
+                "id": "ID_9beb59b97a89",
+                "child": "ID_6899aa0a0889"
               },
               "icon": "CALENDARIUM",
               "title": "Calendarium"
@@ -218,18 +221,21 @@
         "currentTab": 3
       },
       {
-        "id": "a2cb3a9db0bd3d50",
+        "id": "8516455b47638360",
         "type": "tabs",
-        "dimension": 28.041714947856313,
         "children": [
           {
-            "id": "c49be530ca3a3b13",
+            "id": "2d63b1010b7882b4",
             "type": "leaf",
             "state": {
-              "type": "fantasy-statblocks-creature-pane",
-              "state": {},
-              "icon": "skull",
-              "title": "Combatant"
+              "type": "CALENDARIUM_AGENDA",
+              "state": {
+                "calendar": "ID_1a89c9f90a59",
+                "id": "ID_6899aa0a0889",
+                "parent": "ID_9beb59b97a89"
+              },
+              "icon": "CALENDARIUM_AGENDA",
+              "title": "Agenda"
             }
           }
         ]
@@ -255,9 +261,10 @@
   },
   "active": "fe4bb15472810ab1",
   "lastOpenFiles": [
-    "Alagaesia/The Book/The Book Alternate Intro.md",
-    "Alagaesia/The Book/The Book.md",
+    "Alagaesia/D&D Shop Catalog, V-2.0.2-Refresh.pdf",
     "Alagaesia/Cities/Caeloran/Caelora.md",
+    "Alagaesia/The Book/The Book.md",
+    "Alagaesia/The Book/The Book Alternate Intro.md",
     "Concepts/Ideas.md",
     "Alagaesia/The Book/Reasons.md",
     "Alagaesia/The Book/The Gods.md",
@@ -281,12 +288,10 @@
     "Alagaesia/Travel System.md",
     "Concepts/Falshire.md",
     "Concepts/Codes.md",
-    "Alagaesia/Important People/PC Renown/Gabriel.md",
     "Alagaesia/FixedMap1.jpg",
     "Alagaesia/Worldmap1.png",
     "Alagaesia/BetterMap(2).jpg",
     "Alagaesia/BetterMap.png",
-    "Alagaesia/D&D Shop Catalog, V-2.0.2-Refresh.pdf",
     "Alagaesia/Factions/Minor Factions/Guilds",
     "Alagaesia/Myths & Legends/Poems",
     "Alagaesia/Myths & Legends/Books/Cryptids of the Forgotten Wilds",

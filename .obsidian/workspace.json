@@ -4,23 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "563fb850ca06a6ce",
+        "id": "7a478f2077363744",
         "type": "tabs",
+        "dimension": 82.56172839506173,
         "children": [
           {
-            "id": "3bbf2f072f24c45c",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Alagaesia/D&D Shop Catalog, V-2.0.2-Refresh.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "D&D Shop Catalog, V-2.0.2-Refresh"
-            }
-          },
-          {
-            "id": "fe4bb15472810ab1",
+            "id": "55a1bedc3f4b93b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -33,8 +22,28 @@
               "title": "The Book"
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "d5e72ef41f03a836",
+        "type": "tabs",
+        "dimension": 17.438271604938272,
+        "children": [
+          {
+            "id": "fe4bb15472810ab1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Alagaesia/The Book/Mah Notes (Optional).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mah Notes (Optional)"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +99,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "07dca3d6a45e67d1",
@@ -242,7 +252,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 431.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -259,10 +269,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "fe4bb15472810ab1",
+  "active": "55a1bedc3f4b93b4",
   "lastOpenFiles": [
-    "Alagaesia/D&D Shop Catalog, V-2.0.2-Refresh.pdf",
+    "Alagaesia/The Book/Mah Notes (Optional).md",
     "Alagaesia/The Book/The Book.md",
+    "Alagaesia/D&D Shop Catalog, V-2.0.2-Refresh.pdf",
     "Alagaesia/Cities/Caeloran/Caelora.md",
     "Alagaesia/The Book/Reasons.md",
     "Alagaesia/Myths & Legends/Gods/Khonshu.md",

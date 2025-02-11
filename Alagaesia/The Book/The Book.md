@@ -73,4 +73,8 @@ Gabriel squinted to make out the various meals displayed on the large blackboard
 "Aye, we're treasure hunters!" Michael blurted out, raising a large tankard of frothy mead.
 "Explorers. Rumour followers." Natalie clarified defensively.
 "Ohhho, interesting. I'd love for you to bring back some tales of adventure. I'll go put those orders in with the kitchen." With that, the man disappeared into a door behind the bar, and Natalie saw a glimpse of a kitchen much better kept than anything outside it. 
-"What's a "Stormbringer"?" Natalie ask
+"What's a "Stormbringer"?" Natalie asked the Automaton who sipped disgusted at its water.
+"A drink, you Imp. Apparently they don't serve it here." A queer sound of higher pitch than its voice sounded from deep within the Automaton.
+"Hic - Alaegor damn it! Hic" Aaron slammed a gauntlet against its chest, a loud clang sounded, like a hollow metal drum.
+"Ha! The metal man has the 'iccups! Ha!" Michael downed the rest of his tankard and fell back into the barstool next to Aaron's.
+Natalie chuckled to herself, and made her way back to the party's

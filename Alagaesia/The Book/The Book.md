@@ -1,3 +1,5 @@
+### Chapter 1: The Silver Quill
+
 A man, not quite Elven nor wholly Human, wearing **ROBES** and a **PENDANT** stood in the street checking a piece of parchment. 
 
 *Gabriel **SOMETHING** of **SOMETHING CHURCHY**                  13th Marcion 1342
@@ -60,4 +62,6 @@ The conversation lead into evening, and the party grew hungry. Aaron was the fir
 "Would you like anything?" Natalie asked those who remained seated.
 Gabriel squinted to make out the various meals displayed on the large blackboard above the bar. "I'll take a a roast pork and salad, with a murky tea. Thanks."
 "Got it."
-"Um, - I'll take a chicken sandwich"
+"Um, - I'll take a chicken sandwich, and just water, thanks." Lyric requested. It seemed that Lyric had come here with a script, a certain amount of exposition he must have practiced reciting, and once he had run out of pre-planned responses, he was noticeably more meek.
+"I'll have what Gabriel's having." Said Wiate.
+"Okay, I'm going to go make sure those two buffoons don't make trouble." Natalie sigh-growled as she walked away.

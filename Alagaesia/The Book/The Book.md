@@ -77,4 +77,4 @@ Gabriel squinted to make out the various meals displayed on the large blackboard
 "A drink, you Imp. Apparently they don't serve it here." A queer sound of higher pitch than its voice sounded from deep within the Automaton.
 "Hic - Alaegor damn it! Hic" Aaron slammed a gauntlet against its chest, a loud clang sounded, like a hollow metal drum.
 "Ha! The metal man has the 'iccups! Ha!" Michael downed the rest of his tankard and fell back into the barstool next to Aaron's.
-Natalie chuckled to herself, and made her way back to the party's
+Natalie chuckled to herself, and made her way back to the party's booth. On her way, she noticed a pair of young scholars playing a dice game of betting at one of the tables. *Jibber-Jab*.

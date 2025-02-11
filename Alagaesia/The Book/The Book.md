@@ -64,4 +64,6 @@ Gabriel squinted to make out the various meals displayed on the large blackboard
 "Got it."
 "Um, - I'll take a chicken sandwich, and just water, thanks." Lyric requested. It seemed that Lyric had come here with a script, a certain amount of exposition he must have practiced reciting, and once he had run out of pre-planned responses, he was noticeably more meek.
 "I'll have what Gabriel's having." Said Wiate.
-"Okay, I'm going to go make sure those two buffoons don't make trouble." Natalie sigh-growled as she walked away.
+"Okay, I'm going to go make sure those two buffoons don't make trouble." Natalie sigh-growled as she walked away. Natalie approached the bar to unsurprisingly already find trouble.
+"For the love of Alaegor, just give me some Stormbringer!" Aaron smashed its fist down on the old, mead-varnished bar.
+

@@ -1,6 +1,6 @@
 ### Chapter 1: The Silver Quill
 
-A man, not quite Elven nor wholly Human, wearing **ROBES** and a **PENDANT** stood in the cobblestone street checking a piece of parchment. 
+A man, not quite Elven nor wholly Human, wearing **ROBES DESCRIPTION** and a **PENDANT** stood in the cobblestone street checking a piece of parchment. 
 
 *Gabriel **SOMETHING** of **SOMETHING CHURCHY**                  13th Marcion 1342
 I hope this letter finds you well.
@@ -69,4 +69,7 @@ Gabriel squinted to make out the various meals displayed on the large blackboard
 "Whoa, a violent drunk, eh? Shh, shh, shhhh, that's ok, take a seat, drink up." The middle-aged Human bartender ushered Aaron into a stool, and slid a glass of water into its hand. Natalie regarded the man closely, ever watchful for potential threats in case conflict arose. He had a shock of curly salt-and-pepper hair and a pair of green twinkling eyes. His lean physique and scarred hands hinted to a more outdoor previous occupation. *Guard or farmer, perhaps?* Natalie mused. He also seemed to have no idea what the Automaton was talking about. Aaron sat fuming, but said no more. Natalie relayed her partymates' meal orders and her own to the 'tender.
 "Comin' roight up. That'll be, err - fifteen silver."
 "Uh - We're contractors for the MoAH. I was told they had covered some meals for us." Natalie interjected.
-"Ah, right. Should've guessed, what with you unique bunch. Not hardly my usual patrons."
+"Ah, right. ' should've guessed, what with you unique bunch. Not hardly my usual patrons."
+"Aye, we're treasure hunters!" Michael blurted out, raising a large tankard of frothy mead.
+"Explorers. Rumour followers." Natalie clarified defensively.
+"Ohhho, interesting. I'd love for you to bring back some tales of adventure."

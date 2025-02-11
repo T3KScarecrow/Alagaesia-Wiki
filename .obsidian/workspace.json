@@ -11,12 +11,14 @@
             "id": "3bbf2f072f24c45c",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Alagaesia/D&D Shop Catalog, V-2.0.2-Refresh.pdf"
+                "file": "Alagaesia/Cities/Caeloran/Caelora.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "D&D Shop Catalog, V-2.0.2-Refresh"
+              "icon": "lucide-file",
+              "title": "Caelora"
             }
           },
           {
@@ -33,8 +35,7 @@
               "title": "The Book"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,7 +87,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -259,8 +261,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "fe4bb15472810ab1",
+  "active": "3bbf2f072f24c45c",
   "lastOpenFiles": [
+    "Alagaesia/The Book/The Book.md",
+    "Alagaesia/Cities/Caeloran/Caelora.md",
+    "Alagaesia/D&D Shop Catalog, V-2.0.2-Refresh.pdf",
+    "Alagaesia/The Book/Reasons.md",
     "Alagaesia/Myths & Legends/Gods/Khonshu.md",
     "Alagaesia/Dungeon Master's Guide.pdf",
     "Alagaesia/Timeline Of Events.md",
@@ -270,10 +276,6 @@
     "Alagaesia/Myths & Legends/Gods/Zarros.md",
     "Alagaesia/BetterMap.png",
     "Alagaesia/The Book/The Gods.md",
-    "Alagaesia/The Book/The Book.md",
-    "Alagaesia/The Book/Reasons.md",
-    "Alagaesia/D&D Shop Catalog, V-2.0.2-Refresh.pdf",
-    "Alagaesia/Cities/Caeloran/Caelora.md",
     "Alagaesia/The Book/The Book Alternate Intro.md",
     "Concepts/Ideas.md",
     "Alagaesia/The Book",
@@ -290,7 +292,6 @@
     "Alagaesia/Cities/Ostholmian/Dunvarr.md",
     "Alagaesia/Cities/Ruined/Aliveth.md",
     "Alagaesia/Cities/Ruined/City Of Tears.md",
-    "Alagaesia/Cities/Caeloran/Brighthaven.md",
     "Alagaesia/FixedMap1.jpg",
     "Alagaesia/Worldmap1.png",
     "Alagaesia/BetterMap(2).jpg",

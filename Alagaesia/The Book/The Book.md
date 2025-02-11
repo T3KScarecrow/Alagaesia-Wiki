@@ -66,5 +66,5 @@ Gabriel squinted to make out the various meals displayed on the large blackboard
 "I'll have what Gabriel's having." Said Wiate.
 "Okay, I'm going to go make sure those two buffoons don't make trouble." Natalie sigh-growled as she walked away. Natalie approached the bar to unsurprisingly already find trouble.
 "For the love of Alaegor, just give me some Stormbringer!" Aaron smashed its fist down on the old, mead-varnished bar.
-"Whoa, a violent drunk, eh? Shh, shh, shhhh, that's ok, take a seat, drink up." The middle-aged
+"Whoa, a violent drunk, eh? Shh, shh, shhhh, that's ok, take a seat, drink up." The middle-aged Human bartender ushered Aaron into a stool, and slid a glass of water into its hand. Natalie regarded the man closely, ever watchful for potential threats in case conflict arose. He had a shock of curly salt-and-pepper hair and a pair of green twinkling eyes. His lean physique and scarred hands hinted to a more outdoor previous occupation. Soldier or farmer, perhaps?
 

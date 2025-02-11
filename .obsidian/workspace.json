@@ -35,7 +35,8 @@
               "title": "The Book"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -261,10 +262,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "3bbf2f072f24c45c",
+  "active": "fe4bb15472810ab1",
   "lastOpenFiles": [
-    "Alagaesia/The Book/The Book.md",
     "Alagaesia/Cities/Caeloran/Caelora.md",
+    "Alagaesia/The Book/The Book.md",
     "Alagaesia/D&D Shop Catalog, V-2.0.2-Refresh.pdf",
     "Alagaesia/The Book/Reasons.md",
     "Alagaesia/Myths & Legends/Gods/Khonshu.md",

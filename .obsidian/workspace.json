@@ -88,8 +88,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -262,7 +261,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "fe4bb15472810ab1",
+  "active": "333464d61203671c",
   "lastOpenFiles": [
     "Alagaesia/Cities/Caeloran/Caelora.md",
     "Alagaesia/The Book/The Book.md",

@@ -6,7 +6,7 @@
       {
         "id": "7a478f2077363744",
         "type": "tabs",
-        "dimension": 82.56172839506173,
+        "dimension": 82.56172839506172,
         "children": [
           {
             "id": "55a1bedc3f4b93b4",
@@ -21,8 +21,21 @@
               "icon": "lucide-file",
               "title": "The Book"
             }
+          },
+          {
+            "id": "4a223397190fdcf7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "d5e72ef41f03a836",
@@ -269,7 +282,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "55a1bedc3f4b93b4",
+  "active": "4a223397190fdcf7",
   "lastOpenFiles": [
     "Alagaesia/The Book/Mah Notes (Optional).md",
     "Alagaesia/The Book/The Book.md",

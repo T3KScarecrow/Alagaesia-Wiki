@@ -84,3 +84,5 @@ Natalie chuckled to herself, and made her way back to the party's booth. On her 
 "Orders are in. Heh, I think Aaron got the hiccups." Natalie relayed to the booth.
 "Curious. We were just discussing the matter of supplies." Gabriel said, nodding to Lyric.
 "Ur - yes. The MoAH has paid for a carriage, well, it's more of a wagon, and a single horse. I presume you all have your own packs or such..? If not, there is a little wiggle room in the MoAH's budget for everyone to buy some extra supplies tomorrow before we set out." Lyric explained, giving questioning looks to the booth.
+"I'm all set, I believe." Natalie confirmed.
+"As am I." Gabriel nodded.

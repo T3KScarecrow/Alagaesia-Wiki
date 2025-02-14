@@ -53,7 +53,7 @@ Natalie leaned back in her seat, slouching slightly, crossing her arms. She seem
 Aaron returned to the booth, this time with a large bottle of expensive wine. It not so much popped the cork off as pulled it off with its metal hand, and took a large swig.
 "Much better."
 "You can drink?" Gabriel asked.
-"Yes. I don't need to though, if that was your next question. I drink when I want, and I want often. It makes my....me tingle." Aaron explained, a hint a snideness to his words. Previously hidden from the brightness of the direct midday sun, Gabriel could now see lines of blue magical energy flow between the "plates" of Aaron's armour-skin, serving to split the sections up. The energy seemed to eb and flow, and after much focus, Gabriel could make out a pseudo heartbeat in the brightness of the magic. The magic sparkled slightly whenever Aaron took a swig.
+"Yes. I don't need to though, if that was your next question. Same with food. I drink when I want, and I want often. It makes my....me tingle." Aaron explained, a hint a snideness to his words. Previously hidden from the brightness of the direct midday sun, Gabriel could now see lines of blue magical energy flow between the "plates" of Aaron's armour-skin, serving to split the sections up. The energy seemed to eb and flow, and after much focus, Gabriel could make out a pseudo heartbeat in the brightness of the magic. The magic sparkled slightly whenever Aaron took a swig.
 "Ha! ' makes me tingle too!" Michael clapped a large hand on Aaron's back, and tried to take a swig of his own, though the bottle was pulled out of his reach.
 "You're not like any Automaton I've ever seen." Gabriel mused.
 "You're like every Elf I've seen." Gabriel brushed off the snide remark. Insults were not Vitalas' way.
@@ -86,3 +86,4 @@ Natalie chuckled to herself, and made her way back to the party's booth. On her 
 "Ur - yes. The MoAH has paid for a carriage, well, it's more of a wagon, and a single horse. I presume you all have your own packs or such..? If not, there is a little wiggle room in the MoAH's budget for everyone to buy some extra supplies tomorrow before we set out." Lyric explained, giving questioning looks to the booth.
 "I'm all set, I believe." Natalie confirmed.
 "As am I." Gabriel nodded.
+Eventually, the food came, and it was exquisite. Maybe it was in comparison to the recent meals the party had had over the past weeks, or maybe the best thing about the tavern was its kitchen. Either way, Natalie, Gabriel, Wiate, and Lyric all warfed 

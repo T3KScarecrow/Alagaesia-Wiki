@@ -60,7 +60,7 @@ Aaron returned to the booth, this time with a large bottle of expensive wine. It
 
 The conversation lead into evening, and the party grew hungry. Aaron was the first to act on this sensation, abruptly standing and heading to the bar. Michael followed, eager for a nice warm roast and a mead to wash it down. He would definitely make sure to fill up before they set off.
 "Would you like anything?" Natalie asked those who remained seated.
-Gabriel squinted to make out the various meals displayed on the large blackboard above the bar. "I'll take a a roast pork and salad, with a murky tea. Thanks."
+Gabriel squinted to make out the various meals displayed on the large blackboard above the bar. "I'll take a roast pork and salad, with a murky tea. Thanks."
 "Got it."
 "Um, - I'll take a chicken sandwich, and just water, thanks." Lyric requested. It seemed that Lyric had come here with a script, a certain amount of exposition he must have practiced reciting, and once he had run out of pre-planned responses, he was noticeably more meek.
 "I'll have what Gabriel's having." Said Wiate.
@@ -88,4 +88,4 @@ Natalie chuckled to herself, and made her way back to the party's booth. On her 
 "As am I." Gabriel nodded.
 Eventually, the food came, and it was exquisite. Maybe it was in comparison to the recent meals the party had had over the past weeks, or maybe the best thing about the tavern was its kitchen. Either way, Natalie, Gabriel, Wiate, and Lyric all wolfed down their meals and subsequent beverages. They would be quite energised for tomorrow, if in food comas for tonight. Michael ended up ordering his own roast duck, scarfing it down.
 
-Early the following morning, all at varying times, the party made their way downstairs to the main tavern area.
+Early the following morning, all at varying times, the party made their way downstairs to the main tavern area. Lyric showed Wiate the energising drink, the Scholar's Brew, which helped both wake up.

@@ -86,4 +86,6 @@ Natalie chuckled to herself, and made her way back to the party's booth. On her 
 "Ur - yes. The MoAH has paid for a carriage, well, it's more of a wagon, and a single horse. I presume you all have your own packs or such..? If not, there is a little wiggle room in the MoAH's budget for everyone to buy some extra supplies tomorrow before we set out." Lyric explained, giving questioning looks to the booth.
 "I'm all set, I believe." Natalie confirmed.
 "As am I." Gabriel nodded.
-Eventually, the food came, and it was exquisite. Maybe it was in comparison to the recent meals the party had had over the past weeks, or maybe the best thing about the tavern was its kitchen. Either way, Natalie, Gabriel, Wiate, and Lyric all warfed 
+Eventually, the food came, and it was exquisite. Maybe it was in comparison to the recent meals the party had had over the past weeks, or maybe the best thing about the tavern was its kitchen. Either way, Natalie, Gabriel, Wiate, and Lyric all wolfed down their meals and subsequent beverages. They would be quite energised for tomorrow, if in food comas for tonight. Michael ended up ordering his own roast duck, scarfing it down.
+
+Early the following morning, all at varying times, the party made their way downstairs to the main tavern area.

@@ -11,12 +11,14 @@
             "id": "55a1bedc3f4b93b4",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Alagaesia/D&D Shop Catalog, V-2.0.2-Refresh.pdf"
+                "file": "Concepts/Magic Items.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "D&D Shop Catalog, V-2.0.2-Refresh"
+              "icon": "lucide-file",
+              "title": "Magic Items"
             }
           }
         ]
@@ -247,9 +249,9 @@
   },
   "active": "55a1bedc3f4b93b4",
   "lastOpenFiles": [
+    "Alagaesia/D&D Shop Catalog, V-2.0.2-Refresh.pdf",
     "Alagaesia/Myths & Legends/Gods/Sylaereth - Goddess of Nature & Forests.md",
     "Alagaesia/Potions.md",
-    "Alagaesia/D&D Shop Catalog, V-2.0.2-Refresh.pdf",
     "Alagaesia/BetterMap(2).jpg",
     "Alagaesia/Worldmap1.png",
     "Alagaesia/Myths & Legends/Books/Terrors And Spooks that Might be True/The Whisperers.md",

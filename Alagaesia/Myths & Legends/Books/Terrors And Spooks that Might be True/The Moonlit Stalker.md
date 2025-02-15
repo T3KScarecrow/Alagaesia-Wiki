@@ -7,3 +7,5 @@ The Stalker’s form is nebulous in description: a wolf-like shadow as tall as a
 Legends warn against meeting the creature’s eyes, for those who do are said to become cursed, haunted by their silver glow even in the brightest day. Some claim that the Stalker doesn’t kill outright but leaves its victims alive to serve as eternal warnings, their minds fractured by endless visions of the moons above.
 
 Be it divine retribution or a campfire scare, the Moonlit Stalker’s tale is enough to keep most travellers within the safety of their camps on full-moon nights. Most.
+
+Calrean Adderman

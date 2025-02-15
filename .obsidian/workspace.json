@@ -11,12 +11,14 @@
             "id": "55a1bedc3f4b93b4",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Alagaesia/BetterMap(2).jpg"
+                "file": "Alagaesia/Potions.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "BetterMap(2)"
+              "icon": "lucide-file",
+              "title": "Potions"
             }
           }
         ]
@@ -247,6 +249,9 @@
   },
   "active": "55a1bedc3f4b93b4",
   "lastOpenFiles": [
+    "Alagaesia/D&D Shop Catalog, V-2.0.2-Refresh.pdf",
+    "Alagaesia/Potions.md",
+    "Alagaesia/BetterMap(2).jpg",
     "Alagaesia/Worldmap1.png",
     "Alagaesia/Myths & Legends/Books/Terrors And Spooks that Might be True/The Whisperers.md",
     "Alagaesia/Myths & Legends/Books/Terrors And Spooks that Might be True/The Moonlit Stalker.md",
@@ -272,13 +277,10 @@
     "Alagaesia/Myths & Legends/Gods/Nadruul.md",
     "Alagaesia/Myths & Legends/Gods/WIP/Sargonnas.md",
     "Alagaesia/Myths & Legends/Gods/WIP/Loki In The Making.md",
-    "Alagaesia/Myths & Legends/Gods/WIP/Kirivthal.md",
-    "Alagaesia/D&D Shop Catalog, V-2.0.2-Refresh.pdf",
     "Alagaesia/Dungeon Master's Guide.pdf",
     "Alagaesia/BetterMap.png",
     "Alagaesia/The Book",
     "Alagaesia/FixedMap1.jpg",
-    "Alagaesia/BetterMap(2).jpg",
     "Alagaesia/Factions/Minor Factions/Guilds",
     "Alagaesia/Myths & Legends/Poems",
     "Alagaesia/Myths & Legends/Books/Cryptids of the Forgotten Wilds",

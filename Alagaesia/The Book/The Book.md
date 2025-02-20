@@ -92,3 +92,5 @@ Early the following morning, all at varying times, the party made their way down
 "More."
 "What's that?" Wiate asked Aaron.
 "I want more liquor. For the road." Aaron grumbled with conviction, before abruptly rising from the booth and sidling his way up to the bar.
+"I doubt the 'tender will sell him any more." Gabriel mused.
+""

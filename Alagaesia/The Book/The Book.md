@@ -42,7 +42,8 @@ Natalie, Wiate, and Gabriel all sat in thinking silence, processing this informa
 
 Natalie leaned back in her seat, slouching slightly, crossing her arms. She seemed to mull it over. Finally, Wiate spoke.
 "The Wilds, you say? Will we go anyplace near Ironhenge?"
-"I can't say for certain, but it's possible." The Automaton got up from its seat.
+"I can't say for certain, but it's possible." 
+The Automaton got up from its seat.
 "I need a drink." Lyric began to respond, but Aaron walked away to the bar, not listening.
 "The MoAH has paid for a few beverages and meals before your first mission." Wiate eyed Aaron as it walked away, seemingly fascinated by the design and artistry of the marvellous machinations powering it.
 "And what is our first mission?" Gabriel queried.
@@ -93,4 +94,5 @@ Early the following morning, all at varying times, the party made their way down
 "What's that?" Wiate asked Aaron.
 "I want more liquor. For the road." Aaron grumbled with conviction, before abruptly rising from the booth and sidling his way up to the bar.
 "I doubt the 'tender will sell him any more." Gabriel mused.
-""
+"Probably for the best; we need our wits for the road." Natalie chimed. "Can we think of any last supplies we might need?"
+"I want a waterskin, and a "

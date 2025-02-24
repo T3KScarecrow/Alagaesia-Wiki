@@ -1,1 +1,1 @@
-He sat in the train, 
+He sat in the train, watching the flashing and flowing brushy landscape and vehicles as they sped past. Or did he speed past them? Across from him sat a girl. She kept checking her hair, even though it already sat fine. It flowed down her 

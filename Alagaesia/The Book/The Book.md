@@ -89,10 +89,13 @@ Natalie chuckled to herself, and made her way back to the party's booth. On her 
 "As am I." Gabriel nodded.
 Eventually, the food came, and it was exquisite. Maybe it was in comparison to the recent meals the party had had over the past weeks, or maybe the best thing about the tavern was its kitchen. Either way, Natalie, Gabriel, Wiate, and Lyric all wolfed down their meals and subsequent beverages. They would be quite energised for tomorrow, if in food comas for tonight. Michael ended up ordering his own roast duck, scarfing it down.
 
-Early the following morning, all at varying times, the party made their way downstairs to the main tavern area. Lyric showed Wiate the energising drink, the Scholar's Brew, which helped both wake up. Michael and Aaron emerged, eyes squinting against the harsh sober light. Natalie had just bathed after going for an invigorating early morning jog to keep her lungs fit and stamina high. And Gabriel made his way down after a finishing up a prayer to the Goddess Vitalas to bless the party's travels.
+Early the following morning, all at varying times, the party made their way downstairs to the main tavern area. Lyric showed Wiate the energising drink, the Scholar's Brew, which helped both wake up. Michael and Aaron emerged, eyes squinting against the harsh sober light. Natalie had just bathed after going for an invigorating early morning jog to keep her lungs fit and stamina high. ~~And Gabriel made his way down after a finishing up a prayer to the Goddess Vitalas to bless the party's travels~~.
 "More."
 "What's that?" Wiate asked Aaron.
 "I want more liquor. For the road." Aaron grumbled with conviction, before abruptly rising from the booth and sidling his way up to the bar.
 "I doubt the 'tender will sell him any more." Gabriel mused.
 "Probably for the best; we need our wits for the road." Natalie chimed. "Can we think of any last supplies we might need?"
-"I want a waterskin, and a "
+"I want a waterskin, and some rope. Definitely some rope. And more alcohol." Aaron declared as they sat back down at the booth, fresh tankard in hand.
+"Ok.. You'll want to head to Drellen's Wares for the rope and waterskin. I don't know a good place to by alcohol to not drink it on premises. Why, may I ask, do you want a waterskin?" Lyric informed and questioned.
+"Might come in handy. Never know."
+Lyric eyed Aaron suspiciously, pondering the things a grumpy artificial man could do with water.

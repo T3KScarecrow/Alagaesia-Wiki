@@ -62,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -288,10 +288,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "73bae2d8389f8551",
+  "active": "559b0e469319beee",
   "lastOpenFiles": [
-    "Something, I guess.md",
     "Alagaesia/The Book/The Book.md",
+    "Something, I guess.md",
     "E.md",
     "Alagaesia/Myths & Legends/Gods/WIP/Sargonnas.md",
     "Alagaesia/Myths & Legends/Gods/WIP/Loki In The Making.md",

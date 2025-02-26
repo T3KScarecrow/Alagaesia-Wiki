@@ -114,7 +114,7 @@ Lyric eyed Aaron suspiciously, pondering the things a grumpy artificial man coul
 ### Chapter 2: The Magic Shop With the Cat
 
 The party split up in groups, each in the direction of their own errands. Aaron strolled alone through the Guild District of Caelora City, taking in the many heretical displays of magic. None of these magic-wielding citizens worshipped the One True God for their powers, and thus should not dare display such outward blasphemy. One day, he'll show them the error of their ways. But not today. Today, he was looking for Drellen's Wares. After a tedious walk with much verticality, Aaron managed to find the small general goods store. The building itself was quite plain, yet well-maintained. A small weathered, wooden sign stretched out from it, displaying a sack of goods. A few crates and barrels were neatly stacked outside. Aaron scoffed to himself before entering. Inside, shelves overflowed with mundane supplies, from rope and lanterns to rations and parchment. Further into the store sat a wooden counter, cluttered with ledgers, quills, and a bell for service. If Aaron had a nose, he would have scrunched it at the faint smell of dried herbs and sawdust. *Pitiful little store.*
-Aaron walked around the shelves, grabbing himself a lantern, 50 feet of rope, and 
+Aaron walked around the shelves, grabbing himself a lantern, 50 feet of rope, and a deer-hide waterskin. Items collected, Aaron considered just leaving the establishment w
 
 1ft = 12in
 1in = 2.5cm

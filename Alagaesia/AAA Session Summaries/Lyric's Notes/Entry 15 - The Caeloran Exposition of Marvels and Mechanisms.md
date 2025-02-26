@@ -1,0 +1,1 @@
+Today was the first day of the Expo! I was so excited to see all the amazing gadgets and inventions on display. The party took a bit of convincing to attend it with me, but they did in the end. Well, except for Aaron.

@@ -118,9 +118,12 @@ Aaron walked around the shelves, grabbing himself a lantern, 50 feet of rope, an
 "Oh?! Helloo?" A surprised, exotic accented voice called out from a back room. From a door behind the counter, emerged a round-faced human with caramel skin. A pair of spectacles balanced precariously on the tip of his nose. Aaron noticed the man's hands were stained with ink.
 "Good morning! And who's delivery are you ere for?" The man, Drellen, Aaron supposed, spoke in an accent Aaron had never heard before.
 "I am no porter." Growled Aaron.
-"Ohh, my apologies my medal friend." Drellen looked at his hands before wiping them on a stained apron that Aaron could was originally white. Drellen held out a hand for Aaron to shake; which Aaron did not accept. Drellen rescinded his hand.
-"Whad would you like purchase from my store?" Aaron noticed Drellen's "t"'s sounded more like "d"'s, and he seemed to roll his "r"'s.
-"Just these." Aaron gestured to the items on the counter. 
+"Ohh, my apologies my medal friend." Drellen looked at his hands before wiping them on a stained apron that Aaron could was originally white. "Drellen Fairhollow." Drellen held out a hand for Aaron to shake; which Aaron did not accept. Drellen rescinded his hand.
+"Whad would you like purchase from my sdore?" Aaron noticed Drellen's "t"'s sounded more like "d"'s, and he seemed to roll his "r"'s.
+"Just these." Aaron gestured to the items on the counter. "And be quick."
+"Ok, ok, right away." Aaron watched as Drellen recorded the products and their sale on a clipboard.
+"Ok, five gold and eight silver." 
+"Here." Aaron tumbled the few pieces out of a coin pouch. Drellen eyed the coins with a look of increased intrigue. Aaron knew not why he found the coins so interesting, nor did he care. He scraped the items into his pack, and left the store. Aaron judged by the progress of the day that he still had some time before he had to meet up with the others. With this extra time, he chose to explore the 
 
 1ft = 12in
 1in = 2.5cm

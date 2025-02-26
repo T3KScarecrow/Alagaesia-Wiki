@@ -102,4 +102,15 @@ Lyric eyed Aaron suspiciously, pondering the things a grumpy artificial man coul
 "I think I'll go visit the Citadel of Light to put in one last prayer to Vitalas before we set off." Gabriel added after a short silence.
 "Yes, I think I'll join you. I've wanted to see the inside of the Citadel for a while now."  Wiate agreed.
 "I'll come too! Love me a church!" Michael interjected gleefully.
-"It's settled then; I shall inspect whatever manner of transporta"
+"It's settled then; I shall inspect whatever manner of transportation the MoAH has seen fit to give us. Lyric'll show me the way. Michael, Gabriel, and Wiate shall pray for our safe travels at the church of Vitalas. And Aaron will... buy a waterskin. We'll all meet up at the northern stables in two hours. Got it?" Natalie summarised.
+"Aye."
+"Yes."
+"Fine."
+"Sounds good."
+"Uh, ok."
+"Good."
+
+
+### Chapter 2: The Magic Shop With the Cat
+
+The party split up in groups, each in the direction of their own errands. Aaron strolled alone through the Guild District of Caelora City, taking in the many heretical displays of 

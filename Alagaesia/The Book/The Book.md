@@ -115,7 +115,12 @@ Lyric eyed Aaron suspiciously, pondering the things a grumpy artificial man coul
 
 The party split up in groups, each in the direction of their own errands. Aaron strolled alone through the Guild District of Caelora City, taking in the many heretical displays of magic. None of these magic-wielding citizens worshipped the One True God for their powers, and thus should not dare display such outward blasphemy. One day, he'll show them the error of their ways. But not today. Today, he was looking for Drellen's Wares. After a tedious walk with much verticality, Aaron managed to find the small general goods store. The building itself was quite plain, yet well-maintained. A small weathered, wooden sign stretched out from it, displaying a sack of goods. A few crates and barrels were neatly stacked outside. Aaron scoffed to himself before entering. Inside, shelves overflowed with mundane supplies, from rope and lanterns to rations and parchment. Further into the store sat a wooden counter, cluttered with ledgers, quills, and a bell for service. If Aaron had a nose, he would have scrunched it at the faint smell of dried herbs and sawdust. *Pitiful little store.*
 Aaron walked around the shelves, grabbing himself a lantern, 50 feet of rope, and a deer-hide waterskin. Items collected, Aaron considered just leaving the establishment without paying, whoever this "Drellen" was, he would deserve it for not worshipping Alaegor. Something decided better, deeper than thought, and Aaron strode up to the counter. He dropped the items down onto it, and then a little harder than supposed to, he rung the bell.
-"Oh?! Helloo?"
+"Oh?! Helloo?" A surprised, exotic accented voice called out from a back room. From a door behind the counter, emerged a round-faced human with caramel skin. A pair of spectacles balanced precariously on the tip of his nose. Aaron noticed the man's hands were stained with ink.
+"Good morning! And who's delivery are you ere for?" The man, Drellen, Aaron supposed, spoke in an accent Aaron had never heard before.
+"I am no porter." Growled Aaron.
+"Ohh, my apologies my medal friend." Drellen looked at his hands before wiping them on a stained apron that Aaron could was originally white. Drellen held out a hand for Aaron to shake; which Aaron did not accept. Drellen rescinded his hand.
+"Whad would you like purchase from my store?" Aaron noticed Drellen's "t"'s sounded more like "d"'s, and he seemed to roll his "r"'s.
+"Just these." Aaron gestured to the items on the counter. 
 
 1ft = 12in
 1in = 2.5cm

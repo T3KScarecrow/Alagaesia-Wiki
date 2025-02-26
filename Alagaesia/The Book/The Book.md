@@ -99,3 +99,7 @@ Early the following morning, all at varying times, the party made their way down
 "Ok.. You'll want to head to Drellen's Wares for the rope and waterskin. I don't know a good place to by alcohol to not drink it on premises. Why, may I ask, do you want a waterskin?" Lyric informed and questioned.
 "Might come in handy. Never know."
 Lyric eyed Aaron suspiciously, pondering the things a grumpy artificial man could do with water.
+"I think I'll go visit the Citadel of Light to put in one last prayer to Vitalas before we set off." Gabriel added after a short silence.
+"Yes, I think I'll join you. I've wanted to see the inside of the Citadel for a while now."  Wiate agreed.
+"I'll come too! Love me a church!" Michael interjected gleefully.
+"It's settled then; I shall inspect whatever manner of transporta"

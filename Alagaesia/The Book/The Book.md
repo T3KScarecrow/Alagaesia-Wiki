@@ -129,7 +129,7 @@ The party split up in groups, each in the direction of their own errands. Aaron 
 "Sorry?" Aaron stammered.
 "If yah don't know what yer here to buy, then why or yah here?" Spoke the woman with an almost annoyed assertiveness. Her accent had a gutturality to it, with some rolled consonants and mismatched vowels. Almost more something you would hear from depths of a Dwarf's beard than a Caeloran.
 "I-." Aaron backstepped. It was rare the occasion Aaron was on the backfoot in a conversation, and he was thrown. Annoyed at the situation he found himself in, Aaron resolved to leave the magic shop and head straight to the stables.
-"It was nice seeing yoo, Aaron." With gruff huff, Aaron exited the magic shop. Only once he had left the shop and walked half the distance to the stables had he realised the woman had known his name, despite Aaron never having told her.
+"It was nice seeing yoo, Aaron." With a gruff huff, Aaron exited the magic shop. Only once he had left the shop and walked half the distance to the stables had he realised the woman had known his name, despite Aaron never having told her. All of the Caelora City stables were **Something** establishments, having been some of the city's first real infrastructure. As such, they had an aged air to them, yet were kept in tip-top condition. Seems as they are the first travellers would see of the grand city, the City wanted to put there best foot forward.
 
 1ft = 12in
 1in = 2.5cm

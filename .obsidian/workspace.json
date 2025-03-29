@@ -195,8 +195,7 @@
                   "displayDayNumber": false,
                   "displayMoons": true
                 },
-                "id": "ID_9beb59b97a89",
-                "child": "ID_6899aa0a0889"
+                "id": "ID_9beb59b97a89"
               },
               "icon": "CALENDARIUM",
               "title": "Calendarium"
@@ -273,7 +272,6 @@
             "state": {
               "type": "CALENDARIUM_AGENDA",
               "state": {
-                "calendar": "ID_1a89c9f90a59",
                 "id": "ID_6899aa0a0889",
                 "parent": "ID_9beb59b97a89"
               },
@@ -298,8 +296,7 @@
       "command-palette:Open command palette": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "calendarium:Open Calendarium": false
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
   "active": "96f98d4919d8535c",

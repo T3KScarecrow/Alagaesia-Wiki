@@ -256,7 +256,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -275,7 +277,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       },
       {
         "id": "8516455b47638360",
@@ -293,6 +295,22 @@
               },
               "icon": "CALENDARIUM_AGENDA",
               "title": "Agenda"
+            }
+          }
+        ]
+      },
+      {
+        "id": "d461cfe43d9169ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa15fb6d025c6afb",
+            "type": "leaf",
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {},
+              "icon": "skull",
+              "title": "Combatant"
             }
           }
         ]
@@ -316,7 +334,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "35c8108a4911df74",
+  "active": "4710ecba089b9d99",
   "lastOpenFiles": [
     "Concepts/Magic Items.md",
     "Concepts/Ideas.md",

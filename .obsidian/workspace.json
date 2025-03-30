@@ -11,12 +11,14 @@
             "id": "55a1bedc3f4b93b4",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Alagaesia/D&D Shop Catalog, V-2.0.2-Refresh.pdf"
+                "file": "Concepts/Falshire.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "D&D Shop Catalog, V-2.0.2-Refresh"
+              "icon": "lucide-file",
+              "title": "Falshire"
             }
           },
           {
@@ -297,22 +299,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "d461cfe43d9169ed",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "aa15fb6d025c6afb",
-            "type": "leaf",
-            "state": {
-              "type": "fantasy-statblocks-creature-pane",
-              "state": {},
-              "icon": "skull",
-              "title": "Combatant"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
@@ -335,6 +321,7 @@
   },
   "active": "55a1bedc3f4b93b4",
   "lastOpenFiles": [
+    "Alagaesia/D&D Shop Catalog, V-2.0.2-Refresh.pdf",
     "Concepts/Falshire.md",
     "Concepts/Magic Items.md",
     "E.md",
@@ -357,11 +344,9 @@
     "Alagaesia/AAA Session Summaries/Lyric's Notes/Entry 15 - The Caeloran Exposition of Marvels and Mechanisms.md",
     "Alagaesia/AAA Session Summaries/Lyric's Notes/Entry 14 - The Week's Reflections.md",
     "Alagaesia/Battlefield Attacks.md",
-    "Alagaesia/D&D Shop Catalog, V-2.0.2-Refresh.pdf",
     "Concepts/Possible NPC's.md",
     "Alagaesia/Myths & Legends/Books/Celestial Myths & Divine Histories/The Tale of Khonshu and Nadruul.md",
     "Alagaesia/Myths & Legends/Books/Celestial Myths & Divine Histories/The Tale Of The Passing Of The Mantle.md",
-    "Alagaesia/Myths & Legends/Books/Celestial Myths & Divine Histories/The Tale of Vitalas and the Weeping River.md",
     "Alagaesia/BetterMap(2).jpg",
     "Alagaesia/Worldmap1.png",
     "Alagaesia/Dungeon Master's Guide.pdf",

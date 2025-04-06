@@ -16,6 +16,6 @@ Nat 12
 Old 13 
 Varc 20 
 Lyric 8      3
-Cal 18    24
+Cal 18    
 BEEPBOOP 22
 

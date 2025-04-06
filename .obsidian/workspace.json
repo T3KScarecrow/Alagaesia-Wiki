@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Alagaesia/Cities/Caeloran/Caelora.md",
+                "file": "Alagaesia/Factions/Intelligent Races.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Caelora"
+              "title": "Intelligent Races"
             }
           },
           {
@@ -319,8 +319,9 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "540d2d6182243844",
+  "active": "55a1bedc3f4b93b4",
   "lastOpenFiles": [
+    "Alagaesia/Cities/Caeloran/Caelora.md",
     "Alagaesia/Pointy Hat Stuff/City Building.md",
     "Alagaesia/Pointy Hat Stuff/Potions.md",
     "Concepts/Prophecies.md",
@@ -348,7 +349,6 @@
     "Alagaesia/AAA Session Summaries/Lyric's Notes/Entry 15 - The Caeloran Exposition of Marvels and Mechanisms.md",
     "Alagaesia/AAA Session Summaries/Lyric's Notes/Entry 14 - The Week's Reflections.md",
     "Alagaesia/Pointy Hat Stuff/Battlefield Attacks.md",
-    "Concepts/Possible NPC's.md",
     "Alagaesia/BetterMap(2).jpg",
     "Alagaesia/Worldmap1.png",
     "Alagaesia/Pointy Hat Stuff/Dungeon Master's Guide.pdf",

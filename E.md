@@ -1,6 +1,6 @@
 
 1. 63  4      1d6
-2.  58 10
+2.  37 10
 3.       12
 4. 86  6     1d6
 
@@ -16,4 +16,4 @@ Nat 12
 Varc 20 
 Lyric 8
 Cal 18
-	BEEPBOOP 22
+BEEPBOOP 22

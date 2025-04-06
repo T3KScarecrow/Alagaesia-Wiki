@@ -14,6 +14,6 @@ Tim  17
 Gabba  6
 Nat 12
 Varc 20 
-Lyric 8
+Lyric 8      3
 Cal 18
 BEEPBOOP 22

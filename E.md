@@ -1,6 +1,6 @@
 
 1. 63  4      1d6
-2.  37 10
+2.  9 10
 3.       12
 4. 86  6     1d6
 
@@ -15,5 +15,5 @@ Gabba  6
 Nat 12
 Varc 20 
 Lyric 8      3
-Cal 18
+Cal 18    24
 BEEPBOOP 22

@@ -196,11 +196,7 @@
               "state": {
                 "calendar": "ID_1a89c9f90a59",
                 "ephemeral": {
-                  "viewing": {
-                    "day": 1,
-                    "month": 3,
-                    "year": 1342
-                  },
+                  "viewing": null,
                   "viewState": 1,
                   "displaying": {
                     "day": 29,
@@ -210,8 +206,7 @@
                   "displayDayNumber": false,
                   "displayMoons": true
                 },
-                "id": "ID_9beb59b97a89",
-                "child": "ID_6899aa0a0889"
+                "id": "ID_9beb59b97a89"
               },
               "icon": "CALENDARIUM",
               "title": "Calendarium"
@@ -278,27 +273,7 @@
             }
           }
         ],
-        "currentTab": 6
-      },
-      {
-        "id": "8516455b47638360",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "2d63b1010b7882b4",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM_AGENDA",
-              "state": {
-                "calendar": "ID_1a89c9f90a59",
-                "id": "ID_6899aa0a0889",
-                "parent": "ID_9beb59b97a89"
-              },
-              "icon": "CALENDARIUM_AGENDA",
-              "title": "Agenda"
-            }
-          }
-        ]
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -319,7 +294,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "55a1bedc3f4b93b4",
+  "active": "540d2d6182243844",
   "lastOpenFiles": [
     "Alagaesia/Pointy Hat Stuff/City Building.md",
     "Alagaesia/Pointy Hat Stuff/Potions.md",

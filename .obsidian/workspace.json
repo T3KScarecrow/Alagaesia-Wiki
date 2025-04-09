@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -320,8 +320,9 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "35c8108a4911df74",
+  "active": "559b0e469319beee",
   "lastOpenFiles": [
+    "E.md",
     "Concepts/Prophecies.md",
     "Alagaesia/Important People/CLASSIFIED (SPOLIERS WITHIN)/Tim Bop'McGee's Missing 6 Months.md",
     "Alagaesia/Factions/Intelligent Races.md",
@@ -332,7 +333,6 @@
     "Concepts/Falshire.md",
     "Alagaesia/Pointy Hat Stuff/D&D Shop Catalog, V-2.0.2-Refresh.pdf",
     "Concepts/Magic Items.md",
-    "E.md",
     "Concepts/Ideas.md",
     "Welcome.md",
     "Something, I guess.md",

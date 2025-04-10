@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Alagaesia/Factions/Intelligent Races.md",
+                "file": "Alagaesia/Factions/Minor Factions/The Iron Vow Mercenary Company.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Intelligent Races"
+              "title": "The Iron Vow Mercenary Company"
             }
           },
           {
@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -124,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "magic items",
+                "query": "crimson",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -145,7 +145,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -320,12 +321,14 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "559b0e469319beee",
+  "active": "73bae2d8389f8551",
   "lastOpenFiles": [
+    "Alagaesia/Factions/Minor Factions/The Iron Vow Mercenary Company.md",
+    "Alagaesia/Factions/Intelligent Races.md",
     "E.md",
+    "Alagaesia/The Book/The Book.md",
     "Concepts/Prophecies.md",
     "Alagaesia/Important People/CLASSIFIED (SPOLIERS WITHIN)/Tim Bop'McGee's Missing 6 Months.md",
-    "Alagaesia/Factions/Intelligent Races.md",
     "Alagaesia/Cities/Caeloran/Caelora.md",
     "Alagaesia/Pointy Hat Stuff/City Building.md",
     "Alagaesia/Pointy Hat Stuff/Potions.md",
@@ -345,11 +348,9 @@
     "Alagaesia/The Book/Mah Notes (Optional).md",
     "Alagaesia/AAA Session Summaries/Lyric's Notes/Entry 17 - The Queer Goings-on of a Sky Voyage.md",
     "Alagaesia/AAA Session Summaries/Lyric's Notes/Entry 16 Percy Thaliarchus; The Attack, Dinner, and Flight.md",
-    "Alagaesia/The Book/The Book.md",
     "Alagaesia/AAA Session Summaries/Lyric's Notes/Entry 9 - The Museum, Lasscial, & a Familiar Face.md",
     "Alagaesia/AAA Session Summaries/Lyric's Notes/Entry 1 - An Unlikely Company.md",
     "Alagaesia/AAA Session Summaries/Lyric's Notes/Entry 15 - The Caeloran Exposition of Marvels and Mechanisms.md",
-    "Alagaesia/AAA Session Summaries/Lyric's Notes/Entry 14 - The Week's Reflections.md",
     "Alagaesia/BetterMap(2).jpg",
     "Alagaesia/Worldmap1.png",
     "Alagaesia/Pointy Hat Stuff/Dungeon Master's Guide.pdf",

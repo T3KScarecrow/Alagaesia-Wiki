@@ -18,3 +18,11 @@ Lyric 8      3
 Cal 18    
 BEEPBOOP 22
 
+
+
+dagger
+captain's underwear
+6 gp
+
+
+

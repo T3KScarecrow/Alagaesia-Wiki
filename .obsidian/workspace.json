@@ -11,12 +11,14 @@
             "id": "55a1bedc3f4b93b4",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Alagaesia/BetterMap(2).jpg"
+                "file": "Alagaesia/Factions/Minor Factions/The Iron Vow Mercenary Company.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "BetterMap(2)"
+              "icon": "lucide-file",
+              "title": "The Iron Vow Mercenary Company"
             }
           },
           {
@@ -319,6 +321,7 @@
   },
   "active": "55a1bedc3f4b93b4",
   "lastOpenFiles": [
+    "Alagaesia/BetterMap(2).jpg",
     "Alagaesia/BetterMap.png",
     "Alagaesia/Important People/PC Renown/Wiate.md",
     "Alagaesia/Factions/Minor Factions/The Iron Vow Mercenary Company.md",
@@ -347,7 +350,6 @@
     "Alagaesia/AAA Session Summaries/Lyric's Notes/Entry 17 - The Queer Goings-on of a Sky Voyage.md",
     "Alagaesia/AAA Session Summaries/Lyric's Notes/Entry 16 Percy Thaliarchus; The Attack, Dinner, and Flight.md",
     "Alagaesia/AAA Session Summaries/Lyric's Notes/Entry 9 - The Museum, Lasscial, & a Familiar Face.md",
-    "Alagaesia/BetterMap(2).jpg",
     "Alagaesia/Worldmap1.png",
     "Alagaesia/Pointy Hat Stuff/Dungeon Master's Guide.pdf",
     "Alagaesia/The Book",

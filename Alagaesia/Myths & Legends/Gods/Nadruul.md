@@ -1,5 +1,3 @@
-The god of undeath and false redemption is known as **Nadruul, the Decaying Promise**.
-
 ### Nadruul, the Decaying Promise
 
 Nadruul is the god of undeath, false redemption, and cursed immortality. Depicted as a towering figure cloaked in shadow and rot, they are said to have once been a powerful being who sought the secrets of eternal life. In their pursuit, Nadruul defied the natural order, breaking the sacred cycle of life and death. Now, they exist in a state of eternal decay, neither fully alive nor dead, and they offer this twisted version of immortality to their followers.
@@ -20,3 +18,6 @@ Those who seek out Nadruul are often the desperate: people on the brink of death
 While most see Nadruul as a cursed god, some of their followers consider themselves blessed, believing that their undying existence grants them a form of twisted enlightenment—a chance to witness centuries of history and wisdom, albeit in a form that slowly crumbles.
 
 Nadruul remains an unsettling figure in this world, offering the allure of immortality, but trapping their followers in an eternity of rot, where death would be a mercy.
+
+
+Made the Necronomicon

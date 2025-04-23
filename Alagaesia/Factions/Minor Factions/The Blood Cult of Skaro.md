@@ -27,4 +27,4 @@ The Blood Cult of Skaro remains a deadly threat, casting a long shadow over the 
 
 #### Necronomicon
 
-Original inspiration for the cult was a disgraced Forebearer sect. They found or made or were given the Necronomicon. The other Forebearers disgraced them and unbound the Necronomicon, scattering its pages across the lands. Separate, the pages have power but not ultimate; they need to be rebound. The Blood Cult has some pages, and some people of it have soul crystals to store their allotted amount for the rebinding ritual. Some bounty hunters have these for their more demonic clientele. Written in Black Speech
+Original inspiration for the cult was a disgraced Forebearer sect. They found or made or were given the Necronomicon. The other Forebearers disgraced them and unbound the Necronomicon, scattering its pages across the lands. Separate, the pages have power but not ultimate; they need to be rebound. The Blood Cult has some pages, and some people of it have soul crystals to store their allotted amount for the rebinding ritual. Some bounty hunters have these for their more demonic clientele. Written in Void Speech

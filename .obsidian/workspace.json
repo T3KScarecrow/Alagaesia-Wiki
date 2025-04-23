@@ -210,8 +210,7 @@
                   "displayDayNumber": false,
                   "displayMoons": true
                 },
-                "id": "ID_9beb59b97a89",
-                "child": "ID_2a48aa6b388a"
+                "id": "ID_9beb59b97a89"
               },
               "icon": "CALENDARIUM",
               "title": "Calendarium"
@@ -290,7 +289,6 @@
             "state": {
               "type": "CALENDARIUM_AGENDA",
               "state": {
-                "calendar": "ID_1a89c9f90a59",
                 "id": "ID_2a48aa6b388a",
                 "parent": "ID_9beb59b97a89"
               },

@@ -21,3 +21,10 @@ The cult's origins trace back to a forgotten age, whispered to have begun when a
 - **The Ritual of Living Rebirth**: A horrifying rite where a cultist channels power from the Necronomicon to resurrect a fallen comrade, binding their life force through blood. This act creates revenant-like thralls under the cult’s control.
 
 The Blood Cult of Skaro remains a deadly threat, casting a long shadow over the lands with their relentless pursuit of blood and forbidden power.
+
+
+
+
+#### Necronomicon
+
+Original 

@@ -4,4 +4,4 @@ She wears flowing robes identical to her sister's but in the deepest shades of b
 
 Mortalas does not bring death, nor does she take joy in it. She is a silent guide, a patient shepherd of souls. When the dying see her, they feel neither fear nor pain—only peace. Those who have suffered greatly in life find solace in her embrace, as she ensures they find their rightful place in the afterlife.
 
-Unlike other gods of death, Mortalis is largely forgotten. Many worship deities who rule death with an iron fist, wielding it as a weapon or a punishment. But Mortalis simply watches, ensuring that no soul is lost or abandoned. Her name is whispered only in mourning halls and by those who understand that death, though sorrowful, is also a necessary part of existence.
+Unlike other gods of death, Mortalas is largely forgotten. Many worship deities who rule death with an iron fist, wielding it as a weapon or a punishment. But Mortalas simply watches, ensuring that no soul is lost or abandoned. Her name is whispered only in mourning halls and by those who understand that death, though sorrowful, is also a necessary part of existence.

@@ -14,7 +14,7 @@ The ruling merchant-nobility of Ostholme cares little for Ashfell's oddities—a
 
 ## **The Schola Deos** 
 
-A **scholarly society** headquartered in a repurposed dwarven watchtower overlooking Mount Varram’s crater, the **Ember Eye** is a small but well-respected cabal of researchers, lorekeepers, and magical naturalists. Their stated mission:
+A **scholarly society** headquartered in a repurposed dwarven watchtower overlooking Mount Varram’s crater, the **Schola Deos** is a small but well-respected cabal of researchers, lorekeepers, and magical naturalists. Their stated mission:
 
 > “To observe the divine echoes left upon the mortal world—through stone, flame, and forgotten name.”
 

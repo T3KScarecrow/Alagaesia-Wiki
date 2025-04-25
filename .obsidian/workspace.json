@@ -67,14 +67,12 @@
             "id": "8771fc358895ba5a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Alagaesia/Cities/Ostholmian/Ashfell.md",
-                "mode": "source",
-                "source": false
+                "file": "Alagaesia/BetterMap(2).jpg"
               },
-              "icon": "lucide-file",
-              "title": "Ashfell"
+              "icon": "lucide-image",
+              "title": "BetterMap(2)"
             }
           },
           {
@@ -149,7 +147,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 381.5
+    "width": 214.5
   },
   "right": {
     "id": "07dca3d6a45e67d1",
@@ -303,7 +301,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 365.5
+    "width": 266.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -322,8 +320,9 @@
   },
   "active": "8771fc358895ba5a",
   "lastOpenFiles": [
-    "Alagaesia/Cities/Caeloran/Caelora.md",
+    "Alagaesia/Factions/Minor Factions/The Sanguis Skaro.md",
     "Alagaesia/Cities/Ostholmian/Ashfell.md",
+    "Alagaesia/Cities/Caeloran/Caelora.md",
     "Alagaesia/Factions/The Vulgomage/The Vulgomage.md",
     "Alagaesia/BetterMap(2).jpg",
     "Alagaesia/Worldmap1.png",
@@ -336,7 +335,6 @@
     "Alagaesia/Myths & Legends/Gods/Eryndra.md",
     "Alagaesia/Myths & Legends/Gods/Guntera.md",
     "Alagaesia/Myths & Legends/Gods/Issael - God of Familial Love & Unity.md",
-    "Alagaesia/Factions/Minor Factions/The Blood Cult of Skaro.md",
     "Alagaesia/Myths & Legends/Gods/Nadruul.md",
     "Alagaesia/Myths & Legends/Gods/Veylistra - Goddess of the Night Sky.md",
     "Alagaesia/Myths & Legends/Gods/Sylaereth - Goddess of Nature & Forests.md",

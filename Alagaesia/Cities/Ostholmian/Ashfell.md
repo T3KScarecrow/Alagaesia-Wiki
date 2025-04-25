@@ -6,13 +6,13 @@ Its proximity to the coast gives it a strange beauty: **blackened stone on one s
 
 ## **Brief History:**
 
-Originally built by dwarves as a **mining outpost**, Ashfell was abandoned after a series of tremors collapsed several deepmines. Human settlers later rediscovered it and, fascinated by the ore-rich terrain and geothermal power, reestablished the city. Over centuries, Ashfell became a **magnet for exiles, immigrants, and foreign scholars**, due in part to its tolerances and lucrative mineral trade.
+Originally built by dwarves as a **mining outpost**, Ashfell was abandoned after a series of tremors collapsed several deep mines. Human settlers later rediscovered it and, fascinated by the ore-rich terrain and geothermal power, re-established the city. Over centuries, Ashfell became a **magnet for exiles, immigrants, and foreign scholars**, due in part to its tolerances and lucrative mineral trade.
 
 The ruling merchant-nobility of Ostholme cares little for Ashfell's oddities—as long as it pays its taxes. Thus, the city’s **shadowy factions**, **obscure cults**, and **independent scholars** flourish behind closed doors and smoke-coloured windows.
 
 ---
 
-## **The Order of the Ember Eye** 
+## **The Order of the PeePeePooPoo 
 
 A **scholarly society** headquartered in a repurposed dwarven watchtower overlooking Mount Varram’s crater, the **Ember Eye** is a small but well-respected cabal of researchers, lorekeepers, and magical naturalists. Their stated mission:
 

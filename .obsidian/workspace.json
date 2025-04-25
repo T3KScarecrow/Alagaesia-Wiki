@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Alagaesia/Factions/The Vulgomage/The Vulgomage.md",
+                "file": "Alagaesia/Cities/Ostholmian/Ashfell.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Vulgomage"
+              "title": "Ashfell"
             }
           },
           {
@@ -322,6 +322,7 @@
   },
   "active": "8771fc358895ba5a",
   "lastOpenFiles": [
+    "Alagaesia/Factions/The Vulgomage/The Vulgomage.md",
     "Alagaesia/BetterMap(2).jpg",
     "Alagaesia/Worldmap1.png",
     "Alagaesia/Important People/Natalie Porter.md",

@@ -2,7 +2,7 @@ Caelora, the resplendent capital of [[The Vulgomage|the Vulgomage]] kingdom of t
 
 The **Algorna River** flows alongside the city, supplying fresh water and serving as a central trade route for merchant ships bearing exotic goods. Along the riverfront, Caelora’s **Sunken Gardens** are a famed meeting place, with terraces that dip down to touch the water and feature floating platforms where magicians perform dazzling feats of elemental magic.
 
-### **Important Locations
+### **Important Locations**
 
 #### The Spire of the Magisterium
 The tallest structure in Caelora, known as the **Spire of the Magisterium**, houses the council chambers of the Magisterium, the governing body of powerful mages who oversee Caelora and its territories. The Spire itself is a blend of polished marble and enchanted crystal, with observation decks from which citizens can observe shimmering illusions cast by the council as decrees are made public. Above, a magical beacon shines each evening, lighting the sky in Caelora’s official colours as a reminder of the kingdom's vigilance and might.

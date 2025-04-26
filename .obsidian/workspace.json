@@ -90,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +122,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "crimson",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -318,13 +318,13 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "c339463ee5d1a042",
+  "active": "333464d61203671c",
   "lastOpenFiles": [
+    "Alagaesia/BetterMap(2).jpg",
     "Concepts/Prophecies.md",
     "Concepts/Falshire.md",
     "Alagaesia/The Book/The Book.md",
     "Concepts/Magic Items.md",
-    "Alagaesia/BetterMap(2).jpg",
     "Alagaesia/Important People/Silas.md",
     "Alagaesia/BetterMap.png",
     "Alagaesia/Worldmap1.png",
@@ -348,7 +348,6 @@
     "Alagaesia/Myths & Legends/Gods/Paladine.md",
     "Alagaesia/Myths & Legends/Gods/Nyrex.md",
     "Alagaesia/Myths & Legends/Gods/Mortalas.md",
-    "Alagaesia/Myths & Legends/Gods/Mythrayne - God of Seasons & Balance.md",
     "Alagaesia/Pointy Hat Stuff",
     "Alagaesia/Pointy Hat Stuff/D&D Shop Catalog, V-2.0.2-Refresh.pdf",
     "Alagaesia/Pointy Hat Stuff/Dungeon Master's Guide.pdf",

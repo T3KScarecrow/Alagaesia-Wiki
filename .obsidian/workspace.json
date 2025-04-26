@@ -81,14 +81,12 @@
             "id": "c339463ee5d1a042",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Concepts/Prophecies.md",
-                "mode": "source",
-                "source": false
+                "file": "Alagaesia/BetterMap(2).jpg"
               },
-              "icon": "lucide-file",
-              "title": "Prophecies"
+              "icon": "lucide-image",
+              "title": "BetterMap(2)"
             }
           }
         ],
@@ -322,6 +320,8 @@
   },
   "active": "c339463ee5d1a042",
   "lastOpenFiles": [
+    "Concepts/Prophecies.md",
+    "Concepts/Falshire.md",
     "Alagaesia/The Book/The Book.md",
     "Concepts/Magic Items.md",
     "Alagaesia/BetterMap(2).jpg",
@@ -349,8 +349,6 @@
     "Alagaesia/Myths & Legends/Gods/Nyrex.md",
     "Alagaesia/Myths & Legends/Gods/Mortalas.md",
     "Alagaesia/Myths & Legends/Gods/Mythrayne - God of Seasons & Balance.md",
-    "Alagaesia/AAA Session Summaries/Lyric's Notes/Entry 16 Percy Thaliarchus; The Attack, Dinner, and Flight.md",
-    "Concepts/Prophecies.md",
     "Alagaesia/Pointy Hat Stuff",
     "Alagaesia/Pointy Hat Stuff/D&D Shop Catalog, V-2.0.2-Refresh.pdf",
     "Alagaesia/Pointy Hat Stuff/Dungeon Master's Guide.pdf",

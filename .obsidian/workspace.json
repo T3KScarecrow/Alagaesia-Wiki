@@ -67,12 +67,14 @@
             "id": "8771fc358895ba5a",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Alagaesia/BetterMap(2).jpg"
+                "file": "Concepts/Magic Items.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "BetterMap(2)"
+              "icon": "lucide-file",
+              "title": "Magic Items"
             }
           },
           {
@@ -90,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -318,10 +320,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "8771fc358895ba5a",
+  "active": "c339463ee5d1a042",
   "lastOpenFiles": [
-    "Alagaesia/Important People/Silas.md",
+    "Alagaesia/The Book/The Book.md",
+    "Concepts/Magic Items.md",
     "Alagaesia/BetterMap(2).jpg",
+    "Alagaesia/Important People/Silas.md",
     "Alagaesia/BetterMap.png",
     "Alagaesia/Worldmap1.png",
     "Alagaesia/Factions/Minor Factions/The Sanguis Skaro.md",
@@ -347,7 +351,6 @@
     "Alagaesia/Myths & Legends/Gods/Mythrayne - God of Seasons & Balance.md",
     "Alagaesia/AAA Session Summaries/Lyric's Notes/Entry 16 Percy Thaliarchus; The Attack, Dinner, and Flight.md",
     "Concepts/Prophecies.md",
-    "Alagaesia/Factions/Minor Factions/The Iron Vow Mercenary Company.md",
     "Alagaesia/Pointy Hat Stuff",
     "Alagaesia/Pointy Hat Stuff/D&D Shop Catalog, V-2.0.2-Refresh.pdf",
     "Alagaesia/Pointy Hat Stuff/Dungeon Master's Guide.pdf",

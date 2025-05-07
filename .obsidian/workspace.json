@@ -106,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 214.5
+    "width": 271.5
   },
   "right": {
     "id": "07dca3d6a45e67d1",
@@ -257,7 +257,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "540d2d6182243844",
+  "active": "55a1bedc3f4b93b4",
   "lastOpenFiles": [
     "Concepts/Prophecies.md",
     "Alagaesia/Pointy Hat Stuff/Potions.md",

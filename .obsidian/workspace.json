@@ -237,25 +237,6 @@
           }
         ],
         "currentTab": 3
-      },
-      {
-        "id": "8c35f197b1d0f18e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "efbc5b8f7b195233",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM_AGENDA",
-              "state": {
-                "id": "ID_2a48aa6b388a",
-                "parent": "ID_9beb59b97a89"
-              },
-              "icon": "CALENDARIUM_AGENDA",
-              "title": "Agenda"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
@@ -276,7 +257,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "55a1bedc3f4b93b4",
+  "active": "540d2d6182243844",
   "lastOpenFiles": [
     "Concepts/Prophecies.md",
     "Alagaesia/Pointy Hat Stuff/Potions.md",

@@ -49,7 +49,8 @@
               "title": "The Book"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -155,7 +156,7 @@
                 "calendar": "ID_1a89c9f90a59",
                 "ephemeral": {
                   "viewing": {
-                    "day": 3,
+                    "day": 7,
                     "month": 3,
                     "year": 1342
                   },
@@ -168,7 +169,8 @@
                   "displayDayNumber": false,
                   "displayMoons": true
                 },
-                "id": "ID_9beb59b97a89"
+                "id": "ID_9beb59b97a89",
+                "child": "ID_d8a90b7988fb"
               },
               "icon": "CALENDARIUM",
               "title": "Calendarium"
@@ -236,6 +238,26 @@
           }
         ],
         "currentTab": 3
+      },
+      {
+        "id": "1944e590b67a2d59",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "abac8ca8a9d78c8f",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM_AGENDA",
+              "state": {
+                "calendar": "ID_1a89c9f90a59",
+                "id": "ID_d8a90b7988fb",
+                "parent": "ID_9beb59b97a89"
+              },
+              "icon": "CALENDARIUM_AGENDA",
+              "title": "Agenda"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -256,17 +278,18 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "55a1bedc3f4b93b4",
+  "active": "559b0e469319beee",
   "lastOpenFiles": [
+    "Alagaesia/The Book/The Book Alternate Intro.md",
+    "Alagaesia/The Book/The Book.md",
+    "Concepts/Ideas.md",
     "Concepts/Prophecies.md",
     "Alagaesia/Pointy Hat Stuff/Potions.md",
-    "Concepts/Ideas.md",
     "Concepts/Falshire.md",
     "Alagaesia/Factions/Minor Factions/The Iron Vow Mercenary Company.md",
     "E.md",
     "Alagaesia/Factions/Minor Factions/The Sanguis Skaro.md",
     "Alagaesia/BetterMap(2).jpg",
-    "Alagaesia/The Book/The Book.md",
     "Concepts/Magic Items.md",
     "Alagaesia/Important People/Silas.md",
     "Alagaesia/BetterMap.png",
@@ -286,7 +309,6 @@
     "Alagaesia/Myths & Legends/Gods/Nadruul.md",
     "Alagaesia/Myths & Legends/Gods/Veylistra - Goddess of the Night Sky.md",
     "Alagaesia/Myths & Legends/Gods/Sylaereth - Goddess of Nature & Forests.md",
-    "Alagaesia/Myths & Legends/Gods/Pholtus.md",
     "Alagaesia/Pointy Hat Stuff",
     "Alagaesia/Pointy Hat Stuff/D&D Shop Catalog, V-2.0.2-Refresh.pdf",
     "Alagaesia/Pointy Hat Stuff/Dungeon Master's Guide.pdf",

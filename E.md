@@ -19,7 +19,7 @@ Cal 18
 BEEPBOOP 22
 
 
-
+26134.57
 dagger
 captain's underwear
 6 gp

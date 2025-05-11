@@ -21,3 +21,7 @@ In the days that followed, the people began to notice the change. The waters of 
 To this day, the river that Vitalas wept into is known as the Weeping River, and its waters are considered sacred by those who dwell near it. Pilgrims travel from all corners of the world to drink from its waters, hoping to find healing and comfort for their own pains, and it is said that, if one listens closely, they can hear the gentle whispers of Vitalas’s voice in the flow of the current. For though the goddess herself has returned to her celestial realm, her compassion still flows through the waters of that sacred river, a reminder of the boundless love and healing she offers to all who suffer.
 
 And so, Vitalas’s legacy lives on—not in the cure of every ailment, for even the goddess of healing could not end all suffering—but in the quiet, steady flow of compassion that can ease the heart, soothe the soul, and remind mortals that they are never truly alone.
+
+
+
+ Skjaldu David

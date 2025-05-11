@@ -39,12 +39,14 @@
             "id": "559b0e469319beee",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Alagaesia/Pointy Hat Stuff/D&D Shop Catalog, V-2.0.2-Refresh.pdf"
+                "file": "Alagaesia/Myths & Legends/Books/Draconic Myths and Shadowed Legends/The Nightglass Drake.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "D&D Shop Catalog, V-2.0.2-Refresh"
+              "icon": "lucide-file",
+              "title": "The Nightglass Drake"
             }
           }
         ],
@@ -278,6 +280,7 @@
   },
   "active": "559b0e469319beee",
   "lastOpenFiles": [
+    "Alagaesia/Pointy Hat Stuff/D&D Shop Catalog, V-2.0.2-Refresh.pdf",
     "Alagaesia/Myths & Legends/Books/Draconic Myths and Shadowed Legends/The Nightglass Drake.md",
     "Alagaesia/The Book/The Book.md",
     "Alagaesia/The Book/The Book Alternate Intro.md",
@@ -306,9 +309,7 @@
     "Alagaesia/Myths & Legends/Gods/Guntera.md",
     "Alagaesia/Myths & Legends/Gods/Issael - God of Familial Love & Unity.md",
     "Alagaesia/Myths & Legends/Gods/Nadruul.md",
-    "Alagaesia/Myths & Legends/Gods/Veylistra - Goddess of the Night Sky.md",
     "Alagaesia/Pointy Hat Stuff",
-    "Alagaesia/Pointy Hat Stuff/D&D Shop Catalog, V-2.0.2-Refresh.pdf",
     "Alagaesia/Pointy Hat Stuff/Dungeon Master's Guide.pdf",
     "Alagaesia/The Book",
     "Alagaesia/FixedMap1.jpg",

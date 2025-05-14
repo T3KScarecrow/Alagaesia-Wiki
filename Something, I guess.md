@@ -1,1 +1,9 @@
 He sat in the train, watching the flashing and flowing brushy landscape and vehicles as they sped past. Or did he speed past them? Across from him sat a girl. She kept checking her hair, even though it already sat fine. It flowed down her shoulders like an auburn waterfall. Her bracers did nothing to subtract from her beauty. He wanted to talk to her, ask her her name, her destination. Yet he did not. Could not? He continued his writing on his lap-top computer. Nothing important; just a first attempt at a novel. She answered a call. He heard her voice, and his heart fluttered. She was beautiful, right there, yet universes away on the seats across from him. Stops passed, until only a few feasible destinations remained for her; the inner city, or the very same university he was headed to. His stop came rather abruptly, and he rushed to pack his laptop away. His heart sank slightly when she did not too rise from her seat to accompany him at the door, that was, until she did. Together, they disembarked and headed for the stairs. Courage rallied, he asked if she too was headed to the university. She was. He asked what she was studying. She had not yet decided. She intended to join the military. The stairs came, and he hobbled up them, relying heavily on the handrail for support. She followed too far back for a conversation's continuance. At least he had spoken to her, no matter how short and shallow it was. He tapped on to his bus, and went on with his commute. 
+
+
+
+
+
+
+
+Who are you? Red tank top, pink combat boots to match your speaker. Tan cargo pants suggest with much else you care not for other's opinions. You interest me, despite your taste in music. Your glasses suggest intelligence not immediately obvious. You thoughtfully gaze out the window, the sun beautifully illuminating your face. But I won't talk to you. I'll tell myself if only you sat closer, but that's only a half-truth. Now I leave you, my station arrived. Goodbye.

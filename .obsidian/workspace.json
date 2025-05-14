@@ -25,12 +25,14 @@
             "id": "35c8108a4911df74",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Alagaesia/BetterMap(2).jpg"
+                "file": "Something, I guess.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "BetterMap(2)"
+              "icon": "lucide-file",
+              "title": "Something, I guess"
             }
           },
           {
@@ -278,6 +280,7 @@
   },
   "active": "35c8108a4911df74",
   "lastOpenFiles": [
+    "Alagaesia/BetterMap(2).jpg",
     "Alagaesia/Worldmap1.png",
     "Concepts/Ideas.md",
     "E.md",
@@ -291,7 +294,6 @@
     "Concepts/Falshire.md",
     "Alagaesia/Factions/Minor Factions/The Iron Vow Mercenary Company.md",
     "Alagaesia/Factions/Minor Factions/The Sanguis Skaro.md",
-    "Alagaesia/BetterMap(2).jpg",
     "Concepts/Magic Items.md",
     "Alagaesia/Important People/Silas.md",
     "Alagaesia/BetterMap.png",

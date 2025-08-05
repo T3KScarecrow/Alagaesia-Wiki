@@ -1,1 +1,2 @@
-Dwarves
+[[The Dwarves]]Dwarves
+[[The Stoners]]

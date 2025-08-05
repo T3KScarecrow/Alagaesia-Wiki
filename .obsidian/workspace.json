@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Alagaesia/Factions/The Enlightened/The Enlightened.md",
+                "file": "Ostholme.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Enlightened"
+              "title": "Ostholme"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ostholme",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -117,7 +117,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -292,8 +293,14 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "73b1c70bb86017fa",
+  "active": "e4ce7d2b577e004d",
   "lastOpenFiles": [
+    "Ostholme.md",
+    "Alagaesia/Cities/Dwarven/Haidenmaru.md",
+    "Alagaesia/Myths & Legends/Books/Terrors And Spooks that Might be True/The Hollow Wanderer.md",
+    "Alagaesia/Factions/The Enlightened/The Enlightened.md",
+    "Alagaesia/Factions/The Enlightened/The Holy Order of the Vanguard.md",
+    "Alagaesia/Factions/The Enlightened/The Inquisitorial Sanctum.md",
     "Alagaesia/Factions/The Mechinators/The Mechinators.md",
     "Alagaesia/Factions/Minor Factions/The Magisterium.md",
     "Alagaesia/Factions/Minor Factions/The Council Of Steelsong.md",
@@ -315,12 +322,6 @@
     "Alagaesia/Myths & Legends/Gods/Nyrex.md",
     "Alagaesia/Myths & Legends/Gods/Nadruul.md",
     "Alagaesia/Myths & Legends/Gods/Mortalas.md",
-    "Alagaesia/Myths & Legends/Gods/Lysandrel - God of Art & Grace.md",
-    "Alagaesia/Myths & Legends/Gods/Khonshu.md",
-    "Alagaesia/Factions/Minor Factions/The Knights of the Moon.md",
-    "Alagaesia/Myths & Legends/Gods/AAA The Gods, Explained.md",
-    "Alagaesia/Myths & Legends/Gods/Untitled.md",
-    "Alagaesia/Myths & Legends/Gods/Paladine.md",
     "Alagaesia/BetterMap(2).jpg",
     "Alagaesia/Worldmap1.png",
     "Alagaesia/Pointy Hat Stuff/D&D Shop Catalog, V-2.0.2-Refresh.pdf",

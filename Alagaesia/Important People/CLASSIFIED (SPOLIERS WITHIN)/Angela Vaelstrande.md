@@ -1,13 +1,13 @@
 ### **Angela Vaelstrande: Key Events and Contributions**
 
-1. **The Fall of the Forebearers**
-    - **Event:** Angela was present during the mysterious collapse of the Forebearer civilization. Though she couldn’t prevent their fall, she wandered their empty cities and documented their works. Her writings on the Forebearer artificers laid the foundation for the eventual rediscovery of their technologies by the Mechinators.
+1. **[[The Fall of the Forebearers]]**
+    - **Event:** Angela was present during the mysterious collapse of the [[The Forebearers|Forebearer]] civilization. Though she couldn’t prevent their fall, she wandered their empty cities and documented their works. Her writings on the [[The Forebearers|Forebearer]] artificers laid the foundation for the eventual rediscovery of their technologies by the [[The Mechinators|Mechinators]].
     - **Role:** Angela acted as a silent observer, piecing together fragments of their downfall but never revealing the truth to anyone, deeming it “too dangerous for mortal comprehension.”
 
 ---
 
 2. **The Founding of the Magisterium**
-    - **Event:** Centuries before the current era, Angela recognized the need for an institution to preserve magical knowledge and maintain order among powerful mages. She gathered like-minded individuals and established the Magisterium in Caelora.
+    - **Event:** Centuries before the current era, Angela recognized the need for an institution to preserve magical knowledge and maintain order among powerful mages. She gathered like-minded individuals and established the [[The Magisterium|Magisterium]] in [[Caelora]].
     - **Role:** Angela was its first leader, crafting the foundational texts and arcane wards that still protect the Magisterium to this day. However, she quickly grew bored of the bureaucratic nature of leadership and passed control to her successors, leaving to seek adventure.
 
 ---
@@ -19,19 +19,19 @@
 ---
 
 4. **The Great Enlightened Crusade (1171 EE)**
-    - **Event:** During The Enlightened’s most devastating crusade, Angela appeared in several besieged villages, offering cryptic warnings to those who would listen. She was rumoured to have subtly intervened in certain battles, saving key individuals whose survival altered the course of the war.
+    - **Event:** During [[The Enlightened|The Enlightened’s]] most devastating crusade, Angela appeared in several besieged villages, offering cryptic warnings to those who would listen. She was rumoured to have subtly intervened in certain battles, saving key individuals whose survival altered the course of the war.
     - **Role:** Angela’s influence in this event is shrouded in mystery. Though she avoided direct confrontation, her presence inspired resistance leaders and sowed confusion among the zealots.
 
 ---
 
 5. **The Founding of Ellesmera**
-    - **Event:** After the elves retreated to Du Weldenvarden, Angela visited the burgeoning elven city of Ellesmera. She collaborated with its founders, advising on the enchantments that would protect it for millennia.
-    - **Role:** While Angela played no long-term role in elven society, her brief time in Ellesmera is remembered in elven lore. Her contributions to the city's warding magic are considered masterpieces of arcane craftsmanship.
+    - **Event:** After the [[The Elves|elves]] retreated to Du Weldenvarden, Angela visited the burgeoning elven city of [[Ellesmera]]. She collaborated with its founders, advising on the enchantments that would protect it for millennia.
+    - **Role:** While Angela played no long-term role in elven society, her brief time in [[Ellesmera]] is remembered in elven lore. Her contributions to the city's warding magic are considered masterpieces of arcane craftsmanship.
 
 ---
 
 6. **The Binding of Skaro**
-    - **Event:** Long before the Blood Cult of Skaro emerged, Angela participated in sealing away the cursed artifact they now worship, the **Necronomicon**. She worked alongside a coalition of clerics and mages to imprison the book in an arcane vault deep beneath the earth.
+    - **Event:** Long before the [[The Sanguis Skaro|Sanguis Skaro]] emerged, Angela participated in sealing away the cursed artifact they now worship, the **Necronomicon**. She worked alongside a coalition of clerics and mages to imprison the book in an arcane vault deep beneath the earth.
     - **Role:** Angela’s knowledge of forbidden magics was instrumental in creating the seals. She later expressed regret, sensing that the artifact’s influence might one day resurface.
 
 ---

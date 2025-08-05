@@ -20,4 +20,4 @@ While most see Nadruul as a cursed god, some of their followers consider themsel
 Nadruul remains an unsettling figure in this world, offering the allure of immortality, but trapping their followers in an eternity of rot, where death would be a mercy.
 
 
-Made the Necronomicon
+Made the [[The Sanguis Skaro|Necronomicon]]

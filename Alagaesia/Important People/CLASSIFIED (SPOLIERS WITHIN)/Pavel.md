@@ -1,1 +1,1 @@
-Lacky of CLU
+Lacky of [[CLU]]

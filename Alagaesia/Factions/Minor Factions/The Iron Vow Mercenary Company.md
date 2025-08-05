@@ -17,7 +17,7 @@ While predominantly human, The Iron Vow is known for its diversity. They value s
 - **Kargoth One-Eye** – An orc Vowbearer who has earned his place in legend for his berserk fury and unmatched strength in the heat of battle. Despite his fearsome reputation, Kargoth is known for mentoring new recruits.
 
 ### **History and Reputation:**
-The Iron Vow was founded over 300 years ago by mercenaries seeking more than coin—they swore oaths to defend one another and uphold a code of loyalty and efficacy. This code transformed them from a band of sellswords into an esteemed company whose services were sought by kings and warlords alike. Their origin traces back to Caelora, where they were hired by various noble houses to settle disputes. Over time, their operations expanded to border skirmishes, sieges, and even monster-hunting for cities besieged by aberrant threats.
+The Iron Vow was founded over 300 years ago by mercenaries seeking more than coin—they swore oaths to defend one another and uphold a code of loyalty and efficacy. This code transformed them from a band of sellswords into an esteemed company whose services were sought by kings and warlords alike. Their origin traces back to Caelora, where they were hired by various noble houses to settle disputes. Over time, their operations expanded to border skirmishes, sieges, and even monster-hunting for cities besieged by aberrant threats. The Iron Vow is one of the [[Adventurers Guild|Adventurers' Guild's]] longest serving companies.
 
 Despite their fame, The Iron Vow maintains a strict rule against engaging in wanton slaughter or serving causes that bring undue harm to innocents. This moral code has earned them both admiration and enemies, particularly from factions who view them as obstacles.
 

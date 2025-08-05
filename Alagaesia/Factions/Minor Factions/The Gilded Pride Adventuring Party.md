@@ -13,7 +13,7 @@ The gold lion represents not only their courage and regal bearing but also their
     Elara's voice is said to bring both inspiration and dread, depending on which side of her song you stand. With a lute always at her side and a sharp rapier in hand, she bolsters her party's morale while striking down foes with finesse. Her tales of heroism have spread across taverns in [[The Vulgomage|Caelora]], making her songs synonymous with the party's triumphs.
     
 3. **Thrain Stoneforge** – _Dwarf Fighter (Battle Master)_  
-    Thrain is the party's tactical genius and master of weapons. His heritage as a former blacksmith from Ironhenge shows in his carefully crafted weapons and armor. Stern and pragmatic, Thrain holds a deep respect for tradition and is the quiet, unyielding pillar of the group.
+    Thrain is the party's tactical genius and master of weapons. His heritage as a former blacksmith from Ironhenge shows in his carefully crafted weapons and armour. Stern and pragmatic, Thrain holds a deep respect for tradition and is the quiet, unyielding pillar of the group.
     
 4. **Seraphina the Emberblade** – _Human Sorcerer (Draconic Bloodline)_  
     A flame-haired woman with a mysterious lineage, Seraphina’s draconic blood grants her a fearsome affinity for fire. Quick to ignite in battle and equally quick to smile when among friends, she is the group's arcane artillery, capable of unleashing devastating spells that can turn the tide of combat.

@@ -1,3 +1,3 @@
-I have never felt as sore—or as humiliated—as I do now. Aaron and Michael have taken it upon themselves to "train" me, as they call it. Each evening, they devise new ways to test my endurance, from swinging an axe at trees to lifting stones far beyond my capacity. They laugh at my struggles, but somewhere in their mockery, I sense a strange camaraderie forming.
+I have never felt as sore—or as humiliated—as I do now. [[AR-8125   -   Aaron|Aaron]] and [[Alagaesia/Important People/Michael|Michael]] have taken it upon themselves to "train" me, as they call it. Each evening, they devise new ways to test my endurance, from swinging an axe at trees to lifting stones far beyond my capacity. They laugh at my struggles, but somewhere in their mockery, I sense a strange camaraderie forming.
 
 Yet, I cannot ignore their words. My shortcomings in the dungeon were glaring. I must improve, if not for myself, then for the safety of my companions.

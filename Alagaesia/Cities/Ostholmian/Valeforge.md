@@ -12,8 +12,8 @@ The city is also known for its artisans who create intricate metalwork infused w
 
 ### History and Notable Events:
 
-Valeforge's origins trace back to the early days of Ostholme, where it served as a small settlement fortified against raids and natural threats. As Ostholme grew into a kingdom, Valeforge developed into its heart, its strategic location pivotal in both defense and trade. One of the most storied events in its history is the Siege of Valeforge, where the city withstood an onslaught of combined forces from rival territories, thanks to the ingenuity of its engineers and the relentless spirit of its defenders.
+Valeforge's origins trace back to the early days of [[The Vulgomage|Ostholme]], where it served as a small settlement fortified against raids and natural threats. As [[The Vulgomage|Ostholme]] grew into a kingdom, Valeforge developed into its heart, its strategic location pivotal in both defense and trade. One of the most storied events in its history is the Siege of Valeforge, where the city withstood an onslaught of combined forces from rival territories, thanks to the ingenuity of its engineers and the relentless spirit of its defenders.
 
-Legends tell of hidden vaults below the city, remnants of Forebearer craftsmanship, which hold secrets that contribute to the city’s unmatched quality of blacksmithing and innovation.
+Legends tell of hidden vaults below the city, remnants of [[The Forebearers|Forebearer]] craftsmanship, which hold secrets that contribute to the city’s unmatched quality of blacksmithing and innovation.
 
 4o

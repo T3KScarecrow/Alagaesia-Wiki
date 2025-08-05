@@ -1,4 +1,4 @@
-The **Blood Cult of Skaro** is a sinister and secretive faction shrouded in dread. This cult, known for its fanatical devotion to dark and forbidden knowledge, operates in the shadows, evoking fear among even the bravest denizens of Caelora and beyond. Their reach extends into the hidden corners of civilization, where they practice their rites and commit atrocities in service to their revered object, the **Necronomicon**.
+The **Blood Cult of Skaro** is a sinister and secretive faction shrouded in dread. This cult, known for its fanatical devotion to dark and forbidden knowledge, operates in the shadows, evoking fear among even the bravest denizens of [[The Vulgomage|Caelora]] and beyond. Their reach extends into the hidden corners of civilization, where they practice their rites and commit atrocities in service to their revered object, the **Necronomicon**.
 
 ### Structure and Hierarchy:
 - **The Grand Hierophant**: The leader of the Blood Cult of Skaro, often a powerful spellcaster such as a lich or a vampire. They are the guardian of the Necronomicon and dictate the cult's goals and rituals. The current Grand Hierophant is a mysterious figure named **Malachar the Sanguine**, whose origins are obscured by layers of deceit and myth.
@@ -12,7 +12,7 @@ The **Blood Cult of Skaro** is a sinister and secretive faction shrouded in drea
 - **Norrick Bleakfist**: A formidable Bloodhand, a former knight turned cultist whose armour is infused with runes that enhance blood magic. He acts as the cult's primary war commander.
 
 ### History:
-The cult's origins trace back to a forgotten age, whispered to have begun when a cursed scholar discovered the **Necronomicon** in the ruins of a Forebearer city. This tome, said to hold the secrets of death, resurrection, and blood manipulation, drove the cult to practice unspeakable rites to unlock its power. Throughout history, the Blood Cult of Skaro has committed atrocities to spread their influence, sowing terror in the pursuit of their ultimate goal: awakening an ancient being from the void hinted at in the Necronomicon.
+The cult's origins trace back to a forgotten age, whispered to have begun when a cursed scholar discovered the **Necronomicon** in the ruins of a [[The Forebearers|Forebearer]] city. This tome, said to hold the secrets of death, resurrection, and blood manipulation, drove the cult to practice unspeakable rites to unlock its power. Throughout history, the Blood Cult of Skaro has committed atrocities to spread their influence, sowing terror in the pursuit of their ultimate goal: awakening an ancient being from the void hinted at in the Necronomicon.
 
 ### Acts of Worship and Violence:
 - **Blood Sacraments**: The cult's primary ritual involves the draining of blood from willing or unwilling participants to empower dark spells, often using *ceremony* and *summon greater demon* as part of their rites.

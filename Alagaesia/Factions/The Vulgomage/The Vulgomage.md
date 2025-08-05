@@ -4,7 +4,7 @@ The Vulgomage are those of the majority populous who don't fit into any other fa
 
 #### 1. **[[Caelora]]** (The Central Kingdom)
 
-Located in the heart of the land, Caelora is the largest and most prominent Vulgomage kingdom. It was founded after the retreat of the elves and dwarves and has become the cultural and political centre of the Vulgomage. Known for its towering spires and grand libraries, Caelora is a place of learning, magic, and innovation, drawing from the remnants of Forebearer wisdom. The capital city, also called Caelora, is a sprawling metropolis that rises out of the fertile plains, fortified by natural and arcane defences. The ruling council of Caelora, known as the Magisterium, is a gathering of the most powerful mages in the land, each controlling a vast network of students and vassals.
+Located in the heart of the land, Caelora is the largest and most prominent Vulgomage kingdom. It was founded after the retreat of the elves and dwarves and has become the cultural and political centre of the Vulgomage. Known for its towering spires and grand libraries, Caelora is a place of learning, magic, and innovation, drawing from the remnants of [[The Forebearers|Forebearer]] wisdom. The capital city, also called [[Caelora]], is a sprawling metropolis that rises out of the fertile plains, fortified by natural and arcane defences. The ruling council of [[Caelora]], known as the [[ The Magisterium|Magisterium]], is a gathering of the most powerful mages in the land, each controlling a vast network of students and vassals.
 
 #### 2. **[[Thalassara]]** (The Northern Port Kingdom)
 

@@ -10,7 +10,7 @@ The gold lion represents not only their courage and regal bearing but also their
     Darius is the charismatic leader of the _Gilded Pride_, known for his golden-blond hair and gleaming suit of enchanted armour. He wields a longsword blessed by the priests of Vitalos, capable of striking down enemies with radiant force. His unwavering faith in justice and loyalty to his comrades has earned him a near-legendary status.
     
 2. **Elara Windwhisper** – _Half-Elf Bard (College of Valour)_  
-    Elara's voice is said to bring both inspiration and dread, depending on which side of her song you stand. With a lute always at her side and a sharp rapier in hand, she bolsters her party's morale while striking down foes with finesse. Her tales of heroism have spread across taverns in Caelora, making her songs synonymous with the party's triumphs.
+    Elara's voice is said to bring both inspiration and dread, depending on which side of her song you stand. With a lute always at her side and a sharp rapier in hand, she bolsters her party's morale while striking down foes with finesse. Her tales of heroism have spread across taverns in [[The Vulgomage|Caelora]], making her songs synonymous with the party's triumphs.
     
 3. **Thrain Stoneforge** – _Dwarf Fighter (Battle Master)_  
     Thrain is the party's tactical genius and master of weapons. His heritage as a former blacksmith from Ironhenge shows in his carefully crafted weapons and armor. Stern and pragmatic, Thrain holds a deep respect for tradition and is the quiet, unyielding pillar of the group.
@@ -24,7 +24,7 @@ The gold lion represents not only their courage and regal bearing but also their
 
 #### Notable Adventures
 
-The _Gilded Pride_ rose to fame after leading the defence during the _Siege of Ironfell_, where they repelled waves of marauders and beastly creatures threatening the city. They also played a pivotal role in uncovering the plots of the _Blood Cult of Skaro_, thwarting dark rituals and saving innocent lives from unspeakable fates. Their recent efforts have been directed toward the discovery of Forebearer ruins, putting them at odds with the shadowy machinations of the Mechinators.
+The _Gilded Pride_ rose to fame after leading the defence during the _Siege of Ironfell_, where they repelled waves of marauders and beastly creatures threatening the city. They also played a pivotal role in uncovering the plots of the _Blood Cult of Skaro_, thwarting dark rituals and saving innocent lives from unspeakable fates. Their recent efforts have been directed toward the discovery of [[The Forebearers|Forebearer]] ruins, putting them at odds with the shadowy machinations of the [[The Mechinators|Mechinators]].
 
 #### Group Dynamics
 

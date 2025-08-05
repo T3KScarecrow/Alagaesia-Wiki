@@ -4,4 +4,7 @@
 - [[The Lost Bastion of Azaranth]]
 - [[The Lyrium Dial]]
 - [[The Puzzle Golem]]
-- [[nyt]]
+- [[The Relic of Nythrien]]
+- [[The Shardspire Compass]]
+- [[The Singing Orbs of Aliveth]]
+- [[The Vesper Vaults]]

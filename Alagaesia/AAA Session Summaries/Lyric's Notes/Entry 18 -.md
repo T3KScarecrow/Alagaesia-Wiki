@@ -1,4 +1,4 @@
-Upon landing, we were met by an elf named Calraen Adderman, one of two adventurers who had arrived in Falshire before us and had been investigating the disappearances. He wasted no time in ushering us to the Blackthorn Inn, where he explained what he knew of the situation.
+Upon landing, we were met by an elf named Calraen Adderman, one of two adventurers who had arrived in [[Falshire]] before us and had been investigating the disappearances. He wasted no time in ushering us to the Blackthorn Inn, where he explained what he knew of the situation.
 
 The town is in a state of distress. Its people drink as much Scholar’s Brew as they can get their hands on, desperate to stave off sleep. This is no simple case of missing persons—there is something unnatural at work here, something that gnaws at the minds of the townsfolk and hunts them when they are most vulnerable.
 
@@ -10,7 +10,7 @@ Inside, we found a library. Scattered on a desk were frantic drawings of symbols
 
 Natalie pocketed it.
 
-Among the papers was an open book. A familiar one. The very same _Terrors & Spooks That Might Just Be True_ that I own, opened to the entry on creatures called "The Whisperers".
+Among the papers was an open book. A familiar one. The very same _[[Terrors & Spooks That Might Just Be True]]_ that I own, opened to the entry on creatures called "The Whisperers".
 
 This is no coincidence.
 I will have to read up on that entry in my own copy, when I get the chance.

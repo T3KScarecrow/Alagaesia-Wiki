@@ -1,12 +1,11 @@
-- Human
-- Elves
+- [[The Humans|Human]]
+- [[The Elves|Elves]]
 - Centaurs
 - Drow
 - Dryiad
-- Dwarves
-- Dragonborn
+- [[The Dwarves|Dwarves]]
 - Triton
-- Forebearers
+- [[The Forebearers|Forebearers]]
 - Goblins
 - Teiflings
 - Orcs

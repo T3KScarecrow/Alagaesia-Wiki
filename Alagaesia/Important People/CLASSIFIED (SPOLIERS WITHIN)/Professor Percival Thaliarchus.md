@@ -45,7 +45,7 @@ The Professor is:
 ### **Notable Accomplishments and Goals**:  
 - **Inventor Extraordinaire**: His inventions include early prototypes of airships, water purification systems, and mechanical golems. 
 - **Discoverer of Lost Knowledge**: Percival has a knack for uncovering [[The Forebearers|Forebearer]] artifacts and deciphering their technology, which inspires his own creations.  
-- **Traveler of the World**: Over his centuries, he has wandered to nearly every corner of the known lands and even explored [[AAA The Forestfolk|Du Weldenvarden]], gaining the respect of the [[The Elves|elves]], [[The Dwarves|dwarves]], and even tritons.  
+- **Traveller of the World**: Over his centuries, he has wandered to nearly every corner of the known lands and even explored [[AAA The Forestfolk|Du Weldenvarden]], gaining the respect of the [[The Elves|elves]], [[The Dwarves|dwarves]], and even tritons.  
 
 ---
 
@@ -60,7 +60,6 @@ The Professor is:
 ### **Important Relationships**:  
 - **[[Alagaesia/Important People/Vesper|Vesper]] (the Elf Orphan from Du Weldenvarden)**: A former companion who joined him on a grand journey during one of his past lives. [[Alagaesia/Important People/Vesper|Vesper]] now keeps tabs on him, fascinated by his regenerations.  
 - **A Rival Artificer**: A Mechinator named **Lord Ferrius**, who sees Percival as both a nuisance and an unrecognized genius whose regenerative ability should be "harvested" for Mechinator experiments.  
-- **The Arcane Rail Team**: A group of talented engineers, artificers, and workers who are helping him bring his vision of a connected world to life.  
 
 ---
 
@@ -72,4 +71,3 @@ The Professor is:
 
 ---
 
-This character blends the whimsy and brilliance of The Doctor with a unique magical origin that ties deeply into your world’s lore. The Aeternal Prism serves as both a plot device and a source of mystery, giving you room to expand his story over time.

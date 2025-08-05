@@ -10,7 +10,7 @@ Inside, we found a library. Scattered on a desk were frantic drawings of symbols
 
 Natalie pocketed it.
 
-Among the papers was an open book. A familiar one. The very same _[[Terrors & Spooks That Might Just Be True]]_ that I own, opened to the entry on creatures called "The Whisperers".
+Among the papers was an open book. A familiar one. The very same _[[Terrors And Spooks That Might Just Be True Index|Terrors & Spooks That Might Just Be True]]_ that I own, opened to the entry on creatures called "[[The Whisperers]]".
 
 This is no coincidence.
 I will have to read up on that entry in my own copy, when I get the chance.

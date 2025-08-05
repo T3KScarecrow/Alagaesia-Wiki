@@ -1,6 +1,6 @@
-Ashfell clings to the **lower southeastern cliffs of Ostholme**, nestled at the base of **Mount Varram**, a dormant (though occasionally grumbling) volcano. The city is half-built into volcanic rock, its walls dark and streaked with iron and obsidian. Ashfell is prone to mild tremors and sulphur-scented winds, and at night the clouds glow faintly red from the deep thermal activity beneath the city.
+Ashfell clings to the **lower southeastern cliffs of [[The Vulgomage|Ostholme]]**, nestled at the base of **Mount Varram**, a dormant (though occasionally grumbling) volcano. The city is half-built into volcanic rock, its walls dark and streaked with iron and obsidian. Ashfell is prone to mild tremors and sulphur-scented winds, and at night the clouds glow faintly red from the deep thermal activity beneath the city.
 
-Its proximity to the coast gives it a strange beauty: **blackened stone on one side, ocean spray on the other**. Trade ships dock at ironclad piers, bringing foreign goods and even stranger ideas. The city has a reputation as a **haven for thinkers too unorthodox** for Caelora and too irreverent for Thalassara. It’s grimy, wealthy, curious—and **dangerously free**.
+Its proximity to the coast gives it a strange beauty: **blackened stone on one side, ocean spray on the other**. Trade ships dock at ironclad piers, bringing foreign goods and even stranger ideas. The city has a reputation as a **haven for thinkers too unorthodox** for Caelora and too irreverent for [[The Vulgomage|Thalassara]]. It’s grimy, wealthy, curious—and **dangerously free**.
 
 ---
 

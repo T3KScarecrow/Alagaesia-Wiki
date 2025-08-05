@@ -1,1 +1,1 @@
-Vulgomage
+[[The Vulgomage|The Vulgomage]]

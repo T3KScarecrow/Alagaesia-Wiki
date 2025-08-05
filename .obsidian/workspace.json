@@ -53,10 +53,14 @@
             "id": "73b1c70bb86017fa",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Alagaesia/AAA Session Summaries/Lyric's Notes/Entry 4 - Trials of the Forebearers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Entry 4 - Trials of the Forebearers"
             }
           }
         ],
@@ -290,6 +294,10 @@
   },
   "active": "73b1c70bb86017fa",
   "lastOpenFiles": [
+    "Alagaesia/AAA Session Summaries/Lyric's Notes/Entry 3 - A Late Arrival and Goblins.md",
+    "Alagaesia/AAA Session Summaries/Lyric's Notes/Entry 2 - A Fiery Morning.md",
+    "Alagaesia/AAA Session Summaries/Lyric's Notes/Entry 1 - An Unlikely Company.md",
+    "Alagaesia/Important People/PC Renown/Aaron.md",
     "Alagaesia/Cities/Ruined/Aliveth.md",
     "Alagaesia/Timeline Of Events.md",
     "Alagaesia/Factions/Minor Factions/The Iron Vow Mercenary Company.md",
@@ -312,10 +320,6 @@
     "Alagaesia/Important People/CLASSIFIED (SPOLIERS WITHIN)/Professor Percival Thaliarchus.md",
     "Alagaesia/Myths & Legends/Gods/WIP/Habbakuk.md",
     "Alagaesia/Cities/Ruined/Rynshar.md",
-    "Alagaesia/Cities/Ruined/City Of Tears.md",
-    "Alagaesia/Myths & Legends/Books/Constructs and Curiosities, Artifice of the Ancients/The Relic of Nythrien.md",
-    "Alagaesia/Factions/Minor Factions/The Great Museum Of Arcane History.md",
-    "Alagaesia/History/Minor World Events/The Demise of Nythrien.md",
     "Untitled.canvas",
     "Alagaesia/BetterMap(2).jpg",
     "Alagaesia/Worldmap1.png",

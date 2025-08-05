@@ -1,14 +1,14 @@
 Ashfell clings to the **lower southeastern cliffs of [[The Vulgomage|Ostholme]]**, nestled at the base of **Mount Varram**, a dormant (though occasionally grumbling) volcano. The city is half-built into volcanic rock, its walls dark and streaked with iron and obsidian. Ashfell is prone to mild tremors and sulphur-scented winds, and at night the clouds glow faintly red from the deep thermal activity beneath the city.
 
-Its proximity to the coast gives it a strange beauty: **blackened stone on one side, ocean spray on the other**. Trade ships dock at ironclad piers, bringing foreign goods and even stranger ideas. The city has a reputation as a **haven for thinkers too unorthodox** for Caelora and too irreverent for [[The Vulgomage|Thalassara]]. It’s grimy, wealthy, curious—and **dangerously free**.
+Its proximity to the coast gives it a strange beauty: **blackened stone on one side, ocean spray on the other**. Trade ships dock at ironclad piers, bringing foreign goods and even stranger ideas. The city has a reputation as a **haven for thinkers too unorthodox** for [[The Vulgomage|Caelora]] and too irreverent for [[The Vulgomage|Thalassara]]. It’s grimy, wealthy, curious—and **dangerously free**.
 
 ---
 
 ## **Brief History:**
 
-Originally built by dwarves as a **mining outpost**, Ashfell was abandoned after a series of tremors collapsed several deep mines. Human settlers later rediscovered it and, fascinated by the ore-rich terrain and geothermal power, re-established the city. Over centuries, Ashfell became a **magnet for exiles, immigrants, and foreign scholars**, due in part to its tolerances and lucrative mineral trade.
+Originally built by dwarves as a **mining outpost**, Ashfell was abandoned after a series of tremors collapsed several deep mines. [[The Humans|Human]] settlers later rediscovered it and, fascinated by the ore-rich terrain and geothermal power, re-established the city. Over centuries, Ashfell became a **magnet for exiles, immigrants, and foreign scholars**, due in part to its tolerances and lucrative mineral trade.
 
-The ruling merchant-nobility of Ostholme cares little for Ashfell's oddities—as long as it pays its taxes. Thus, the city’s **shadowy factions**, **obscure cults**, and **independent scholars** flourish behind closed doors and smoke-coloured windows.
+The ruling merchant-nobility of [[The Vulgomage|Ostholme]] cares little for Ashfell's oddities—as long as it pays its taxes. Thus, the city’s **shadowy factions**, **obscure cults**, and **independent scholars** flourish behind closed doors and smoke-coloured windows.
 
 ---
 

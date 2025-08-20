@@ -130,6 +130,7 @@
       {
         "id": "fae5c4bd789f9279",
         "type": "tabs",
+        "dimension": 27.71317829457364,
         "children": [
           {
             "id": "f58cc1e222b21475",
@@ -256,6 +257,7 @@
       {
         "id": "1944e590b67a2d59",
         "type": "tabs",
+        "dimension": 19.379844961240313,
         "children": [
           {
             "id": "abac8ca8a9d78c8f",
@@ -272,10 +274,27 @@
             }
           }
         ]
+      },
+      {
+        "id": "e6f1edfdc262376a",
+        "type": "tabs",
+        "dimension": 52.90697674418605,
+        "children": [
+          {
+            "id": "e2cf8a870a57d60e",
+            "type": "leaf",
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {},
+              "icon": "skull",
+              "title": "Combatant"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 266.5
+    "width": 404.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -292,7 +311,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "73b1c70bb86017fa",
+  "active": "e2cf8a870a57d60e",
   "lastOpenFiles": [
     "Alagaesia/AAA Session Summaries/Lyric's Notes/Entry 18 -.md",
     "Alagaesia/Myths & Legends/Books/Draconic Myths and Shadowed Legends/The Nightglass Drake.md",

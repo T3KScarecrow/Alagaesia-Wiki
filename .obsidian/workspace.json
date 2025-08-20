@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ostholme",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -183,7 +183,8 @@
                   "displayDayNumber": false,
                   "displayMoons": true
                 },
-                "id": "ID_9beb59b97a89"
+                "id": "ID_9beb59b97a89",
+                "child": "ID_d8a90b7988fb"
               },
               "icon": "CALENDARIUM",
               "title": "Calendarium"
@@ -262,6 +263,7 @@
             "state": {
               "type": "CALENDARIUM_AGENDA",
               "state": {
+                "calendar": "ID_1a89c9f90a59",
                 "id": "ID_d8a90b7988fb",
                 "parent": "ID_9beb59b97a89"
               },
@@ -286,11 +288,16 @@
       "command-palette:Open command palette": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "73b1c70bb86017fa",
   "lastOpenFiles": [
+    "Alagaesia/Myths & Legends/Books/Draconic Myths and Shadowed Legends/The Nightglass Drake.md",
+    "Alagaesia/Factions/Minor Factions/The Gilded Pride Adventuring Party.md",
+    "Concepts/Ideas.md",
+    "Alagaesia/AAA Session Summaries/Lyric's Notes/Entry 18 -.md",
     "Alagaesia/AAA Session Summaries/Lyric's Notes/Entry 17 - The Queer Goings-on of a Sky Voyage.md",
     "Alagaesia/AAA Session Summaries/Lyric's Notes/Entry 16 Percy Thaliarchus; The Attack, Dinner, and Flight.md",
     "Alagaesia/AAA Session Summaries/Lyric's Notes/Entry 4 - Trials of the Forebearers.md",
@@ -313,10 +320,6 @@
     "Alagaesia/AAA Session Summaries/Lyric's Notes/Entry 12 - A Sacred Archive.md",
     "Alagaesia/AAA Session Summaries/Lyric's Notes/Entry 11 - The Goblin Incident.md",
     "Alagaesia/AAA Session Summaries/Lyric's Notes/Entry 10 - A Curious Proposition.md",
-    "Alagaesia/AAA Session Summaries/Lyric's Notes/Entry 9 - The Museum, Lasscial, & a Familiar Face.md",
-    "Alagaesia/AAA Session Summaries/Lyric's Notes/Entry 8 - Strength & Struggle.md",
-    "Alagaesia/AAA Session Summaries/Lyric's Notes/Entry 7 - The Crystal & Aaron's Vision.md",
-    "Alagaesia/AAA Session Summaries/Lyric's Notes/Entry 6 - Statues & Shadows.md",
     "Untitled.canvas",
     "Alagaesia/BetterMap(2).jpg",
     "Alagaesia/Worldmap1.png",

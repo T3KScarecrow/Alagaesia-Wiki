@@ -62,9 +62,21 @@
               "icon": "lucide-file",
               "title": "Intelligent Races"
             }
+          },
+          {
+            "id": "2f4d4eeac49c007b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.10"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -281,7 +293,7 @@
       {
         "id": "e6f1edfdc262376a",
         "type": "tabs",
-        "dimension": 52.90697674418605,
+        "dimension": 52.906976744186046,
         "children": [
           {
             "id": "e2cf8a870a57d60e",
@@ -301,6 +313,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -310,11 +323,11 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "calendarium:Open Calendarium": false,
-      "obsidian-5e-statblocks:Open Creature pane": false
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "73b1c70bb86017fa",
+  "active": "2f4d4eeac49c007b",
   "lastOpenFiles": [
     "Alagaesia/AAA Session Summaries/Lyric's Notes/Entry 18 -.md",
     "Alagaesia/Myths & Legends/Books/Draconic Myths and Shadowed Legends/The Nightglass Drake.md",

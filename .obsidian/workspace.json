@@ -170,14 +170,9 @@
               "state": {
                 "calendar": "ID_1a89c9f90a59",
                 "ephemeral": {
-                  "viewing": {
-                    "day": 9,
-                    "month": 3,
-                    "year": 1342
-                  },
                   "viewState": 1,
                   "displaying": {
-                    "day": 29,
+                    "day": 7,
                     "month": 3,
                     "year": 1342
                   },
@@ -298,7 +293,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "73b1c70bb86017fa",
+  "active": "540d2d6182243844",
   "lastOpenFiles": [
     "Concepts/Ideas.md",
     "Alagaesia/Factions/The Forebearers/CLASSIFIED (SPOILERS WITHIN)/Voltheryn.md",

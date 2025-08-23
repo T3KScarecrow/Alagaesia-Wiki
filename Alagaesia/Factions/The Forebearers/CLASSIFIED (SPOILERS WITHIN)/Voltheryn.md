@@ -103,7 +103,7 @@ Simple, practical applications. Mostly utility and light reinforcement.
 - **Plating Patch** – Repairs or temporarily bolsters a construct/warforged, restoring 1d8 HP.
     
 - **Arcane Conduit Ring** – Tiny circular band; grants advantage on one spellcasting ability check before crumbling.
-    
+
 
 ---
 
@@ -113,7 +113,7 @@ She learns the **runic patterns** that stabilize enchantments within the alloy.
 
 - **Resonant Core** – A small alloy disc that can hold 1st-level spell energy. Can be discharged later as a stored spell (like _Spell Storing Item_, but weaker).
     
-- **Alloy Armor Plating** – Grants +1 AC to light/medium armor pieces.
+- **Alloy armour Plating** – Grants +1 AC to light/medium armour pieces.
     
 - **Construct Upgrade** – A warforged or golem with this reinforcement gains advantage on one Strength check/save per rest.
     
@@ -145,7 +145,7 @@ This is “lost Forebearer magic” at its peak. Rare, story-defining.
     
 - **Aetherbound Weapon** – Weapon forged becomes a **+2 magical weapon**, permanently attuned to its wielder. Can accept multiple rune infusions.
     
-- **Self-Repairing Armor** – Armor slowly regenerates itself after damage. Once per day, can heal its wearer 2d10 HP.
+- **Self-Repairing armour** – armour slowly regenerates itself after damage. Once per day, can heal its wearer 2d10 HP.
     
 - **Runed Keystone** – A block of alloy that can anchor a ward or barrier permanently, functioning like a semi-permanent magical structure.
     
@@ -171,3 +171,70 @@ This is “lost Forebearer magic” at its peak. Rare, story-defining.
 - **Failure**: Alloy crumbles into inert slag (worthless).
     
 - **Critical Success**: Product gains an _extra resonance_ (e.g. bonus damage die, stronger effect, or longer duration).
+
+
+# ✦ Forebearer Rune Set
+
+_(Each rune requires 1 alloy unit + 1 Quicksilver drop to forge. A successful Arcana check inscribes it; failure wastes the materials.)_
+
+---
+
+## 🔥 Elemental Runes
+
+- **Rune of Flame** – Item crackles with heat. Weapon adds +1d4 fire damage; armour grants resistance to cold.
+    
+- **Rune of Frost** – Item gleams with icy patterns. Weapon adds +1d4 cold damage; armour grants resistance to fire.
+    
+- **Rune of Shock** – Engraved with jagged lines. Weapon adds +1d4 lightning damage; armour grants resistance to lightning.
+    
+- **Rune of Stone** – Item feels heavy and grounded. Weapon deals +1 damage and knocks target prone on crit; armour wearer can’t be forcibly moved while conscious.
+    
+
+---
+
+## 🛡️ Defensive Runes
+
+- **Rune of Warding** – Creates a faint shimmering aura. Grants +1 AC or advantage on one saving throw per long rest.
+    
+- **Rune of Null** – Dulls magic. Grants advantage on saving throws vs. spells once per long rest.
+    
+- **Rune of Vitality** – Pulses softly. Once per day, heals wearer for 1d8 HP when reduced below half HP.
+    
+- **Rune of Silence** – Suppresses resonance. Wearer/weapon cannot be magically detected (Nystul’s Magic Aura lite).
+    
+
+---
+
+## ⚡ Utility Runes
+
+- **Rune of Mindlink** – Creates a psychic bond. Allows telepathic communication with a bonded ally within 60 ft.
+    
+- **Rune of Recall** – Imbues memory. Once per day, returns a dropped/thrown weapon to wielder’s hand.
+    
+- **Rune of Gravity** – Warps pull. Weapon can pull a struck creature 5 ft closer; armour wearer takes no fall damage from heights under 30 ft.
+    
+- **Rune of Light** – Emits steady glow. Can shine as bright as a torch or dim to candlelight.
+    
+
+---
+
+## 🌀 Rare / Advanced Runes (discovered later)
+
+- **Rune of Aether** – Item partially phases into the ethereal plane. Weapon ignores non-magical resistance; armour wearer can step through solid barriers 1/day.
+    
+- **Rune of Time** – A broken hourglass shape. Once per long rest, grants advantage on initiative roll, or lets wielder reroll one failed check/save.
+    
+- **Rune of Dominion** – Rare. Weapon inscribed with this rune can force constructs to make a Wisdom save (DC = Lendra’s Arcana check) or obey one command.
+    
+- **Rune of Memory** – Stores knowledge. Can record up to 1 minute of sound/images, retrievable by touching the rune.
+    
+
+---
+
+# 🎲 Mechanics in Play
+
+- **Slots**: 1 rune per alloy piece (weapon head, armour plate, focus core, etc.).
+    
+- **Layering**: At higher tiers, Lendra learns to bind 2 runes to the same item (DC +5).
+    
+- **Rune Discovery**: She doesn’t start with all of these. They’re hidden in **Forebearer ruins, etched on walls, embedded in old constructs, or seen in visions**. Each discovery feels like unlocking forbidden tech.

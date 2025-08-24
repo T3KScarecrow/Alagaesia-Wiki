@@ -128,7 +128,7 @@
       {
         "id": "fae5c4bd789f9279",
         "type": "tabs",
-        "dimension": 58.8477366255144,
+        "dimension": 58.84773662551439,
         "children": [
           {
             "id": "f58cc1e222b21475",
@@ -168,6 +168,11 @@
               "state": {
                 "calendar": "ID_1a89c9f90a59",
                 "ephemeral": {
+                  "viewing": {
+                    "day": 7,
+                    "month": 3,
+                    "year": 1342
+                  },
                   "viewState": 1,
                   "displaying": {
                     "day": 7,

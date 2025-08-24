@@ -53,12 +53,14 @@
             "id": "73b1c70bb86017fa",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Alagaesia/BetterMap(2).jpg"
+                "file": "Alagaesia/Myths & Legends/Gods/Mortalas.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "BetterMap(2)"
+              "icon": "lucide-file",
+              "title": "Mortalas"
             }
           }
         ],
@@ -298,6 +300,8 @@
   },
   "active": "73b1c70bb86017fa",
   "lastOpenFiles": [
+    "Alagaesia/Myths & Legends/Gods/Vitalas.md",
+    "Alagaesia/BetterMap(2).jpg",
     "Alagaesia/Factions/The Forebearers/The Forebearers.md",
     "Alagaesia/Factions/The Forebearers/CLASSIFIED (SPOILERS WITHIN)/Voltheryn.md",
     "Concepts/Ideas.md",
@@ -323,9 +327,7 @@
     "Alagaesia/Myths & Legends/Books/Celestial Myths & Divine Histories/The Tale of Vitalas and the Weeping River.md",
     "Alagaesia/Myths & Legends/Books/Celestial Myths & Divine Histories/The Tale of Aelthion and Zatharion.md",
     "Alagaesia/Myths & Legends/Books/Celestial Myths & Divine Histories/The Celestial Forge.md",
-    "Alagaesia/Factions/The Enlightened/The Inquisitorial Sanctum.md",
     "Untitled.canvas",
-    "Alagaesia/BetterMap(2).jpg",
     "Alagaesia/Worldmap1.png",
     "Alagaesia/Pointy Hat Stuff/D&D Shop Catalog, V-2.0.2-Refresh.pdf",
     "Alagaesia/BetterMap.png",

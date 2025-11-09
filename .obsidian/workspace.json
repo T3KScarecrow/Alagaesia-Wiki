@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sargo",
+                "query": "pride",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -156,7 +156,8 @@
                   "displayDayNumber": false,
                   "displayMoons": true
                 },
-                "id": "ID_9beb59b97a89"
+                "id": "ID_9beb59b97a89",
+                "child": "ID_d8a90b7988fb"
               },
               "icon": "CALENDARIUM",
               "title": "Calendarium"
@@ -268,7 +269,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "55a1bedc3f4b93b4",
+  "active": "e4ce7d2b577e004d",
   "lastOpenFiles": [
     "Alagaesia/Myths & Legends/Gods/WIP/Sargonnas.md",
     "Concepts/Prophecies.md",

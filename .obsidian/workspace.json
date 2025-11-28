@@ -34,8 +34,21 @@
               "icon": "lucide-file",
               "title": "Sargonnas"
             }
+          },
+          {
+            "id": "956c57d53051891b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -156,8 +169,7 @@
                   "displayDayNumber": false,
                   "displayMoons": true
                 },
-                "id": "ID_9beb59b97a89",
-                "child": "ID_d8a90b7988fb"
+                "id": "ID_9beb59b97a89"
               },
               "icon": "CALENDARIUM",
               "title": "Calendarium"
@@ -265,11 +277,10 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "obsidian-5e-statblocks:Open Creature pane": false,
-      "calendarium:Open Calendarium": false
+      "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "e4ce7d2b577e004d",
+  "active": "956c57d53051891b",
   "lastOpenFiles": [
     "Alagaesia/Myths & Legends/Gods/WIP/Sargonnas.md",
     "Concepts/Prophecies.md",

@@ -39,12 +39,13 @@
             "id": "956c57d53051891b",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "bases",
               "state": {
-                "currentVersion": "1.9.14"
+                "file": "Untitled.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.14"
+              "icon": "lucide-table",
+              "title": "Untitled"
             }
           }
         ],
@@ -169,7 +170,8 @@
                   "displayDayNumber": false,
                   "displayMoons": true
                 },
-                "id": "ID_9beb59b97a89"
+                "id": "ID_9beb59b97a89",
+                "child": "ID_d8a90b7988fb"
               },
               "icon": "CALENDARIUM",
               "title": "Calendarium"
@@ -277,11 +279,13 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "obsidian-5e-statblocks:Open Creature pane": false
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "956c57d53051891b",
   "lastOpenFiles": [
+    "Untitled.base",
     "Alagaesia/Myths & Legends/Gods/WIP/Sargonnas.md",
     "Concepts/Prophecies.md",
     "Concepts/Magic Items.md",
@@ -308,7 +312,6 @@
     "Alagaesia/Myths & Legends/Books/Celestial Myths & Divine Histories/The Tale Of The Passing Of The Mantle.md",
     "Alagaesia/Myths & Legends/Books/Celestial Myths & Divine Histories/The Tale of Khonshu and Nadruul.md",
     "Alagaesia/Myths & Legends/Gods/Kadros - God of Songs of War and Battle.md",
-    "Alagaesia/Myths & Legends/Gods/Daromir.md",
     "Untitled.canvas",
     "Alagaesia/Worldmap1.png",
     "Alagaesia/Pointy Hat Stuff/D&D Shop Catalog, V-2.0.2-Refresh.pdf",

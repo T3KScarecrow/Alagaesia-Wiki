@@ -39,13 +39,14 @@
             "id": "956c57d53051891b",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.base",
-                "viewName": "Table"
+                "file": "Concepts/Ideas.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "Ideas"
             }
           }
         ],
@@ -81,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pride",
+                "query": "lyric",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,

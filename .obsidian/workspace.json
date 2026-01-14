@@ -117,7 +117,6 @@
       {
         "id": "fae5c4bd789f9279",
         "type": "tabs",
-        "dimension": 58.847736625514386,
         "children": [
           {
             "id": "f58cc1e222b21475",
@@ -147,34 +146,6 @@
               "state": {},
               "icon": "initiative-tracker",
               "title": "Initiative Tracker"
-            }
-          },
-          {
-            "id": "540d2d6182243844",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM",
-              "state": {
-                "calendar": "ID_1a89c9f90a59",
-                "ephemeral": {
-                  "viewing": {
-                    "day": 7,
-                    "month": 3,
-                    "year": 1342
-                  },
-                  "viewState": 1,
-                  "displaying": {
-                    "day": 7,
-                    "month": 3,
-                    "year": 1342
-                  },
-                  "displayDayNumber": false,
-                  "displayMoons": true
-                },
-                "id": "ID_9beb59b97a89"
-              },
-              "icon": "CALENDARIUM",
-              "title": "Calendarium"
             }
           },
           {
@@ -239,23 +210,52 @@
               "icon": "lucide-list",
               "title": "Outline of Intelligent Races"
             }
+          },
+          {
+            "id": "64fb71acf36153c5",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_1a89c9f90a59",
+                "ephemeral": {
+                  "viewing": {
+                    "day": 25,
+                    "month": 3,
+                    "year": 1342
+                  },
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 25,
+                    "month": 3,
+                    "year": 1342
+                  },
+                  "displayDayNumber": false,
+                  "displayMoons": true
+                },
+                "id": "ID_8afb09cbd879",
+                "child": "ID_5ae8db2969ba"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       },
       {
-        "id": "1944e590b67a2d59",
+        "id": "e600b0a893a770b1",
         "type": "tabs",
-        "dimension": 41.152263374485614,
         "children": [
           {
-            "id": "abac8ca8a9d78c8f",
+            "id": "c62ca030ec494c48",
             "type": "leaf",
             "state": {
               "type": "CALENDARIUM_AGENDA",
               "state": {
-                "id": "ID_d8a90b7988fb",
-                "parent": "ID_9beb59b97a89"
+                "calendar": "ID_1a89c9f90a59",
+                "id": "ID_5ae8db2969ba",
+                "parent": "ID_8afb09cbd879"
               },
               "icon": "CALENDARIUM_AGENDA",
               "title": "Agenda"
@@ -269,6 +269,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "calendarium:Open Calendarium": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -282,7 +283,7 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "956c57d53051891b",
+  "active": "64fb71acf36153c5",
   "lastOpenFiles": [
     "Untitled.base",
     "Alagaesia/Myths & Legends/Gods/WIP/Sargonnas.md",

@@ -48,6 +48,18 @@
               "icon": "lucide-file",
               "title": "Entry 9 - The Museum, Lasscial, & a Familiar Face"
             }
+          },
+          {
+            "id": "b72ae06f59a19ecd",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.4"
+            }
           }
         ],
         "currentTab": 2
@@ -218,6 +230,11 @@
               "state": {
                 "calendar": "ID_1a89c9f90a59",
                 "ephemeral": {
+                  "viewing": {
+                    "day": 25,
+                    "month": 3,
+                    "year": 1342
+                  },
                   "viewState": 1,
                   "displaying": {
                     "day": 25,
@@ -263,7 +280,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "calendarium:Open Calendarium": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -274,7 +290,8 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "obsidian-5e-statblocks:Open Creature pane": false
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "956c57d53051891b",

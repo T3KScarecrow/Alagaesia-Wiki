@@ -4,4 +4,4 @@ Later in life she went on to join the elite guard of Cogmind till she was unjust
 with nothing left but the fear for her life she set off into the world,
 To one day take mercenary work under an organisation called the M.O.A.H where she met her future friends and party members after repeated jobs put onto the party,
 till one day a silver letter appeared in her "messenger" bag which she knew was a trial summons from the machinators once the party had arrived at Cogmind
-upon arrival the party was shortly imprisoned to await Natalie's Trial which ultimately in her untimely demise.
+upon arrival the party was shortly imprisoned to await Natalie's Trial which ultimately ended in her untimely demise.
